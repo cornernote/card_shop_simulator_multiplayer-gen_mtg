@@ -37,8 +37,6 @@ The VDF points SteamCMD at the mod folder and the Workshop preview image:
 }
 ```
 
-Keep `previewfile` pointed at `workshop.jpg`. A previous upload failed with `ERROR! Failed to update workshop item (File Not Found)` when the VDF pointed at `preview.jpg`, which did not exist.
-
 ## Before Uploading
 
 1. Make sure the repo is committed and pushed.
