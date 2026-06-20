@@ -21,6 +21,10 @@ _uploader\steamcmd.exe
 _uploader\genmtg.vdf
 ```
 
+SteamCMD can be downloaded from:
+
+<https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip>
+
 The VDF points SteamCMD at the mod folder and the Workshop preview image:
 
 ```text
@@ -50,7 +54,7 @@ The VDF points SteamCMD at the mod folder and the Workshop preview image:
 Run this from PowerShell inside `_uploader`:
 
 ```powershell
-.\steamcmd.exe +login <steam_username> +workshop_build_item genmtg.vdf +quit
+.\steamcmd.exe +login <steam_username> <steam_password> +workshop_build_item genmtg.vdf +quit
 ```
 
 Steam Guard may ask for mobile confirmation. Confirm it in the Steam Mobile app, then wait for SteamCMD to finish uploading.
