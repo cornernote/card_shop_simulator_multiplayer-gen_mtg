@@ -23,6 +23,22 @@ The mod changes the visible [b]card name[/b], [b]description[/b], [b]artwork[/b]
 
 That means chase cards still behave like chase cards, event cards still come from their event sources, and the game still plays like [b]Card Shop Simulator Multiplayer[/b] - just with a lot more Magic on the cards.
 
+[h2]=== ELEMENTS AND MTG COLORS ===[/h2]
+
+Game elements are matched to MTG color identity and card flavor as a guide, not a strict rule. Iconic cards and special event matches can override the color map when they fit better.
+
+[list]
+[*][b]Fire[/b] - red cards, dragons, fire, and aggressive creatures.
+[*][b]Water[/b] - blue cards, sea creatures, Merfolk, whales, and serpents.
+[*][b]Grass[/b] - green cards, plants, beasts, forests, and growth.
+[*][b]Electric[/b] - red or blue lightning, energy, and fast creatures.
+[*][b]Animal[/b] - green or white animals, cats, dogs, bears, and horses.
+[*][b]Steel[/b] - artifacts, colorless creatures, and mechanical cards.
+[*][b]Dragon[/b] - dragons, drakes, wurms, and major red/green/black monsters.
+[*][b]Psychic[/b] - blue or white magic, illusions, angels, and mind-themed cards.
+[*][b]Mystic[/b] - black or blue spirits, horrors, demons, undead, and strange magic.
+[/list]
+
 [h2]=== MTG ERA ===[/h2]
 
 The card pool focuses on:
