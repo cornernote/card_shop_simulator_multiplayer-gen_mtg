@@ -15,6 +15,7 @@ IMAGE_DIR = ROOT / "images" / "cards"
 
 MAPPING_PATH = DOCS / "mapping-final.tsv"
 INVENTORY_PATH = DOCS / "current-card-inventory.tsv"
+FLAVOR_PATH = DOCS / "card-flavor.tsv"
 SCRYFALL_CACHE = DOCS / "scryfall-oldschool-premodern.json"
 MAIN_LUA_PATH = ROOT / "main.lua"
 PREVIEW_PATH = ROOT / "preview.png"
@@ -61,50 +62,147 @@ ELEMENT_ADJECTIVES = {
 }
 
 ELEMENT_FLAVOR = {
-    "Fire": "It carries old fire in its wake.",
-    "Water": "The tide bends quietly around it.",
-    "Grass": "Old roots answer when it stirs.",
-    "Electric": "A storm gathers behind its eyes.",
-    "Insect": "The swarm moves before the world notices.",
-    "Rock": "Stone remembers every step it takes.",
-    "Earth": "The ground steadies beneath its weight.",
-    "Animal": "Wild instinct guides every strike.",
-    "Steel": "Ancient metal hums with borrowed life.",
-    "Dragon": "Its shadow is older than kingdoms.",
-    "Psychic": "A thought becomes a weapon in its hands.",
-    "Mystic": "Dark omens follow in its silence.",
-    "Ice": "Winter lingers wherever it passes.",
+    "Fire": [
+        "It carries old fire in its wake.",
+        "A coal-bright heart waits for battle.",
+        "Heat shimmers where it stands.",
+        "The air tastes of smoke and warning.",
+    ],
+    "Water": [
+        "The tide bends quietly around it.",
+        "Deep currents answer its call.",
+        "It moves with the patience of water.",
+        "A blue shadow slips beneath the surface.",
+    ],
+    "Grass": [
+        "Old roots answer when it stirs.",
+        "Green strength gathers underfoot.",
+        "The forest leans closer to listen.",
+        "Life returns where it passes.",
+    ],
+    "Electric": [
+        "A storm gathers behind its eyes.",
+        "Lightning waits just under the skin.",
+        "The next spark already knows its target.",
+        "Thunder follows a half-step behind.",
+    ],
+    "Insect": [
+        "The swarm moves before the world notices.",
+        "Small wings hide a thousand hungers.",
+        "The chittering starts before the charge.",
+        "One body is only the beginning.",
+    ],
+    "Rock": [
+        "Stone remembers every step it takes.",
+        "The mountain moves, and the path changes.",
+        "Old weight gives it purpose.",
+        "Each footfall sounds like falling stone.",
+    ],
+    "Earth": [
+        "The ground steadies beneath its weight.",
+        "Dust rises like a battle standard.",
+        "The old road bends around it.",
+        "It carries the patience of buried things.",
+    ],
+    "Animal": [
+        "Wild instinct guides every strike.",
+        "It knows the trail before the hunt begins.",
+        "Claws, teeth, and timing decide the rest.",
+        "The wild answers in a low growl.",
+    ],
+    "Steel": [
+        "Ancient metal hums with borrowed life.",
+        "Old gears remember their purpose.",
+        "A forgotten machine wakes again.",
+        "Steel sings softly before it strikes.",
+    ],
+    "Dragon": [
+        "Its shadow is older than kingdoms.",
+        "The sky makes room when it rises.",
+        "Old flame gathers beneath ancient wings.",
+        "Its name sounds like a warning.",
+    ],
+    "Psychic": [
+        "A thought becomes a weapon in its hands.",
+        "The mind opens, and the world shifts.",
+        "Silence bends around unseen power.",
+        "A glance is enough to change the fight.",
+    ],
+    "Mystic": [
+        "Dark omens follow in its silence.",
+        "Old magic moves where it should not.",
+        "The shadow knows its name.",
+        "A cold whisper walks beside it.",
+    ],
+    "Ice": [
+        "Winter lingers wherever it passes.",
+        "Frost gathers around its quiet steps.",
+        "The air stills before the freeze.",
+        "A pale chill marks its path.",
+    ],
 }
 
 TYPE_FLAVOR_KEYWORDS = [
-    ("Dragon", "Old wings, hot breath, and a name that survives every age."),
+    ("Dragon", [
+        "Old wings, hot breath, and a name that survives every age.",
+        "The sky remembers the shape of its shadow.",
+        "Every scale carries a spark of legend.",
+    ]),
     ("Wurm", "The earth opens when hunger calls."),
     ("Drake", "A lesser dragon, still proud enough to scorch the sky."),
-    ("Angel", "A bright omen descending from impossible heights."),
+    ("Angel", [
+        "A bright omen descending from impossible heights.",
+        "Light gathers at the edge of its blade.",
+        "Hope arrives with wings and judgment.",
+    ]),
     ("Demon", "A bargain given claws and a smile."),
     ("Horror", "Something from the dark learned how to hunt."),
     ("Specter", "A whisper from the grave with hands of shadow."),
-    ("Spirit", "A restless echo wearing a shape for one more night."),
+    ("Spirit", [
+        "A restless echo wearing a shape for one more night.",
+        "The past returns with unfinished business.",
+        "A whisper takes form in the lantern light.",
+    ]),
     ("Zombie", "The grave forgot to keep this one."),
     ("Shade", "A knight of darkness, sharpened by moonless nights."),
     ("Vampire", "An old hunger dressed in noble colors."),
     ("Djinn", "Ancient power bound to a dangerous wish."),
     ("Efreet", "Smoke, pride, and flame given form."),
-    ("Elemental", "Raw magic walking on borrowed legs."),
+    ("Elemental", [
+        "Raw magic walking on borrowed legs.",
+        "The world's oldest forces choose a shape.",
+        "Power moves before thought can name it.",
+    ]),
     ("Phoenix", "Every ending only feeds the next flame."),
-    ("Beast", "Too wild to tame, too strong to ignore."),
+    ("Beast", [
+        "Too wild to tame, too strong to ignore.",
+        "The warning growl comes far too late.",
+        "Muscle and instinct settle the argument.",
+    ]),
     ("Cat", "Grace, claws, and perfect timing."),
     ("Dog", "Loyal teeth with a hunter's heart."),
     ("Hound", "It follows the scent of fear."),
-    ("Ape", "Old forest strength in a sudden charge."),
+    ("Ape", [
+        "Old forest strength in a sudden charge.",
+        "Heavy hands turn anger into motion.",
+        "The trees shake before it appears.",
+    ]),
     ("Monkey", "Quick hands, quicker trouble."),
     ("Bear", "The forest gives warning before it gives chase."),
     ("Horse", "Thunder follows its hooves."),
     ("Elephant", "A gentle giant until the charge begins."),
-    ("Bird", "A flash of wings over a changing battlefield."),
+    ("Bird", [
+        "A flash of wings over a changing battlefield.",
+        "It reads the wind before the fight begins.",
+        "A bright wing cuts across the sky.",
+    ]),
     ("Faerie", "Small wings, sharp tricks, no apologies."),
     ("Fish", "A bright shape moving under dark water."),
-    ("Merfolk", "A song from below the waves answers back."),
+    ("Merfolk", [
+        "A song from below the waves answers back.",
+        "The sea speaks through quick hands and sharper eyes.",
+        "A ripple becomes a warning.",
+    ]),
     ("Whale", "A living island beneath the surface."),
     ("Snake", "A silent coil of hunger and patience."),
     ("Serpent", "The deep coils around an ancient hunger."),
@@ -113,7 +211,11 @@ TYPE_FLAVOR_KEYWORDS = [
     ("Jellyfish", "Soft light drifting toward a hidden sting."),
     ("Kraken", "The sea keeps its largest secret for last."),
     ("Leviathan", "A continent of muscle beneath the waves."),
-    ("Insect", "Tiny wings, endless numbers."),
+    ("Insect", [
+        "Tiny wings, endless numbers.",
+        "The swarm's patience is almost beautiful.",
+        "One chitter becomes a thousand.",
+    ]),
     ("Spider", "Every path becomes part of the web."),
     ("Scorpion", "It waits with poison and patience."),
     ("Plant", "Green life with a will of its own."),
@@ -127,7 +229,12 @@ TYPE_FLAVOR_KEYWORDS = [
     ("Thopter", "A blade-winged relic of old machinery."),
     ("Assassin", "One quiet step is all it needs."),
     ("Knight", "An old oath wrapped in steel."),
-    ("Wizard", "A name, a gesture, and reality changes course."),
+    ("Wizard", [
+        "A name, a gesture, and reality changes course.",
+        "One whispered word tilts the battle.",
+        "Old study becomes sudden power.",
+        "The spell is finished before anyone hears it.",
+    ]),
     ("Illusion", "It is real enough when the blade lands."),
     ("Avatar", "An idea so powerful it grew a body."),
     ("Atog", "It grins at anything that can be eaten."),
@@ -255,6 +362,13 @@ def load_cards_by_id():
     return {card["id"]: card for card in cards}
 
 
+def load_flavor_by_id():
+    if not FLAVOR_PATH.exists():
+        return {}
+    rows = load_tsv(FLAVOR_PATH)
+    return {row["game_card_id"]: row["flavor_text"] for row in rows}
+
+
 def lua_string(value):
     value = "" if value is None else str(value)
     value = value.replace("\\", "\\\\").replace('"', '\\"')
@@ -356,6 +470,13 @@ def image_path_for(row):
     return IMAGE_DIR / f"{int(row['game_card_id']):06d}-{row['mtg_scryfall_id']}.jpg"
 
 
+def stable_pick(row, options):
+    if isinstance(options, str):
+        return options
+    seed = int(row["game_card_id"]) + sum(ord(ch) for ch in row["mtg_name"])
+    return options[seed % len(options)]
+
+
 def short_description(row, element):
     name = row["mtg_name"]
     type_line = row.get("mtg_type_line", "")
@@ -400,11 +521,21 @@ def short_description(row, element):
         return "A divine presence from an older world of magic."
 
     if "Legendary" in type_line:
-        return "Songs remember its name long after battles end."
+        legendary_lines = [
+            "Songs remember its name long after battles end.",
+            "A name like this is not easily buried.",
+            "Old victories gather around its banner.",
+            "Legends walk differently from ordinary things.",
+            "History leaves a seat open for it.",
+            "Even silence makes room for its arrival.",
+            "Its story has outlived more than one kingdom.",
+            "The old tales become louder when it appears.",
+        ]
+        return stable_pick(row, legendary_lines)
 
     for keyword, line in TYPE_FLAVOR_KEYWORDS:
         if keyword.lower() in type_line.lower():
-            return line
+            return stable_pick(row, line)
 
     if "Artifact" in type_line:
         return "A relic from an age that trusted metal with miracles."
@@ -412,7 +543,7 @@ def short_description(row, element):
     if name in ICONIC_NAMES:
         return "An old legend pulled from a well-worn binder."
 
-    return ELEMENT_FLAVOR.get(element, "Old magic gathers around it.")
+    return stable_pick(row, ELEMENT_FLAVOR.get(element, "Old magic gathers around it."))
 
 
 def download_one(row):
@@ -458,38 +589,33 @@ def download_images(rows):
     return counts
 
 
-def lua_block(row, inventory_row, card):
-    attack, health = derived_stats(row, inventory_row, card)
+def lua_block(row, inventory_row, card, flavor_by_id):
     element = element_for(row)
-    rarity = RARITY_ENUM.get(row["game_rarity"], "Common")
-    value = parse_float(inventory_row.get("CardValueMulti"), 1.0)
     rel_image = image_path_for(row).relative_to(ROOT).as_posix()
-    description = short_description(row, element)
+    description = flavor_by_id.get(row["game_card_id"]) or short_description(row, element)
+    card_id = int(row["game_card_id"])
     return "\n".join([
         "    do",
-        "        local D = UE.FCardDataAll()",
-        f"        D.Name = {lua_string(row['mtg_name'])}",
-        f"        D.Description = {lua_string(description)}",
-        f"        D.CardID = {int(row['game_card_id'])}",
-        f"        D.Gen = {parse_int(row['game_gen'])}",
-        f"        D.TexturePath = dir .. {lua_string(rel_image)}",
-        f"        D.Rarity = UE.ECardRarity.{rarity}",
-        f"        D.BaseAttack = {attack}",
-        f"        D.BaseHealth = {health}",
-        f"        D.CardValueMulti = {value:.6g}",
-        "        D.UseBigImage = true",
-        f"        D.CardElementFaction:Add(UE.ECardElementFaction.{element})",
-        "        R:RegisterCardData(D.CardID, D)",
+        f"        local cardId = {card_id}",
+        "        local D = GetExistingCardData(R, cardId)",
+        "        if D then",
+        f"            D.Name = {lua_string(row['mtg_name'])}",
+        f"            D.Description = {lua_string(description)}",
+        f"            D.TexturePath = dir .. {lua_string(rel_image)}",
+        "            R:RegisterCardData(cardId, D)",
+        "        else",
+        "            missingCards = missingCards + 1",
+        "        end",
         "    end",
     ])
 
 
-def write_main_lua(rows, inventory_by_id, cards_by_id):
+def write_main_lua(rows, inventory_by_id, cards_by_id, flavor_by_id):
     blocks = []
     for row in rows:
         card = cards_by_id[row["mtg_scryfall_id"]]
         inventory_row = inventory_by_id[row["game_card_id"]]
-        blocks.append(lua_block(row, inventory_row, card))
+        blocks.append(lua_block(row, inventory_row, card, flavor_by_id))
 
     content = "\n".join([
         "local M = {",
@@ -500,6 +626,14 @@ def write_main_lua(rows, inventory_by_id, cards_by_id):
         '    description = "Replaces the full vanilla card pool with Old School and Pre-Modern Magic: The Gathering cards.",',
         "}",
         "",
+        "local function GetExistingCardData(registry, cardId)",
+        "    if not registry then return nil end",
+        "    local D = UE.FCardDataAll()",
+        "    local ok, result = pcall(function() return registry:GetCardData(cardId, D) end)",
+        "    if ok and result ~= false then return D end",
+        "    return nil",
+        "end",
+        "",
         "local function ApplyGenMTG()",
         "    local R = UE.UCardFunction.GetCardRegistryWS(MOD.GAA.WorldUtils:GetCurrentWorld())",
         "    if not R then",
@@ -507,9 +641,17 @@ def write_main_lua(rows, inventory_by_id, cards_by_id):
         "        return",
         "    end",
         "",
+        "    local missingCards = 0",
+        "",
         *blocks,
         "",
-        '    if MOD and MOD.Logger then MOD.Logger.LogScreen("[GenMTG] Loaded 449 MTG card replacements", 5,1,1,0,1) end',
+        "    if MOD and MOD.Logger then",
+        "        if missingCards > 0 then",
+        '            MOD.Logger.LogScreen(("[GenMTG] Loaded with %d missing card lookups"):format(missingCards), 5,1,1,0,1)',
+        "        else",
+        '            MOD.Logger.LogScreen("[GenMTG] Loaded 449 MTG visual replacements", 5,1,1,0,1)',
+        "        end",
+        "    end",
         "end",
         "",
         "function M.OnInit()",
@@ -556,11 +698,9 @@ def write_summary(rows, image_counts):
         "",
         "## Notes",
         "",
-        "- Card value multipliers are preserved from the vanilla card IDs.",
-        "- Creature stats are derived from MTG power/toughness and clamped to vanilla rarity bands.",
-        "- Noncreature stats are derived from mana value and rarity, then clamped to vanilla rarity bands.",
-        "- Elements are derived from MTG type and color identity, with type keywords winning over color.",
-        "- Descriptions are short generated flavor-text blurbs, not original MTG rules text.",
+        "- Lua tries to fetch each existing registry card and only changes `Name`, `Description`, and `TexturePath`.",
+        "- Rarity, stats, value multipliers, elements, and other vanilla fields are preserved when the registry getter succeeds.",
+        f"- Descriptions come from `{FLAVOR_PATH.relative_to(ROOT)}` when present, with generated fallback blurbs for missing future rows.",
         "",
         "## Changelog",
         "",
@@ -574,14 +714,18 @@ def main():
     inventory = load_tsv(INVENTORY_PATH)
     inventory_by_id = {row["CardID"]: row for row in inventory}
     cards_by_id = load_cards_by_id()
+    flavor_by_id = load_flavor_by_id()
 
     missing_inventory = [row["game_card_id"] for row in rows if row["game_card_id"] not in inventory_by_id]
     missing_cards = [row["mtg_name"] for row in rows if row["mtg_scryfall_id"] not in cards_by_id]
+    missing_flavor = [row["game_card_id"] for row in rows if row["game_card_id"] not in flavor_by_id]
     if missing_inventory or missing_cards:
         raise RuntimeError(f"Missing inventory={missing_inventory[:10]} missing_cards={missing_cards[:10]}")
+    if FLAVOR_PATH.exists() and missing_flavor:
+        raise RuntimeError(f"Missing flavor rows for card IDs: {missing_flavor[:20]}")
 
     image_counts = download_images(rows)
-    write_main_lua(rows, inventory_by_id, cards_by_id)
+    write_main_lua(rows, inventory_by_id, cards_by_id, flavor_by_id)
     write_preview(rows)
     write_summary(rows, image_counts)
 

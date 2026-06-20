@@ -29,11 +29,9 @@
 
 ## Notes
 
-- Card value multipliers are preserved from the vanilla card IDs.
-- Creature stats are derived from MTG power/toughness and clamped to vanilla rarity bands.
-- Noncreature stats are derived from mana value and rarity, then clamped to vanilla rarity bands.
-- Elements are derived from MTG type and color identity, with type keywords winning over color.
-- Descriptions are short generated flavor-text blurbs, not original MTG rules text.
+- Lua tries to fetch each existing registry card and only changes `Name`, `Description`, and `TexturePath`.
+- Rarity, stats, value multipliers, elements, and other vanilla fields are preserved when the registry getter succeeds.
+- Descriptions come from `docs/card-flavor.tsv` when present, with generated fallback blurbs for missing future rows.
 
 ## Changelog
 

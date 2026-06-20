@@ -10,8 +10,8 @@ PREVIEW_PATH = ROOT / "preview.png"
 
 CARDS = [
     "Black Lotus",
-    "Shivan Dragon",
     "Juzám Djinn",
+    "Shivan Dragon",
     "Serra Angel",
     "Sol Ring",
 ]

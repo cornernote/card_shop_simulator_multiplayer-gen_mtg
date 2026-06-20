@@ -1,6 +1,6 @@
 # GenMTG
 
-`GenMTG` replaces the collectible cards in Card Shop Simulator Multiplayer with classic Magic: The Gathering cards.
+`GenMTG` replaces the collectible cards in [Card Shop Simulator Multiplayer](https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/) with classic Magic: The Gathering cards.
 
 The goal is to make the game's packs feel like opening an old-school MTG binder: recognizable creatures, strange early-Magic oddities, iconic chase cards, and enough flavor matching that the original card slots still make sense.
 
@@ -18,12 +18,19 @@ The current build contains `449` MTG replacements.
 
 ## Installation
 
-[Download from gitlab](https://github.com/cornernote/card_shop_simulator_multiplayer-gen_mtg/archive/refs/heads/main.zip)
+[Download the latest ZIP](https://github.com/cornernote/card_shop_simulator_multiplayer-gen_mtg/archive/refs/heads/main.zip).
 
-Unzip into your mods folder, eg `C:\Program Files (x86)\Steam\steamapps\common\Card Shop Simulator Multiplayer\CardShopSim\Mods`.
+Unzip it into the game's mods folder, for example:
 
-The files from this repo such as `main.lua` should be in `Mods\GenMTG\main.lua`.
+```text
+C:\Program Files (x86)\Steam\steamapps\common\Card Shop Simulator Multiplayer\CardShopSim\Mods
+```
 
+The mod files should end up in:
+
+```text
+Mods\GenMTG\main.lua
+```
 
 ## MTG Era
 
@@ -51,7 +58,7 @@ Some of the highest-value and most special slots are mapped to iconic MTG cards:
 - `Karn, Silver Golem`
 - `Akroma, Angel of Wrath`
 
-Card values stay close to the original game economy by keeping the vanilla card value multipliers.
+Card values stay the same as the original game.
 
 ## Flavor Rules
 
@@ -61,7 +68,7 @@ Most creature-like game cards become MTG creatures. Special slots are matched by
 - Divine/god cards use major legendary creatures.
 - Animal, monster, dragon, plant, and machine-like game cards try to keep that creature flavor.
 - Five Gen 2 spell-flavored cards become iconic Old School spells or artifacts.
-- Card descriptions use short flavor-text blurbs instead of MTG rules text.
+- Card descriptions use custom short flavor-text blurbs instead of MTG rules text.
 
 ## Elements And MTG Colors
 
