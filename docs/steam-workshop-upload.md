@@ -25,6 +25,10 @@ SteamCMD can be downloaded from:
 
 <https://steamcdn-a.akamaihd.net/client/installer/steamcmd.zip>
 
+Reference upload docs:
+
+<https://github.com/showtom-web/Card-Shop-Simulator-Multiplayer-mods/blob/main/README_EN.md#upload-to-steam-workshop>
+
 The VDF points SteamCMD at the mod folder and the Workshop preview image:
 
 ```text
