@@ -29,7 +29,7 @@
 
 ## Notes
 
-- Lua tries to fetch each existing registry card and only changes `Name`, `Description`, and `TexturePath`.
+- Lua tries to fetch each existing registry card and only changes `Name`, `Description`, `TexturePath`, and `UseBigImage`.
 - Rarity, stats, value multipliers, elements, and other vanilla fields are preserved when the registry getter succeeds.
 - Descriptions come from `docs/card-flavor.tsv` when present, with generated fallback blurbs for missing future rows.
 
