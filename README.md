@@ -4,6 +4,8 @@
 
 The goal is to make the game's packs feel like opening an old-school MTG binder: recognizable creatures, strange early-Magic oddities, iconic chase cards, and enough flavor matching that the original card slots still make sense.
 
+![GenMTG preview](preview.png)
+
 ## What Is Included
 
 The mod replaces the full vanilla collectible pool found in the current game build:
