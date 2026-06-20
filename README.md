@@ -18,6 +18,8 @@ The current build contains `449` MTG replacements.
 
 ## Installation
 
+[Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3748493783)
+
 [Download the latest ZIP](https://github.com/cornernote/card_shop_simulator_multiplayer-gen_mtg/archive/refs/heads/main.zip).
 
 Unzip it into the game's mods folder, for example:

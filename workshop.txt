@@ -1,0 +1,51 @@
+[h1]GenMTG[/h1]
+
+Ever wanted [b]Card Shop Simulator Multiplayer[/b] to feel like cracking open an old-school [b]Magic: The Gathering[/b] binder?
+
+[b]GenMTG[/b] replaces the full vanilla collectible card pool with classic MTG cards from [b]Old School 93/94[/b] and the [b]Pre-Modern[/b] era. Expect iconic creatures, strange early-Magic oddities, legendary chase cards, and enough flavor matching that the original card slots still make sense.
+
+[h2]=== FEATURES ===[/h2]
+
+[list]
+[*][b]449 card replacements[/b] - every collectible card currently found in the game inventory is mapped to an MTG card.
+[*][b]Full pool coverage[/b] - includes gens 1-7, special packs, holiday/event cards, divine/god cards, souvenir cards, and commemorative cards.
+[*][b]Classic MTG icons[/b] - includes cards like [b]Shivan Dragon[/b], [b]Black Lotus[/b], [b]Juzam Djinn[/b], [b]Serra Angel[/b], [b]Sol Ring[/b], [b]Nicol Bolas[/b], [b]Karn, Silver Golem[/b], and [b]Akroma, Angel of Wrath[/b].
+[*][b]Vanilla game flow preserved[/b] - keeps the original pack structure, rarity bands, card values, and collection progression.
+[*][b]Creature-first mapping[/b] - most normal card slots become classic MTG creatures.
+[*][b]Spell-flavored slots[/b] - selected spell-like cards use iconic spells, enchantments, and artifacts.
+[*][b]No MTG lands[/b] - lands are intentionally excluded because they do not fit the creature-card style of the game.
+[*][b]Custom flavor blurbs[/b] - card descriptions use short custom flavor text instead of full MTG rules text.
+[/list]
+
+[h2]=== HOW IT WORKS ===[/h2]
+
+The mod changes the visible [b]card name[/b], [b]description[/b], [b]artwork[/b], and [b]big-card image mode[/b] while preserving the original game data for rarity, value, and pack placement.
+
+That means chase cards still behave like chase cards, event cards still come from their event sources, and the game still plays like [b]Card Shop Simulator Multiplayer[/b] - just with a lot more Magic on the cards.
+
+[h2]=== MTG ERA ===[/h2]
+
+The card pool focuses on:
+
+[list]
+[*][b]Old School 93/94[/b]
+[*][b]Pre-Modern-era Magic[/b]
+[/list]
+
+The goal is classic flavor over perfect tournament legality.
+
+[h2]=== NOTES ===[/h2]
+
+[list]
+[*]This is a personal flavor mod and is not an official Magic: The Gathering product.
+[*]Magic: The Gathering card names and artwork belong to Wizards of the Coast and their artists.
+[*]Card Shop Simulator Multiplayer belongs to its respective developers and publishers.
+[/list]
+
+[h2]=== RESOURCES ===[/h2]
+
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3748493783]Steam Workshop page[/url]
+[*][url=https://github.com/cornernote/card_shop_simulator_multiplayer-gen_mtg]Source and manual ZIP download on GitHub[/url]
+[*][url=https://store.steampowered.com/app/3569500/Card_Shop_Simulator_Multiplayer/]Card Shop Simulator Multiplayer on Steam[/url]
+[/list]
