@@ -34,6 +34,8 @@ The mod files should end up in:
 Mods\GenMTG\main.lua
 ```
 
+Workshop upload notes are in [docs/steam-workshop-upload.md](docs/steam-workshop-upload.md).
+
 ## MTG Era
 
 The card pool focuses on:
