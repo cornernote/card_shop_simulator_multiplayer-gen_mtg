@@ -14,11 +14,16 @@ The current Workshop item is:
 
 ## Files Used
 
-The uploader folder contains the SteamCMD install and the Workshop VDF:
+The uploader folder contains the SteamCMD install:
 
 ```text
 _uploader\steamcmd.exe
-_uploader\genmtg.vdf
+```
+
+The Workshop VDF is kept in this repo:
+
+```text
+GenMTG\workshop.vdf
 ```
 
 SteamCMD can be downloaded from:
@@ -29,7 +34,7 @@ Reference upload docs:
 
 <https://github.com/showtom-web/Card-Shop-Simulator-Multiplayer-mods/blob/main/README_EN.md#upload-to-steam-workshop>
 
-The VDF points SteamCMD at the mod folder and the Workshop preview image:
+`workshop.vdf` points SteamCMD at the mod folder and the Workshop preview image:
 
 ```text
 "workshopitem"
@@ -50,7 +55,7 @@ The VDF points SteamCMD at the mod folder and the Workshop preview image:
 1. Make sure the repo is committed and pushed.
 2. Make sure `workshop.jpg` exists and is a square JPEG.
 3. Make sure `workshop.txt` has the Steam wiki/BBCode description.
-4. Make sure `genmtg.vdf` points to the correct absolute `contentfolder` and `previewfile`.
+4. Make sure `workshop.vdf` points to the correct absolute `contentfolder` and `previewfile`.
 5. Do not paste or commit Steam passwords, guard codes, or session files.
 
 ## Upload Command
@@ -58,7 +63,7 @@ The VDF points SteamCMD at the mod folder and the Workshop preview image:
 Run this from PowerShell inside `_uploader`:
 
 ```powershell
-.\steamcmd.exe +login <steam_username> <steam_password> +workshop_build_item genmtg.vdf +quit
+.\steamcmd.exe +login <steam_username> <steam_password> +workshop_build_item ..\GenMTG\workshop.vdf +quit
 ```
 
 Steam Guard may ask for mobile confirmation. Confirm it in the Steam Mobile app, then wait for SteamCMD to finish uploading.

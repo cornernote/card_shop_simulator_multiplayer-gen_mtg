@@ -36,7 +36,7 @@ The mod files should end up in:
 Mods\GenMTG\main.lua
 ```
 
-Workshop upload notes are in [docs/steam-workshop-upload.md](docs/steam-workshop-upload.md).
+Workshop upload notes are in [docs/steam-workshop-upload.md](docs/steam-workshop-upload.md), with the upload VDF tracked as [workshop.vdf](workshop.vdf).
 
 ## MTG Era
 

@@ -1,0 +1,11 @@
+"workshopitem"
+{
+	"appid"		"3569500"
+	"publishedfileid"		"3748493783"
+	"contentfolder"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Card Shop Simulator Multiplayer\\CardShopSim\\Mods\\GenMTG"
+	"previewfile"		"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Card Shop Simulator Multiplayer\\CardShopSim\\Mods\\GenMTG\\workshop.jpg"
+	"visibility"		"0"
+	"title"		"GenMTG"
+	"description"		"Ever wanted Card Shop Simulator Multiplayer to feel like cracking open an old-school Magic: The Gathering binder? GenMTG replaces the full vanilla collectible card pool with classic MTG cards from Old School 93/94 and the Pre-Modern era."
+	"changenote"		"version 1.0"
+}
