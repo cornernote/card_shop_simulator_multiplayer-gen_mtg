@@ -1,0 +1,450 @@
+CardID	Name	Description	Gen	Rarity	Elements	BaseAttack	BaseHealth	CardValueMulti	UseBigImage	TexturePath	TexturePath2	TexturePath3	TexturePath4	TexturePath5	TexturePath6	RegistryName	Raw
+1101	Sand Flame Dog	Dogs that live in desert areas like hot and dry environments.	0	0	0	10	50	1.0299999713898	false							Sand Flame Dog	FCardDataAll: 00000212F2578CA0
+1102	Minite	A herbivore with a gentle personality.	0	0	7	20	28	1.1000000238419	false							Minite	FCardDataAll: 000002120E968220
+1103	Naughty Bear	A species that has a lively personality and likes to live in groups.	0	0	7	15	35	0.89999997615814	false							Naughty Bear	FCardDataAll: 000002133244A1A0
+1104	Turabi	A gentle hedgehog that lives by the pond.	0	0	6	5	100	1.2000000476837	false							Turabi	FCardDataAll: 000002133244A360
+1105	Shock Bear	Electric Bear doesn't like wearing clothes very much. He hates pants and T-shirts, but he doesn't dislike shoes and gloves.	0	0	3	10	55	1.25	false							Shock Bear	FCardDataAll: 000002132AEC9AA0
+1106	Mu Ti	Bear living in water on arctic map.	0	0	12	10	55	1.25	false							Mu Ti	FCardDataAll: 0000021332446EE0
+1107	Electric Dog	Angry dogs whose body hair becomes electrically charged when angry.	0	0	3	25	35	1.2000000476837	false							Electric Dog	FCardDataAll: 000002132AEC0260
+1108	Ice Cave Rat	A herbivore that burrows in glaciers.	0	0	12	15	35	1.0700000524521	false							Ice Cave Rat	FCardDataAll: 000002132AEC0420
+1109	Colorful Butterfly	Small insects living in the forest.	0	0	4	17	32	1.0700000524521	false							Colorful Butterfly	FCardDataAll: 000002132AEC05E0
+1110	Amy Meow	A cat that likes to eat fish, meat and rice. Because of its cute appearance, many humans keep it as a pet at home.	0	0	7	18	35	1.0499999523163	false							Amy Meow	FCardDataAll: 000002132AEC07A0
+1111	Ice Cave Otter	A hairy creature that lives in ice caves and is said to sleep 20 hours a day.	0	0	12	11	52	1.039999961853	false							Ice Cave Otter	FCardDataAll: 000002132AEC0960
+1112	Weiwei Weasel	A cunning creature that is good at climbing trees and has many tricks. Its attack method is to continuously throw spiked pine cones on the trees.	0	0	7	22	41	1.0599999427795	false							Weiwei Weasel	FCardDataAll: 000002132AEC0B20
+1113	Le Songhu	It is intelligent and has healing power. It can use various flowers and plants to make herbal dressings to help the animals in the forest heal.	0	0	7	23	40	1.1499999761581	false							Le Songhu	FCardDataAll: 000002132AEC0CE0
+1114	Coius	It is said that it comes from an alien planet and has great respect for its master, but is hostile to unfamiliar creatures.	0	0	9	24	45	1.1399999856949	false							Coius	FCardDataAll: 000002132AEC0EA0
+1115	Berry-tailed monkey	The sleeping habits are similar to those of rabbits, gentle and timid. There is a pink berry on the tail.	0	0	2	12	39	1.2699999809265	false							Berry-tailed monkey	FCardDataAll: 000002132AEC1060
+1116	Bouncing Mouse	Jump with both feet together, jumping high.	0	0	7	8	55	1.3600000143051	false							Bouncing Mouse	FCardDataAll: 000002132AEC1220
+1117	Fucaolong	A timid social creature, it feels safe in the shade of trees.	0	0	7	12	66	1.3700000047684	false							Fucaolong	FCardDataAll: 000002132AEC13E0
+1118	Ye Pipi	A hedgehog that can disguise itself as a plant.	0	0	2	17	40	1.3799999952316	false							Ye Pipi	FCardDataAll: 000002132AEC15A0
+1119	Gawuniao	It lives on rock walls and comes out to hunt at night.	0	0	5	25	40	1.3899999856949	false							Gawuniao	FCardDataAll: 000002132AEC1760
+1120	Big-eared monkey	He is keenly aware of what is happening around him and is very timid.	0	0	7	20	38	0.85000002384186	false							Big-eared monkey	FCardDataAll: 000002132AEC1920
+1121	Curse Owl	Birds with high intelligence use mysterious magic power to roll up wind walls to impede the movement of enemies.	0	0	11	12	53	0.88999998569489	false							Curse Owl	FCardDataAll: 000002132AEC1AE0
+1122	Tide otter	Can read the memory of water flow, and often uses phantoms at night to make travelers get lost.	0	0	1	20	75	1.1000000238419	false							Tide otter	FCardDataAll: 000002132AEC1CA0
+1123	Chi Chu	Use high temperatures to restructure matter and cook non-existent ingredients into energy for fighting.	0	0	0	25	80	1.2999999523163	false							Chi Chu	FCardDataAll: 000002132AEC1E60
+1124	Explosive Jar Spirit	It is formed from the residual gas of discarded gas tanks. The higher the pressure, the more dangerous it is.	0	0	11	80	40	1.1499999761581	false							Explosive Jar Spirit	FCardDataAll: 00000212F2578CA0
+1201	Rockhelm Lizard	Lives in caves and has a hard helmet.	0	1	5	16	67	1.3999999761581	false							Rockhelm Lizard	FCardDataAll: 00000212F2578E60
+1202	Baidumon	An amphibious fish with scaly wings on its back that spends most of its time in the water.	0	1	1	14	71	1.5499999523163	false							Baidumon	FCardDataAll: 00000212F2579020
+1203	Snow Fairy	Appears in the forest in the early morning and can turn dew into ice crystals.	0	1	12	15	70	0.83999997377396	false							Snow Fairy	FCardDataAll: 00000212F25791E0
+1204	Zhang Bobo	The tentacles on the top of the head are actually hair.	0	1	1	13	78	1.3200000524521	false							Zhang Bobo	FCardDataAll: 00000212F25793A0
+1205	Kaqi Fox	A friendly herbivore, good at using camouflage to avoid enemy attacks.	0	1	0	17	57	1.2599999904633	false							Kaqi Fox	FCardDataAll: 00000212F2579560
+1206	Pan Xiaoda	A panda with red pupils, good at boxing and kicking.	0	1	7	17	60	1.4199999570847	false							Pan Xiaoda	FCardDataAll: 00000212F2579720
+1207	Volcano Spider	Spiders that live in volcanic areas can spit out scorching silk.	0	1	0	12	67	1.1200000047684	false							Volcano Spider	FCardDataAll: 00000212F25798E0
+1208	Thunder Eagle	The giant bird that soars in the storm only appears on extremely high peaks. Climbing enthusiasts have witnessed its appearance. It is said that it can reach a height of 7 meters.	0	1	3	21	78	1.0900000333786	false							Thunder Eagle	FCardDataAll: 00000212F2579AA0
+1209	Vampire Bat Dragon	Ancient dragons living in swamps can secrete toxins from their teeth that can dissolve fat, meat and bones.	0	1	9	25	50	0.98000001907349	false							Vampire Bat Dragon	FCardDataAll: 00000212F2579C60
+1210	White Batmon	An ancient creature with low aggressiveness can use magic power to adjust the size of its body, ranging from a minimum of about 5 centimeters to a maximum of about 5 meters.	0	1	11	10	107	0.97000002861023	false							White Batmon	FCardDataAll: 00000212F2579E20
+1211	Fever Lizard	It is an omnivorous creature that has very strong adaptability and can live and hunt in magma, lakes, and on the ground.	0	1	9	17	75	1.1100000143051	false							Fever Lizard	FCardDataAll: 00000212F2579FE0
+1212	Cryolophosaurus	Living in extremely cold glacier areas, it can create sharp ice spikes in its body and spit out high-speed flying ice spikes from its mouth to pierce its opponents.	0	1	12	17	64	1.3999999761581	false							Cryolophosaurus	FCardDataAll: 00000212F257A1A0
+1213	Young Cryolophosaurus	An ancient dragon that lives in extremely cold glaciers, it can break ice by flapping its wings and make the ice fly out quickly.	0	1	12	15	57	1.5199999809265	false							Young Cryolophosaurus	FCardDataAll: 00000212F257A360
+1214	Electrical package	A toaster awakened by an abnormal current will cry and bake electrified bread.	0	1	3	40	200	0.97000002861023	false							Electrical package	FCardDataAll: 000002132DEE2FE0
+1215	Crash and cracked screen	The screen propagates glitches, often causing electronic devices close to it to crash out of control.	0	1	11	85	100	1.4400000572205	false							Crash and cracked screen	FCardDataAll: 000002132DEE2E20
+1216	Dan Fist Lamp Dou	When the red light lights up, it enters combat mode and will automatically lock on to the moving target.	0	1	8	40	75	1.3200000524521	false							Dan Fist Lamp Dou	FCardDataAll: 000002132DEE2C60
+1301	Mine Eye King	The ore on his back represents his identity.	0	2	5	40	300	1.5099999904633	false							Mine Eye King	FCardDataAll: 000002132DEE2AA0
+1302	Desmo	A blood-sucking creature that haunts the night.	0	2	10	44	290	1.1000000238419	false							Desmo	FCardDataAll: 000002132DEE28E0
+1303	Fire Pattern Wolf	has a tattoo of fire on his back	0	2	0	68	186	1.3400000333786	false							Fire Pattern Wolf	FCardDataAll: 000002132DEE2720
+1304	Mountain Dew Dragon	An aquatic dragon that likes to glide quickly on the waves.	0	2	9	53	243	1.3600000143051	false							Mountain Dew Dragon	FCardDataAll: 000002132AEC2C60
+1305	Youyoudie	A butterfly with mysterious patterns on its body.	0	2	2	65	200	1.3799999952316	false							Youyoudie	FCardDataAll: 000002132AEC1CA0
+1306	Flamingo	It is said that there is an eternal fire in the body, which will be passed on to future generations.	0	2	0	77	178	1.2400000095367	false							Flamingo	FCardDataAll: 000002132AEC1AE0
+1307	Troublemaker	A beast that likes to come out at night, be careful to be discovered by it.	0	2	7	37	354	1.1599999666214	false							Troublemaker	FCardDataAll: 000002132AEC1920
+1308	Frozen Dragon	Being in an extremely cold place, everything can be frozen.	0	2	12	58	245	0.98000001907349	false							Frozen Dragon	FCardDataAll: 000002132AEC1760
+1309	Magnetic Beetle	Group movement will form a swarm of insects and use electromagnetic force to attack together.	0	2	8	45	290	1.0	false							Magnetic Beetle	FCardDataAll: 000002132AEC15A0
+1310	Attack the Demon	He is good at launching attacks from the air and has super explosive power.	0	2	0	100	150	1.1699999570847	false							Attack the Demon	FCardDataAll: 000002132AEC13E0
+1311	Rainbow cat fish	An elegant and agile dreamlike amphibious creature.	0	2	1	60	249	1.1900000572205	false							Rainbow cat fish	FCardDataAll: 000002132AEC1220
+1312	Bubu	Its wings can fan out cold wind.	0	2	12	48	305	1.4199999570847	false							Bubu	FCardDataAll: 000002132AEC1060
+1313	Thunder Bear	An energetic bear-shaped creature that likes to compete with people in the playground by wearing special sneakers and sprinting 100 meters.	0	2	3	91	148	1.4099999666214	false							Thunder Bear	FCardDataAll: 000002132AEC0EA0
+1314	Cloud Demon	The laughter of the cloud demons is very similar to the sound of thunder, and they will bring lightning and rain to Halloween night.	10	2	3	214	98	50.0	false							Cloud Demon	FCardDataAll: 000002132AEC0CE0
+1315	Ghost Lantern	Can transform into a ghost disguised as a lamp, and suddenly change back to its original form, which is shocking.	10	2	0	205	112	50.0	false							Ghost Lantern	FCardDataAll: 000002132AEC0B20
+1316	Poison Miasma	A fungus that emerges from the soil on Halloween night and releases a foul odor that causes hallucinations.	10	2	2	154	142	51.5	false							Poison Miasma	FCardDataAll: 000002132AEC0960
+1317	So cute	Beloved by children, the Halloween ghost scares everyone except children and the elderly with its magical flashes.	10	2	10	125	225	60.0	false							So cute	FCardDataAll: 000002132AEC07A0
+1318	Shadow Ghost	The ghost that lurks in the shadows and follows people can move freely between different shadows. The bigger the shadow, the stronger its power.	10	2	11	165	158	60.0	false							Shadow Ghost	FCardDataAll: 000002132AEC05E0
+1319	Pumpkin Head	It is said that a magician carved a pumpkin and cast a spell to create a ghost. It can fly in the air, but its magic power is actually low and there is no threat.	10	2	6	125	177	51.0	false							Pumpkin Head	FCardDataAll: 000002132AEC0420
+1320	Felfire Bat	A monster with devilish legs and a will-o'-the-wisp on its head will add a gloomy and terrifying atmosphere to the Halloween night.	10	2	7	135	164	54.0	false							Felfire Bat	FCardDataAll: 000002132AEC0260
+1321	Giant Mouth Demon	It is said that he is the scariest guy on Halloween. He likes to suddenly jump down from the roof and land on people's shoulders or heads.	10	2	7	142	154	48.0	false							Giant Mouth Demon	FCardDataAll: 0000021332446EE0
+1322	Baijiaoling	A ghost that mutated from White Pepper, the broken shackles on his hands came from his previous master.	10	3	2	153	172	65.0	false							Baijiaoling	FCardDataAll: 000002132AEC9AA0
+1323	Xiaogu	The successor of the King of the Bone Army, although still relatively weak now, will grow into a reliable leader of the Bone Army in the future.	10	3	10	205	188	65.0	false							Xiaogu	FCardDataAll: 000002133244A360
+1324	Bag Fist	The essence of kangaroo boxing is to attack with fast punches and at the same time seize the opportunity to kick him!	0	2	7	62	225	1.5499999523163	false							Bag Fist	FCardDataAll: 000002133244A1A0
+1325	Lantern Hat Forest Demon	It looks scary, but it is actually very kind and will illuminate a warm light at night.	0	2	2	70	203	1.5700000524521	false							Lantern Hat Forest Demon	FCardDataAll: 000002120E968220
+1326	Berry Deer	This kind of fawn is popular because of its petite body.	0	2	7	45	295	1.7200000286102	false							Berry Deer	FCardDataAll: 000002132DEE2720
+1327	Dream hat is stupid	became popular due to a photo on the Internet, and many artists and Internet celebrities came to take photos.	0	2	10	118	145	1.9199999570847	false							Dream hat is stupid	FCardDataAll: 000002132DEE28E0
+1328	Smoke Stove Dummy	Can be switched to a fireplace form, just like a normal fireplace with a chimney.	0	2	8	39	350	1.5700000524521	false							Smoke Stove Dummy	FCardDataAll: 000002132DEE2AA0
+1329	Sew even puff puff	After the forgotten old doll wakes up, it will wander along the memory of the discarded doll.	0	2	7	120	50	1.4299999475479	false							Sew even puff puff	FCardDataAll: 000002132DEE2C60
+1330	Heart-wrenching couple	Stitched by unanswered wishes, the knots contain lost prayers.	0	2	7	80	80	1.2300000190735	false							Heart-wrenching couple	FCardDataAll: 000002132DEE2E20
+1331	Unicycle Zhenhu	Enjoys the challenge of stairs, ramps, and pipes, dragging out blue arcs as you move.	0	2	3	35	110	1.1399999856949	false							Unicycle Zhenhu	FCardDataAll: 000002132DEE2FE0
+1401	Different pupils	The terrifying deep-sea shellfish.	0	3	1	199	84	1.0	false							Different pupils	FCardDataAll: 00000212F257A360
+1402	Flame-feathered owl	Shoots flaming sharp feathers to burn the opponent.	0	3	0	65	240	1.0	false							Flame-feathered owl	FCardDataAll: 00000212F257A1A0
+1403	Mind Reading Cat	Can use the power of mind to read the inner thoughts of other creatures.	0	3	7	84	192	1.0	false							Mind Reading Cat	FCardDataAll: 00000212F2579FE0
+1404	Fist Emperor Ape	Although it is called the King of Fighters, its ultimate move is actually to kick out dust with its strong legs and feet.	0	3	0	86	200	1.0	false							Fist Emperor Ape	FCardDataAll: 00000212F2579E20
+1405	Flame Pincher	Cut apart opponents while flying at high speed, leaving gorgeous flame trails in the sky.	0	3	0	122	153	1.2000000476837	false							Flame Pincher	FCardDataAll: 00000212F2579C60
+1406	Crystal Gear	General-purpose robots in ancient technological facilities have many functions and are the link between robot groups.	0	3	8	80	220	1.1499999761581	false							Crystal Gear	FCardDataAll: 00000212F2579AA0
+1407	Dark Shark	Can control water flow to perform sharp slashes or powerful blows	0	3	1	155	105	1.25	false							Dark Shark	FCardDataAll: 00000212F25798E0
+1408	Voltage Turing	A mechanical Pokémon awakened by an abnormal power grid will connect to the power grid to control mechanical equipment.	0	3	3	110	200	1.1200000047684	false							Voltage Turing	FCardDataAll: 00000212F2579720
+2101	Seedstealing Beast	likes to sneak in and steal various seeds.	1	0	7	11	52	1.0199999809265	false							Seedstealing Beast	FCardDataAll: 00000212F2579560
+2102	Zhang Pipi	Zhang Bobo's friend likes to eat kelp and small fish, and will lie on the rocks to bask in the sun on sunny days.	1	0	1	9	55	1.039999961853	false							Zhang Pipi	FCardDataAll: 00000212F25793A0
+2103	Grass-tailed Finch	Good at disguising themselves as plants.	1	0	2	7	66	1.0499999523163	false							Grass-tailed Finch	FCardDataAll: 00000212F25791E0
+2104	Iwakuriko	Good at digging holes in the ground to escape.	1	0	6	7	67	1.0599999427795	false							Iwakuriko	FCardDataAll: 00000212F2579020
+2105	Dazzling tail monkey	The confusing tail can swing and emit pink mist to block the opponent's vision.	1	0	2	8	63	1.0700000524521	false							Dazzling tail monkey	FCardDataAll: 00000212F2578E60
+2106	Gem Bear	A robot bear with gems embedded in its body as a power source.	1	0	6	9	53	1.0800000429153	false							Gem Bear	FCardDataAll: 00000212F2578CA0
+2107	Shadow Dragon	It looks like a lazy dinosaur-like fish. The skin on its back is very thick. It is not very aggressive but has full defense. When it sees a beast or a person, it will look at it for 2 seconds and then slowly run away.	1	0	9	10	50	1.0900000333786	false							Shadow Dragon	FCardDataAll: 000002133244A1A0
+2108	Ghost Jellyfish	Ghosts in the water cannot be hit by physical weapons.	1	0	1	9	53	1.1000000238419	false							Ghost Jellyfish	FCardDataAll: 000002133244A360
+2109	Burning Mane Fox	It has thick manes all over its body, and its body temperature can reach up to 100 degrees during combat. If you are not careful, it may cause forest fires.	1	0	0	11	43	1.1100000143051	false							Burning Mane Fox	FCardDataAll: 000002132AEC9AA0
+2110	Double-finned dragon	A strong dragon with a slender body and flexible movements. It is good at running. Its ultimate trick is the iron mountain.	1	0	2	12	40	1.1200000047684	false							Double-finned dragon	FCardDataAll: 0000021332446EE0
+2111	Mushroom Shell Rabbit	There is a mushroom on its back. If nourished enough, the mushroom will grow into a huge one.	1	0	7	8	62	1.1299999952316	false							Mushroom Shell Rabbit	FCardDataAll: 000002132AEC0260
+2112	Thunder Beast	An elf with built-in static electricity, its limbs will emit an electric sizzling sound when it jumps.	1	0	3	10	51	1.1399999856949	false							Thunder Beast	FCardDataAll: 000002132AEC0420
+2113	MIMIHU	is good at using electric tricks to stun enemies.	1	0	3	13	40	1.1499999761581	false							MIMIHU	FCardDataAll: 000002132AEC05E0
+2114	Enderrat	Hidden in the shadows of the cave, never coming out during the day.	1	0	10	11	53	1.1599999666214	false							Enderrat	FCardDataAll: 000002132AEC07A0
+2115	Tree Imp	Likes to eat tender leaves and grass, and is well hydrated. It needs to drink 10 kilograms of water every day to feel comfortable.	1	0	2	10	50	1.1699999570847	false							Tree Imp	FCardDataAll: 000002132AEC0960
+2201	Molten Beast	Small and medium-sized beasts active in volcanic areas have body temperatures as high as 300 degrees, making them unbearably hot just by being close to them.	1	1	0	14	71	1.1799999475479	false							Molten Beast	FCardDataAll: 000002132AEC0B20
+2202	Fossil fish	Creatures from ancient times contained tremendous power.	1	1	1	12	95	1.1900000572205	false							Fossil fish	FCardDataAll: 000002132AEC0CE0
+2203	Exploding Tail Frog	Its tail is like an explosive spark, and its attack method is to emit explosions from the tail behind its back.	1	1	0	16	57	1.2000000476837	false							Exploding Tail Frog	FCardDataAll: 000002132AEC0EA0
+2204	Butterfly Rabbit Demon	A rabbit with low-altitude flying ability and almost no aggression.	1	1	11	14	71	1.210000038147	false							Butterfly Rabbit Demon	FCardDataAll: 000002132AEC1060
+2205	Coulee Beetle	The bright red and blue colors on its carapace can quickly change to make enemies dizzy, and it can spit out lightning balls from its mouth to stun enemies.	1	1	4	15	66	1.2200000286102	false							Coulee Beetle	FCardDataAll: 000002132AEC1220
+2206	Silk Songworm	The wings are as smooth and flexible as ribbons, and can bind enemies to restrict their movements.	1	1	4	7	142	1.2300000190735	false							Silk Songworm	FCardDataAll: 000002132AEC13E0
+2301	Valley Hedgehog	The scales on its body turn into spikes when in danger.	1	2	7	25	475	1.2400000095367	false							Valley Hedgehog	FCardDataAll: 000002132AEC15A0
+2302	Tsunami Otter	It can store water in its tail and launch huge waves with one leap.	1	2	1	50	300	1.25	false							Tsunami Otter	FCardDataAll: 000002132AEC1760
+2303	Hallelujah	has great power and often appears at night to fight criminals.	1	2	10	46	320	0.98000001907349	false							Hallelujah	FCardDataAll: 000002132AEC1920
+2304	Shenmo Lamp	Floating will-o’-the-wisp	1	2	11	58	262	0.94999998807907	false							Shenmo Lamp	FCardDataAll: 000002132AEC1AE0
+2305	Babymon	My body was too hot, so I could only soak myself in water to cool down.	1	2	7	39	340	1.1000000238419	false							Babymon	FCardDataAll: 000002132AEC1CA0
+2306	Cangguan	The giant wings are covered with star feathers, and the whole body is translucent. The pupils are like whirlpools in the night sky, and the whole body is surrounded by star streams and afterimages.	1	2	11	92	170	1.2999999523163	false							Cangguan	FCardDataAll: 000002132AEC2E20
+2307	Raging Beast	A high-speed beast with a top speed of 600km/h, the faster it runs, the hotter it burns.	1	2	0	83	190	1.3099999427795	false							Raging Beast	FCardDataAll: 00000212F2578E60
+2308	Stone-breaking pig	Hitting the rock wall at high speed to open a path is called a "mobile mining hammer".	1	2	5	24	630	1.3200000524521	false							Stone-breaking pig	FCardDataAll: 00000212F2579020
+2309	Hammersmith	He is good at drilling for earth veins and has a hard body all over his body.	1	2	6	28	540	1.3500000238419	false							Hammersmith	FCardDataAll: 00000212F25791E0
+2310	Fugui	Floating with a light body, it glows at night.	1	2	11	42	349	1.3999999761581	false							Fugui	FCardDataAll: 00000212F25793A0
+2311	Sleepy Otter	Spent most of the time sleeping, completely unalert.	1	2	1	34	379	1.7200000286102	false							Sleepy Otter	FCardDataAll: 00000212F2579560
+2312	Short Dora	A creature that is friendly to humans and likes to eat fruits.	1	2	2	52	290	1.3999999761581	false							Short Dora	FCardDataAll: 00000212F2579720
+2313	Velvet snow cotton	Although it is snow, I need to wear a scarf because I am afraid of the cold.	1	2	12	44	344	1.9500000476837	false							Velvet snow cotton	FCardDataAll: 00000212F25798E0
+2314	Winter Night Ringtone	Melodious music will be made on Christmas Eve.	1	2	12	40	360	1.5199999809265	false							Winter Night Ringtone	FCardDataAll: 00000212F2579AA0
+2315	Phantom Beast	2025 Christmas Commemorative Edition	1	2	3	44	325	1.6699999570847	false							Phantom Beast	FCardDataAll: 00000212F2579C60
+2316	Green Surge	Apple-flavored ooze	1	2	2	56	268	1.3799999952316	false							Green Surge	FCardDataAll: 00000212F2579E20
+2317	Split Shadow in Colorful Clothes	I don’t know how to play baseball. Guess what this bat is used for.	1	2	11	116	165	1.7000000476837	false							Split Shadow in Colorful Clothes	FCardDataAll: 00000212F2579FE0
+2318	Burn frequency	The most enthusiastic sister at Christmas	1	2	0	123	155	1.6799999475479	false							Burn frequency	FCardDataAll: 00000212F257A1A0
+2319	Bing Lingling	The snow wand in his hand is said to have been used by Santa Claus, and it can instantly create many snowflakes.	1	2	12	102	177	1.3500000238419	false							Bing Lingling	FCardDataAll: 00000212F257A360
+2401	Sheath Fairy	A cute herbivore like a rabbit, it lives in the grass under the big trees. In winter, it lives in holes in the ground to keep warm.	1	3	2	68	238	1.0	false							Sheath Fairy	FCardDataAll: 000002132DEE2FE0
+2402	Cactus Beast	Plants that appear in desert areas cannot move because they are rooted in the sand. They can spray small thorns from their mouths to attack distant threats.	1	3	2	70	200	1.0	false							Cactus Beast	FCardDataAll: 000002132DEE2E20
+2403	Phantom Beast	A mysterious ghost with electricity all over his body	1	3	3	44	325	1.0	false							Phantom Beast	FCardDataAll: 000002132DEE2C60
+2404	Ancient Rock Whale	A heavy giant fish in the deep sea. Because its whole body is covered with rocks, almost no creature can bite it. When swimming at full strength, you can hit with your body to cause huge damage.	1	3	5	34	500	1.0	false							Ancient Rock Whale	FCardDataAll: 000002132DEE2AA0
+2405	Fujiyou Itachi	A nimble guy who likes to hang from the vines swinging in the woods. It is said that he can turn into a ghost to evade attacks when in danger.	1	3	2	48	320	1.0	false							Fujiyou Itachi	FCardDataAll: 000002132DEE28E0
+2406	Mirror Eyes	Living in deep mines, it is said to use mysterious power to check the movement of the earth's crust and maintain the stability of the earth.	1	3	5	100	179	1.2200000286102	false							Mirror Eyes	FCardDataAll: 000002132DEE2720
+2407	Fortune Cat	Often worshiped as a god representing money, people worship and pray to bless them with increasing wealth.	1	3	7	115	169	1.25	false							Fortune Cat	FCardDataAll: 000002133244C9E0
+2408	Luxiang Division	Play music in ancient ruins to direct various machines to work in an orderly manner	1	3	8	138	133	1.1799999475479	false							Luxiang Division	FCardDataAll: 000002133244C820
+3101	Ulodi	Can understand the languages of many animals.	2	0	11	15	40	1.0199999809265	false							Ulodi	FCardDataAll: 000002132AEC1CA0
+3102	Masked Bear	A bear wearing a steel mask.	2	0	8	12	50	1.039999961853	false							Masked Bear	FCardDataAll: 000002132AEC1AE0
+3103	Mechanical Snake	The inside of the body is made up of mechanical parts.	2	0	8	13	48	1.0499999523163	false							Mechanical Snake	FCardDataAll: 000002132AEC1920
+3104	Lock Teeth	A rodent with a tail covered in ice crystals.	2	0	12	13	45	1.0599999427795	false							Lock Teeth	FCardDataAll: 000002132AEC1760
+3105	Papite	A highly intelligent creature with the ability to operate ultra-advanced precision machinery, it looks like a rabbit.	2	0	7	12	46	1.0800000429153	false							Papite	FCardDataAll: 000002132AEC15A0
+3106	Fangya	A cat-shaped creature that likes to hang out on windy nights, and its red scarf is its representative feature.	2	0	7	10	55	1.1000000238419	false							Fangya	FCardDataAll: 000002132AEC13E0
+3107	Electric Ape	Can emit a momentary electric shock when clapping its hands.	2	0	3	12	44	1.1200000047684	false							Electric Ape	FCardDataAll: 000002132AEC1220
+3108	Ice Tyrannosaurus	Dragons living in extremely cold areas are cruel by nature.	2	0	12	16	44	1.1399999856949	false							Ice Tyrannosaurus	FCardDataAll: 000002132AEC1060
+3109	Bitcat	Can use the ability to retrieve objects from the air.	2	0	10	13	45	1.1599999666214	false							Bitcat	FCardDataAll: 000002132AEC0EA0
+3110	Star Beast	A typical feature is the star-shaped head.	2	0	0	10	41	1.1799999475479	false							Star Beast	FCardDataAll: 000002132AEC0CE0
+3111	Tomb Patrol Sheep	Wander around the cemetery area and jump to a 5-meter-high platform.	2	0	3	10	43	1.2000000476837	false							Tomb Patrol Sheep	FCardDataAll: 000002132AEC0B20
+3112	Centrino	A four-legged animal that is good at running and looks like a combination of a horse and a dog.	2	0	0	12	50	1.2200000286102	false							Centrino	FCardDataAll: 000002132AEC0960
+3113	Jetwing	Huge flying insects with hard carapace.	2	0	0	13	52	1.2400000095367	false							Jetwing	FCardDataAll: 000002132AEC07A0
+3114	Steel Royal	A creature with a body made of solid steel	2	0	8	13	51	1.2599999904633	false							Steel Royal	FCardDataAll: 000002132AEC05E0
+3115	Bantli	A muscular African creature that can run on all fours and stand and fight.	2	0	0	14	47	1.2799999713898	false							Bantli	FCardDataAll: 000002132AEC0420
+3201	Snow-footed Mongoose	His snow-white tail and light blue feet are his representative features.	2	1	12	28	71	1.2999999523163	false							Snow-footed Mongoose	FCardDataAll: 000002132AEC0260
+3202	Electric Claw Dragon	Shaking the wings on its head can put the whole body into an electrified state.	2	1	3	14	71	1.3200000524521	false							Electric Claw Dragon	FCardDataAll: 0000021332446EE0
+3203	Juta	An elegant long-tailed fox.	2	1	2	13	61	1.3200000524521	false							Juta	FCardDataAll: 000002132AEC9AA0
+3204	Cory sheep	A cute sheep who is good at jumping	2	1	0	8	107	1.3400000333786	false							Cory sheep	FCardDataAll: 000002133244A360
+3205	Elk Maple Deer	A giant deer living in the maple forest	2	1	0	8	103	1.3600000143051	false							Elk Maple Deer	FCardDataAll: 000002133244A1A0
+3206	Ant King	A huge ant king.	2	1	4	10	107	1.3799999952316	false							Ant King	FCardDataAll: 000002133244C660
+3207	Honeywing Bee	has gorgeous and sweet wings	2	1	4	14	78	1.3999999761581	false							Honeywing Bee	FCardDataAll: 000002133244C9E0
+3208	Honey-winged Ant	Often compete with honey-winged bees for honey	2	1	4	15	85	1.4199999570847	false							Honey-winged Ant	FCardDataAll: 000002132DEE2720
+3209	Qianshuixia	Disguises itself as coral to hide from predators	2	1	1	7	142	0.98000001907349	false							Qianshuixia	FCardDataAll: 000002132DEE28E0
+3210	Sakura Eye Shark	The color of the eyes is like pink cherry blossoms	2	1	1	32	62	0.94999998807907	false							Sakura Eye Shark	FCardDataAll: 000002132DEE2AA0
+3301	Huonudi	Flame-like hair represents courage	2	2	0	68	230	0.93999999761581	false							Huonudi	FCardDataAll: 000002132DEE2C60
+3302	Blood Moon Beast	The monsters of the vampire family hunt at night.	2	2	11	57	278	1.2000000476837	false							Blood Moon Beast	FCardDataAll: 000002132DEE2E20
+3303	Bag bag	Lively and full of energy, he will invite a boxing duel if he disagrees.	2	2	7	85	188	1.1399999856949	false							Bag bag	FCardDataAll: 000002132DEE2FE0
+3304	Fighting Priest	A dog that has received professional fighting training since childhood.	2	2	7	40	350	1.2599999904633	false							Fighting Priest	FCardDataAll: 00000212F257A360
+3305	Wu Kong	is good at Chinese martial arts and kung fu.	2	2	1	53	280	1.4199999570847	false							Wu Kong	FCardDataAll: 00000212F257A1A0
+3306	Crazy Golden Leopard	has a fanatical love for gold	2	2	3	49	298	1.5	false							Crazy Golden Leopard	FCardDataAll: 00000212F2579FE0
+3307	Qilarus	Has an icy body and will stir up cold wind when running	2	2	12	45	340	1.4500000476837	false							Qilarus	FCardDataAll: 00000212F2579E20
+3308	Ni Gumo	A giant insect said to lurk in the soil	2	2	4	35	445	1.3999999761581	false							Ni Gumo	FCardDataAll: 00000212F2579C60
+3309	Morning Traveler Luna	Her smile is the starting point of the journey.	2	2	2	40	410	1.4400000572205	false							Morning Traveler Luna	FCardDataAll: 00000212F2579AA0
+3310	Captain Sunshine Linda	The girl who always brings the atmosphere to life!	2	2	1	45	365	1.3999999761581	false							Captain Sunshine Linda	FCardDataAll: 00000212F25798E0
+3311	Tang Chong Chong	A little sugar man who likes to sprint on a skateboard	2	2	11	66	243	1.4500000476837	false							Tang Chong Chong	FCardDataAll: 00000212F2579720
+3312	Cyclops	Its arms are powerful and can throw large rocks.	2	2	5	88	185	1.9400000572205	false							Cyclops	FCardDataAll: 00000212F2579560
+3313	Ring Box	He is very small and will speak loudly when he is standing high, but he will be submissive when he is standing low.	2	2	8	71	232	1.7200000286102	false							Ring Box	FCardDataAll: 00000212F25793A0
+3314	Qingsuo	It is said that an old ghost who is over 10,000 years old spends time cleaning and maintaining his brick body every day.	2	2	11	91	200	2.1500000953674	false							Qingsuo	FCardDataAll: 00000212F25791E0
+3315	Starfish	Likes to suck the golden starfish in the water into his mouth and spit it out, just for fun.	2	2	1	84	215	1.5499999523163	false							Starfish	FCardDataAll: 00000212F2579020
+3401	Bobby Langbi	An elf with strong water power, the waves it stirs up can sweep away enemies.	2	3	1	55	270	1.3500000238419	false							Bobby Langbi	FCardDataAll: 00000212F2578E60
+3402	Damu	A good-tempered old tree that provides shade and rain for the animals in the forest. But if anyone dares to destroy the trees, the angry Damu will roar to pieces with huge sound waves.	2	3	2	35	520	1.2999999523163	false							Damu	FCardDataAll: 000002132AECEEA0
+3403	Strange vortex snail	It will leave behind a slippery slime when walking, and can release super-viscous glue to immobilize enemies when necessary.	2	3	4	68	254	1.25	false							Strange vortex snail	FCardDataAll: 000002132DEE21E0
+3404	Haiming female	A shy creature that doesn't like sports and lurks under the sea. It generally does not initiate attacks and can glide quickly on the seabed.	2	3	1	47	355	1.2000000476837	false							Haiming female	FCardDataAll: 000002133244A1A0
+3405	Hyrule	A mysterious four-legged creature said to have served a powerful master.	2	3	10	75	236	1.1200000047684	false							Hyrule	FCardDataAll: 000002133244A360
+3406	Sunshine Holiday·Freya	Passionate like the summer sea breeze, set off with full energy!	2	3	11	60	280	1.1699999570847	false							Sunshine Holiday·Freya	FCardDataAll: 000002132AEC9AA0
+3407	Green Breath Fox	When someone is lost in the forest, the Green Breath Fox will quietly make a sound to guide the lost person to find the direction.	2	3	2	98	205	1.2599999904633	false							Green Breath Fox	FCardDataAll: 0000021332446EE0
+3408	Dice Frog	This dice can distort the direction of gravity according to the changes in the throwing results.	2	3	8	115	196	1.3300000429153	false							Dice Frog	FCardDataAll: 000002132AEC0260
+3409	Three types of balls	It is very popular with humans because the special substances in its body can make the nearby land very fertile, causing unreasonably huge fruits to grow on the land.	2	3	2	120	190	1.2699999809265	false							Three types of balls	FCardDataAll: 000002132AEC0420
+4101	Spida	A giant bird that flies at supersonic speeds.	3	0	7	15	50	1.0199999809265	false							Spida	FCardDataAll: 000002132AEC05E0
+4102	Arrow-feathered bird	Has sharp feathers.	3	0	0	15	45	1.039999961853	false							Arrow-feathered bird	FCardDataAll: 000002132AEC07A0
+4103	Burning Mane Lion	You can condense flames in your palms and use Flame Fist.	3	0	0	16	48	1.0499999523163	false							Burning Mane Lion	FCardDataAll: 000002132AEC0960
+4104	Fantasy Dragon	The pink dreamy foam is intoxicating.	3	0	11	11	43	1.0599999427795	false							Fantasy Dragon	FCardDataAll: 000002132AEC0B20
+4105	Three-leaf palm	A cactus-like creature with three leaves on its head.	3	0	2	20	40	1.0800000429153	false							Three-leaf palm	FCardDataAll: 000002132AEC0CE0
+4106	Sunflowermon	Very eager for sunlight, it can exert its greatest power on sunny days.	3	0	2	19	35	1.1000000238419	false							Sunflowermon	FCardDataAll: 000002132AEC0EA0
+4107	Spiny Rabbit	The body has many cactus spines.	3	0	2	20	35	1.1200000047684	false							Spiny Rabbit	FCardDataAll: 000002132AEC1060
+4108	Fan Bear	Looks like a panda	3	0	0	18	44	1.1399999856949	false							Fan Bear	FCardDataAll: 000002132AEC1220
+4109	Chef Lizard	A lizard-like creature that loves cooking	3	0	7	16	43	1.1599999666214	false							Chef Lizard	FCardDataAll: 000002132AEC13E0
+4110	Maple Tail Fox	A huge tail the color of maple leaves	3	0	7	12	48	1.1799999475479	false							Maple Tail Fox	FCardDataAll: 000002132AEC15A0
+4111	Border Fox	A fox patrolling the border.	3	0	10	17	45	1.2000000476837	false							Border Fox	FCardDataAll: 000002132AEC1760
+4112	Duolingduo	Big ears, high voltage.	3	0	3	15	50	1.2200000286102	false							Duolingduo	FCardDataAll: 000002132AEC1920
+4113	Electric Dragon Lizard	I love lemons very much.	3	0	3	17	35	1.2400000095367	false							Electric Dragon Lizard	FCardDataAll: 000002132AEC1AE0
+4114	Long tail dragon	Good at jumping, running and stealing.	3	0	9	14	56	1.2599999904633	false							Long tail dragon	FCardDataAll: 000002132AEC1CA0
+4115	Pippi	There is a crackling sound of electric sparks while running.	3	0	3	28	50	1.2799999713898	false							Pippi	FCardDataAll: 000002132DEE2020
+4116	Dora Fat	Fat rabbit	3	0	11	23	40	1.2999999523163	false							Dora Fat	FCardDataAll: 000002132AECEEA0
+4117	Black Snail Beast	Carrying a huge snail shell, it can curl up in the shell when encountering danger.	3	0	11	24	33	1.3200000524521	false							Black Snail Beast	FCardDataAll: 00000212F2578E60
+4201	Steel Goat	Can dig caves with steel claws	3	1	8	25	71	1.3400000333786	false							Steel Goat	FCardDataAll: 00000212F2579020
+4202	Stone Mountain Armor	His natural mission is to protect his stone mountain	3	1	5	28	62	1.3600000143051	false							Stone Mountain Armor	FCardDataAll: 00000212F25791E0
+4203	Timid Crab	Crabs that like to huddle up in caves to hide themselves	3	1	6	25	75	1.3799999952316	false							Timid Crab	FCardDataAll: 00000212F25793A0
+4204	Mushroom Cap Crab	The head is shaped like a mushroom	3	1	5	28	67	1.3999999761581	false							Mushroom Cap Crab	FCardDataAll: 00000212F2579560
+4301	Golden Mountain Armor	A beast covered in hard gold steel.	3	2	8	50	334	0.94999998807907	false							Golden Mountain Armor	FCardDataAll: 00000212F2579720
+4302	Mysterious Dragon	Mysterious dragons, it is said that they can only be seen when the weather is abnormal in the sea.	3	2	11	60	278	1.4500000476837	false							Mysterious Dragon	FCardDataAll: 00000212F25798E0
+4303	Thundermon	A magical beast that can control thunderstorm weather, and can make thunderclouds move or cause thunder to fall.	3	2	1	55	298	1.1000000238419	false							Thundermon	FCardDataAll: 00000212F2579AA0
+4304	Bitter Demon	The demon of pain from hell	3	2	10	88	200	1.3500000238419	false							Bitter Demon	FCardDataAll: 00000212F2579C60
+4305	Dark Scale Salamander	A salamander living in the dark abyss of the sea	3	2	1	74	220	1.3500000238419	false							Dark Scale Salamander	FCardDataAll: 00000212F2579E20
+4306	Rabbi	Former special-purpose bunny soldier, Lie Er gave up his Medal of Honor and embarked on a journey to find his missing brother. He is agile and has a strong sense of justice. His backpack contains the tactical manual and secret map left by his father.	3	2	7	42	300	1.3500000238419	false							Rabbi	FCardDataAll: 00000212F2579FE0
+4307	Rock Claw Beast	Lives by eating rocks in caves and has a hard carapace.	3	2	5	55	257	1.3500000238419	false							Rock Claw Beast	FCardDataAll: 00000212F257A1A0
+4308	Menglong	Weave dreams at night.	3	2	9	79	210	1.2999999523163	false							Menglong	FCardDataAll: 00000212F257A360
+4309	Thunder Meow	In lightning weather, every hair becomes electrified by anger.	3	2	3	52	280	1.4199999570847	false							Thunder Meow	FCardDataAll: 000002132DEE2FE0
+4310	Wetland dragon lizard	Lives in damp swamps and likes to eat damp moss.	3	2	9	46	307	1.289999961853	false							Wetland dragon lizard	FCardDataAll: 000002132DEE2E20
+4311	Blazing Sight·Elena	has an irresistible glow of confidence.	3	2	2	75	229	1.3799999952316	false							Blazing Sight·Elena	FCardDataAll: 000002132DEE2C60
+4312	Morning Light Caroline	Every step comes before efficiency.	3	2	5	99	165	1.3500000238419	false							Morning Light Caroline	FCardDataAll: 000002132DEE2AA0
+4313	Treasure Dragon	The happy little dragon who gives out gifts to everyone on Christmas	3	2	9	50	290	1.6499999761581	false							Treasure Dragon	FCardDataAll: 000002132DEE28E0
+4314	Clockwork Duck	It actually has legs, but in order to disguise itself as a box and scare people, it usually only walks when no one sees it.	3	2	11	48	310	1.3999999761581	false							Clockwork Duck	FCardDataAll: 000002132DEE2720
+4315	Fantasy amber sturgeon	2025 Christmas Commemorative Edition	3	2	1	48	380	1.3500000238419	false							Fantasy amber sturgeon	FCardDataAll: 000002133244C9E0
+4316	Split Front	The Messenger of Jacaranda	3	2	2	88	205	1.6000000238419	false							Split Front	FCardDataAll: 000002132DEE1E60
+4317	Sand Electric Scorpion	If you splash water on him, he will become very happy and expose his belly.	3	2	3	99	166	1.4800000190735	false							Sand Electric Scorpion	FCardDataAll: 000002132AEC1CA0
+4318	Dark Scale Salamander	2025 Christmas Commemorative Edition	3	2	1	88	185	1.6000000238419	false							Dark Scale Salamander	FCardDataAll: 000002132AEC1AE0
+4401	Fantasy amber sturgeon	Amber body, elegant lines, the embodiment of beauty in the ocean.	3	3	1	48	380	1.4099999666214	false							Fantasy amber sturgeon	FCardDataAll: 000002132AEC1920
+4402	Tongue Lizard	Use its long tongue to dig deep into the ant nest for a feast.	3	3	7	64	269	1.3200000524521	false							Tongue Lizard	FCardDataAll: 000002132AEC1760
+4403	Ancient Dog Scorpion	A loyal and elegant warrior, extremely excellent in attack, defense, and agility.	3	3	4	57	296	1.3500000238419	false							Ancient Dog Scorpion	FCardDataAll: 000002132AEC15A0
+4404	Youlandie	This squinting eye can make the sea churn.	3	3	1	83	225	1.2599999904633	false							Youlandie	FCardDataAll: 000002132AEC13E0
+4405	Crystal Shell Turtle	Many diggers dream of finding the habitat of the Crystal Shell Turtle, and it is said that there will be a large number of faded crystals.	3	3	1	31	605	1.1499999761581	false							Crystal Shell Turtle	FCardDataAll: 000002132AEC1220
+4406	Forest Overlord	Usually looks downcast as if it lacks sleep, but becomes energetic in the swamp.	3	3	2	67	245	1.25	false							Forest Overlord	FCardDataAll: 000002132AEC1060
+4407	Vitality Bomb·Ji Chenyin	Gym regular, street legend. Her appearance always brings rhythm and excitement, and even opponents can't help but want to join the training.	3	3	10	79	220	1.2799999713898	false							Vitality Bomb·Ji Chenyin	FCardDataAll: 000002132AEC0EA0
+4408	Mud Bird	The bond of symbiotic twins, the upper bunk bed and the lower bunk respectively, are the owl and the mud monster. In fact, occasionally they will be separated for a short time.	3	3	6	188	105	1.3500000238419	false							Mud Bird	FCardDataAll: 000002132AEC0CE0
+4409	Melting Heart Treasure	The body contains low-temperature lava below 100 degrees. When angry, it will really become furious and furious.	3	3	0	172	117	1.4099999666214	false							Melting Heart Treasure	FCardDataAll: 000002132AEC0B20
+4410	Time Law Armor	A giant machine that controls the movement of time. The alarm clocks on both shoulders will sound at 0:00.	3	3	11	208	100	1.5199999809265	false							Time Law Armor	FCardDataAll: 000002132AEC0960
+5101	White Night Demon	A white monster that appears at night	4	0	0	25	50	1.1499999761581	false							White Night Demon	FCardDataAll: 000002132AEC07A0
+5102	Lian Menghu	Can transform into water droplets to hide itself.	4	0	0	20	43	1.1000000238419	false							Lian Menghu	FCardDataAll: 000002132AEC05E0
+5103	Rockhorned Dragon	A small dragon living at the bottom of the canyon.	4	0	6	33	33	1.3999999761581	false							Rockhorned Dragon	FCardDataAll: 000002132AEC0420
+5104	Pharaoh Cat	The skin on the surface of the body can withstand extremely strong impacts	4	0	8	50	10	1.039999961853	false							Pharaoh Cat	FCardDataAll: 000002132AEC0260
+5105	White Rock Giant	The body is made of white rock	4	0	5	20	35	1.2999999523163	false							White Rock Giant	FCardDataAll: 0000021332446EE0
+5106	White Rock Statue	The body is made of white rock	4	0	5	17	45	1.2000000476837	false							White Rock Statue	FCardDataAll: 000002132AEC9AA0
+5107	Australian deer	Deer leader from primitive tribe	4	0	0	16	41	1.1200000047684	false							Australian deer	FCardDataAll: 000002133244A360
+5108	Barbarian deer	Strong deer	4	0	6	15	42	1.1399999856949	false							Barbarian deer	FCardDataAll: 000002133244A1A0
+5110	Mini Sheep	Super small sheep	4	0	0	15	40	1.1799999475479	false							Mini Sheep	FCardDataAll: 00000213324423A0
+5111	Dobby	An elf living in the forest	4	0	2	15	40	1.1799999475479	false							Dobby	FCardDataAll: 000002133244C9E0
+5112	Frozen Bear	Likes to live in extremely cold worlds.	4	0	12	15	40	1.1799999475479	false							Frozen Bear	FCardDataAll: 000002132DEE2720
+5113	Polar seal	It is very cold-resistant and can easily survive in extremely low temperatures.	4	0	12	15	40	1.1799999475479	false							Polar seal	FCardDataAll: 000002132DEE28E0
+5114	Frozen Bird	Flying over the Arctic continent.	4	0	12	15	40	1.1799999475479	false							Frozen Bird	FCardDataAll: 000002132DEE2AA0
+5115	Bi Meng Bee	The tentacles on the top of its head can stimulate powerful electric shocks.	4	0	3	15	40	1.1799999475479	false							Bi Meng Bee	FCardDataAll: 000002132DEE2C60
+5116	Komodo	An electric lizard living in the desert.	4	0	3	15	40	1.1799999475479	false							Komodo	FCardDataAll: 000002132DEE2E20
+5117	Nemo	An electric octopus that lives in the deep sea.	4	0	3	15	40	1.1799999475479	false							Nemo	FCardDataAll: 000002132DEE2FE0
+5118	Electric Seahorse	Likes to electrocute small fish on the bottom of the sea.	4	0	3	15	40	1.1799999475479	false							Electric Seahorse	FCardDataAll: 00000212F257A360
+5119	Bomb Crocodile	Because he is too fat, he only has weak electrical energy.	4	0	3	15	40	1.1799999475479	false							Bomb Crocodile	FCardDataAll: 00000212F257A1A0
+5120	Fat puffer fish	A creature that lives on the bottom of the sea.	4	0	1	15	40	1.1799999475479	false							Fat puffer fish	FCardDataAll: 00000212F2579FE0
+5121	Abyss Octopus	Will spray ink when disturbed.	4	0	1	15	40	1.1799999475479	false							Abyss Octopus	FCardDataAll: 00000212F2579E20
+5122	Ji Crow	Mysterious birds.	4	0	11	15	40	1.1799999475479	false							Ji Crow	FCardDataAll: 00000212F2579C60
+5123	Firefox	A fox with a burning body.	4	0	0	15	40	1.1799999475479	false							Firefox	FCardDataAll: 00000212F2579AA0
+5124	Little Firefox	Firefox’s childhood.	4	0	0	15	40	1.1799999475479	false							Little Firefox	FCardDataAll: 00000212F25798E0
+5201	Steel Crystal Turtle	The back shell grows by eating crystal ore in the cave.	4	1	8	24	62	1.2999999523163	false							Steel Crystal Turtle	FCardDataAll: 00000212F2579720
+5202	Night Rat	A gray-black rat that appears at night.	4	1	7	25	57	1.2000000476837	false							Night Rat	FCardDataAll: 00000212F2579560
+5203	Leaf-winged Frog	A flexible animal that can both jump and fly.	4	1	2	28	57	1.1000000238419	false							Leaf-winged Frog	FCardDataAll: 00000212F25793A0
+5204	Pharaoh Dog	has the superpower of a pharaoh and can summon sand and dust to attack.	4	1	10	15	85	1.0	false							Pharaoh Dog	FCardDataAll: 00000212F25791E0
+5205	Ice Orangutan	Woolly orangutan living in extremely cold areas	4	1	12	17	71	1.5	false							Ice Orangutan	FCardDataAll: 00000212F2579020
+5206	Red Eye Spot	Zebra with red pupils	4	1	0	20	75	1.4199999570847	false							Red Eye Spot	FCardDataAll: 00000212F2578E60
+5207	Bubble Cat	Suddenly jumps out of the water to attack, and can huddle into a small corner to avoid pursuit.	4	1	1	17	71	1.2799999713898	false							Bubble Cat	FCardDataAll: 000002132AECEEA0
+5208	Cold Wind Bear	Bears living in the polar circle.	4	1	12	30	36	1.2799999713898	false							Cold Wind Bear	FCardDataAll: 0000021332442560
+5209	Night Star Bug	has undergone a mutation, so it now has electrical energy.	4	1	3	16	75	1.2799999713898	false							Night Star Bug	FCardDataAll: 000002133244A1A0
+5210	Ceratopsian	A heavyweight insect tank that runs on tracks	4	1	8	17	71	1.2799999713898	false							Ceratopsian	FCardDataAll: 000002133244A360
+5301	Octopus Coco	Coco is the little postman of the underwater village. He always greets people with a smile and delivers letters quickly with his eight tentacles. My dream is to one day reach the surface of the sea and see the legendary "Rainbow Bubble".	4	2	1	28	530	0.95999997854233	false							Octopus Coco	FCardDataAll: 000002132AEC9AA0
+5302	Dream Bug	Chongchong is always dreaming and purring loudly.	4	2	4	35	480	0.95999997854233	false							Dream Bug	FCardDataAll: 0000021332446EE0
+5303	Long Duoduo	A small dragon that can disguise itself as grass, but its divine power is immeasurable.	4	2	9	30	500	0.95999997854233	false							Long Duoduo	FCardDataAll: 000002132AEC0260
+5304	Lucky Leaf Frog	Like extremely humid environments and have a lot of water in their bodies.	4	2	2	20	700	0.95999997854233	false							Lucky Leaf Frog	FCardDataAll: 000002132AEC0420
+5305	Tower flower beast	When her corolla blooms, Towermon's power is fully unleashed.	4	2	6	40	370	0.95999997854233	false							Tower flower beast	FCardDataAll: 000002132AEC05E0
+5306	Thunder Flame Fang	Born from the crater of a volcano, Thunderfang can summon lightning and flames. He does not fight to destroy, but to protect the forgotten ancient dragon place. Strength and responsibility go hand in hand.	4	2	9	53	267	1.1000000238419	false							Thunder Flame Fang	FCardDataAll: 000002132AEC07A0
+5307	Tombmelting Dragon	An ancient dragon from ancient times, guarding the tomb of the Lava King.	4	2	9	100	175	2.0	false							Tombmelting Dragon	FCardDataAll: 000002132AEC0960
+5308	Thunder Beast	Causes a wide-area lightning strike when roaring.	4	2	3	74	231	1.7000000476837	false							Thunder Beast	FCardDataAll: 000002132AEC0B20
+5309	Winter Spring	Running on a river will cause the river to freeze.	4	2	12	66	261	1.7999999523163	false							Winter Spring	FCardDataAll: 000002132AEC0CE0
+5310	Glory	A colorful Pegasus.	4	2	11	165	102	2.0999999046326	false							Glory	FCardDataAll: 000002132AEC0EA0
+5311	Queen of Swimming Day·Su Liyin	He has his own focus under the sun, and his smile hides his unyielding confidence and sultry aura.	4	2	1	130	130	1.8500000238419	false							Queen of Swimming Day·Su Liyin	FCardDataAll: 000002132AEC1060
+5312	Chi Yang Young General Kasugina	With hair like flames and full of enthusiasm, he is the most incredible sight in the library.	4	2	0	62	280	2.0099999904633	false							Chi Yang Young General Kasugina	FCardDataAll: 000002132AEC1220
+5313	Icefang Mammoth	2025 Christmas Commemorative Edition	4	2	12	100	210	1.3500000238419	false							Icefang Mammoth	FCardDataAll: 000002132AEC13E0
+5314	Lucky Leaf Frog	2025 Christmas Commemorative Edition	4	2	2	20	700	1.289999961853	false							Lucky Leaf Frog	FCardDataAll: 000002132AEC15A0
+5315	Cake	A rare insect on the verge of extinction, delicious and fragile.	4	2	4	30	500	1.6599999666214	false							Cake	FCardDataAll: 000002132AEC1760
+5316	Gift Box Boxer	Suddenly pops out of the box and punches you!	4	2	8	168	100	1.6699999570847	false							Gift Box Boxer	FCardDataAll: 000002132AEC1920
+5317	Christmas elephant	Although not the cutest, he can make friends with anyone.	4	2	7	80	205	1.25	false							Christmas elephant	FCardDataAll: 000002132AEC1AE0
+5318	Tower flower beast	2025 Christmas Commemorative Edition	4	2	6	40	370	1.4199999570847	false							Tower flower beast	FCardDataAll: 000002132AEC1CA0
+5319	Flat ray	A mount that Santa Claus rides when delivering gifts in the water.	4	2	1	76	214	1.7999999523163	false							Flat ray	FCardDataAll: 0000021332448220
+5401	Shidou Xiaoba	Weighs several tons and is difficult to move as long as he doesn't move.	4	3	5	25	750	1.3200000524521	false							Shidou Xiaoba	FCardDataAll: 00000212F2574BE0
+5402	Mushroom fish	A fish that lives on the water, its back is very suitable for mushroom growth.	4	3	1	80	280	1.4099999666214	false							Mushroom fish	FCardDataAll: 000002132AECEEA0
+5403	Ankylosaurus	A swift and fierce hunter with a very stiff tail.	4	3	9	90	245	1.3999999761581	false							Ankylosaurus	FCardDataAll: 00000212F2578E60
+5404	Icefang Mammoth	Lives in extremely cold areas and can use Ice Wind Raid.	4	3	12	100	210	1.2999999523163	false							Icefang Mammoth	FCardDataAll: 00000212F2579020
+5405	Caodundun	Cao Dundun has a very tenacious vitality and can regenerate as long as there is water and sunlight.	4	3	2	24	800	1.2000000476837	false							Caodundun	FCardDataAll: 00000212F25791E0
+5406	Dead Steel Stone	An elf with strong water power, the waves it stirs up can sweep away enemies.	4	3	8	30	700	1.1000000238419	false							Dead Steel Stone	FCardDataAll: 00000212F25793A0
+5407	Hayate Fist Boy·Hikaru Nitta	The shadowy boy on the playground wears an eyepatch to hide the scars of the past, his fist always moving forward.	4	3	5	60	340	1.3700000047684	false							Hayate Fist Boy·Hikaru Nitta	FCardDataAll: 00000212F2579560
+5408	New Lima	A cheerful pony with golden hooves and horns that appears in the Year of the Horse.	4	3	7	65	320	1.2799999713898	false							New Lima	FCardDataAll: 00000212F2579720
+5409	Dark Abyss Sheep	A mysterious creature that absorbs the energy of magnetic fields deep underground and controls this energy	4	3	10	105	235	1.4199999570847	false							Dark Abyss Sheep	FCardDataAll: 00000212F25798E0
+5410	Yanxialong	It is called a living stratum and rarely moves. Many people mistakenly think that they are stepping on the ground, but they are actually on the body of Yanxialong.	4	3	5	193	117	1.5299999713898	false							Yanxialong	FCardDataAll: 00000212F2579AA0
+6101	Ripple Snake	Can switch between ice state and water state freely	5	0	12	15	65	1.0	false							Ripple Snake	FCardDataAll: 00000212F2579C60
+6102	Glass Butterfly	Flaps its wings and shoots glass shards to attack	5	0	4	17	62	1.0099999904633	false							Glass Butterfly	FCardDataAll: 00000212F2579E20
+6103	Corrupted Thunder Beast	When colliding at high speed, it can use the electric current generated in the body to paralyze the enemy.	5	0	3	19	53	1.0299999713898	false							Corrupted Thunder Beast	FCardDataAll: 00000212F2579FE0
+6104	Ice Peak Ape	is good at climbing icebergs.	5	0	12	20	55	1.0499999523163	false							Ice Peak Ape	FCardDataAll: 00000212F257A1A0
+6105	Ghost Shark	Although dead, he is still wandering under the sea.	5	0	1	20	65	1.0700000524521	false							Ghost Shark	FCardDataAll: 00000212F257A360
+6106	Ghost Hedgehog	A creature formed from the souls of hedgehogs who died in forest fires.	5	0	11	21	60	1.039999961853	false							Ghost Hedgehog	FCardDataAll: 000002132DEE2FE0
+6107	One-eyed octopus	Ink containing neurotoxins can make opponents tired and weak.	5	0	11	30	49	0.98000001907349	false							One-eyed octopus	FCardDataAll: 000002132DEE2E20
+6108	Blue Bird	Feathers can block and bounce flying objects	5	0	10	12	80	1.0700000524521	false							Blue Bird	FCardDataAll: 000002132DEE2C60
+6109	Soul Leaving Insect	Can cause the opponent's soul to temporarily leave the body	5	0	10	15	75	1.0900000333786	false							Soul Leaving Insect	FCardDataAll: 000002132DEE2AA0
+6110	Nemesis	The ability to absorb stars launches an impact	5	0	10	22	66	1.1000000238419	false							Nemesis	FCardDataAll: 000002132DEE28E0
+6111	Star Jellyfish	It can swim and fly, and can light up its tentacles to emit strong light at night.	5	0	11	17	58	1.1100000143051	false							Star Jellyfish	FCardDataAll: 000002132DEE2720
+6112	Earth Mountain Turtle	Carrying a huge mountain on his back.	5	0	6	22	67	1.1200000047684	false							Earth Mountain Turtle	FCardDataAll: 000002133244C9E0
+6113	Tusk Pig	The fangs can penetrate the ground and are good at burrowing attacks.	5	0	6	21	60	1.1299999952316	false							Tusk Pig	FCardDataAll: 000002120E96F220
+6114	Crystal Beetle	By eating underground minerals, strange ores can gradually grow on its back.	5	0	5	20	55	1.0800000429153	false							Crystal Beetle	FCardDataAll: 0000021332448220
+6115	Desert Lizard	Species that live in dry rocky desert areas can live without water at all.	5	0	0	18	62	1.0900000333786	false							Desert Lizard	FCardDataAll: 000002132AEC1CA0
+6116	Boxing Kangaroo	Boxing contains explosive power.	5	0	0	23	45	1.1599999666214	false							Boxing Kangaroo	FCardDataAll: 000002132AEC1AE0
+6117	Steel Armored Rhinoceros	By eating various metals, the outer armor takes on different alloy qualities.	5	0	8	60	21	1.1699999570847	false							Steel Armored Rhinoceros	FCardDataAll: 000002132AEC1920
+6118	Fantasy Bat	Fantasy creatures that can only be detected using magic detectors are invisible to the naked eye.	5	0	11	55	30	1.1299999952316	false							Fantasy Bat	FCardDataAll: 000002132AEC1760
+6119	Hypnotic Peacock	Being in a dream for a long time, can spiritually connect with other dream creatures.	5	0	10	70	10	1.1499999761581	false							Hypnotic Peacock	FCardDataAll: 000002132AEC15A0
+6120	Steel Thorn Beast	Creature covered with steel spikes	5	0	8	60	15	1.1399999856949	false							Steel Thorn Beast	FCardDataAll: 000002132AEC13E0
+6121	Mechanical Bird	Flying monitoring.	5	0	8	53	30	1.1200000047684	false							Mechanical Bird	FCardDataAll: 000002132AEC1220
+6123	Engineering icon	The body structure is good at lifting and carrying heavy objects and can play an important role in building houses.	5	0	8	45	35	1.1699999570847	false							Engineering icon	FCardDataAll: 000002132AEC1060
+6124	Volcano Dragon	A species active in volcanic areas and extremely heat-resistant.	5	0	0	39	60	1.2000000476837	false							Volcano Dragon	FCardDataAll: 000002132AEC0EA0
+6125	Electromagnetic Dog	An electromagnetic canine creature.	5	0	3	12	50	0.98000001907349	false							Electromagnetic Dog	FCardDataAll: 000002132AEC0CE0
+6126	Color-changing deer	Colorful forest creatures that can change color in different environments to blend into the environment.	5	0	2	50	30	1.0499999523163	false							Color-changing deer	FCardDataAll: 000002132AEC0B20
+6127	Greedy Dragon	Can eat any object no matter how hard it is.	5	0	3	88	10	1.0599999427795	false							Greedy Dragon	FCardDataAll: 000002132AEC0960
+6201	Rainbow Koala	Throwing rainbow balls can confuse enemies.	5	1	11	22	75	1.1299999952316	false							Rainbow Koala	FCardDataAll: 000002132AEC07A0
+6202	Ice and Snow Spirit Wave	You can only go out to play in winter	5	1	12	25	60	1.1000000238419	false							Ice and Snow Spirit Wave	FCardDataAll: 000002132AEC05E0
+6203	Faqi	A wolf with pharaoh's superpowers	5	1	10	23	67	1.0900000333786	false							Faqi	FCardDataAll: 000002132AEC0420
+6204	Komi Sheep	Need to eat circuit boards to keep the brain’s CPU running	5	1	8	23	70	1.039999961853	false							Komi Sheep	FCardDataAll: 000002132AEC0260
+6205	Rainbow Dragon	Super Rainbow Dragon.	5	1	10	25	80	1.0499999523163	false							Rainbow Dragon	FCardDataAll: 0000021332446EE0
+6206	Dada Duck	A cute little duck.	5	1	7	12	100	1.1799999475479	false							Dada Duck	FCardDataAll: 000002132AEC9AA0
+6207	Steel Teeth Dog	A creature covered in steel.	5	1	8	15	96	1.1900000572205	false							Steel Teeth Dog	FCardDataAll: 000002133244A360
+6208	Ore Beast	Live in mineral-rich caves deep underground.	5	1	11	25	58	1.2000000476837	false							Ore Beast	FCardDataAll: 000002133244A1A0
+6209	Angel Eagle	A heavenly creature that flies at super high altitudes and can hit the ground with high-speed lightning strikes	5	1	3	22	70	1.210000038147	false							Angel Eagle	FCardDataAll: 0000021332442720
+6301	Ghost Egg	No one has ever known the true appearance of the mysterious creature inside the eggshell.	5	2	11	40	485	0.98000001907349	false							Ghost Egg	FCardDataAll: 000002133244C9E0
+6302	Lightning Sheep	will attract lightning from the sky during thunderstorms.	5	2	3	50	300	0.98000001907349	false							Lightning Sheep	FCardDataAll: 000002132DEE2720
+6303	Radix Snake Flower	A snake-shaped plant with mysterious toxins in its body.	5	2	2	52	320	0.98000001907349	false							Radix Snake Flower	FCardDataAll: 000002132DEE28E0
+6304	Bubbles	An aquatic creature whose entire body is made of bubbles.	5	2	1	75	220	0.98000001907349	false							Bubbles	FCardDataAll: 000002132DEE2AA0
+6305	Bubble Jellyfish	A jellyfish with a foamy body.	5	2	1	34	450	0.98000001907349	false							Bubble Jellyfish	FCardDataAll: 000002132DEE2C60
+6306	Gugu	Goo-goo-goo-goo-goo.	5	2	7	48	360	0.98000001907349	false							Gugu	FCardDataAll: 000002132DEE2E20
+6307	Lala	Huhhhhhhhh.	5	2	2	28	650	0.98000001907349	false							Lala	FCardDataAll: 000002132DEE2FE0
+6308	Mud Hippopotamus	Likes to live in a cool quagmire surrounded by shade.	5	2	1	27	670	2.0	false							Mud Hippopotamus	FCardDataAll: 00000212F257A360
+6309	Sunshine Trainee·Natsume Rin	The energetic girl on the playground is full of energy, never late for practice, and her smile is brighter than the sun!	5	2	3	65	270	1.7000000476837	false							Sunshine Trainee·Natsume Rin	FCardDataAll: 00000212F257A1A0
+6310	Fighting Girl Emily	A girl who is always full of energy, running, punching, and challenging the limits, she is never absent!	5	2	6	70	250	1.6599999666214	false							Fighting Girl Emily	FCardDataAll: 00000212F2579FE0
+6311	Candle Fox	Eyes like candles are watching you	5	2	0	45	380	1.7000000476837	false							Candle Fox	FCardDataAll: 00000212F2579E20
+6312	Palm-tailed Frog	A magical creature born from the split palm of the Night Tide Demon King	5	2	1	60	285	1.6900000572205	false							Palm-tailed Frog	FCardDataAll: 00000212F2579C60
+6313	Wave Demon	The red plants floating on the sea are said to be closely related to a certain white rose in the desert.	5	2	2	80	225	1.75	false							Wave Demon	FCardDataAll: 00000212F2579AA0
+6314	Star Core Electric Spider	Can inspire powerful electric energy to penetrate defenses	5	2	3	100	180	1.9500000476837	false							Star Core Electric Spider	FCardDataAll: 00000212F25798E0
+6315	Jiajia	likes to laugh, and the plants around him will thrive when they hear his laughter.	5	2	2	110	160	2.0999999046326	false							Jiajia	FCardDataAll: 00000212F2579720
+6316	Velvet Vine	It has green fur on its body, and its tail is made of tough vines.	5	2	2	120	150	2.2999999523163	false							Velvet Vine	FCardDataAll: 00000212F2579560
+6317	Night Flower	Lives in the Meteor Forest, and when in contact with it, memories of past lives will be recalled.	5	2	11	100	220	2.0	false							Night Flower	FCardDataAll: 00000212F25793A0
+6318	Lanfu	Parasitic organisms on coral reefs can hide themselves by retracting their bodies into flower petals.	5	2	1	37	445	1.3999999761581	false							Lanfu	FCardDataAll: 00000212F25791E0
+6319	Cotton seedlings	2025 Christmas Commemorative Edition	5	2	6	25	800	1.6000000238419	false							Cotton seedlings	FCardDataAll: 00000212F2579020
+6320	Snow Hammer	Every year, children put a carrot nose on it, but it actually has no nose.	5	2	12	75	225	2.0999999046326	false							Snow Hammer	FCardDataAll: 00000212F2578E60
+6321	Owl Griffin	Santa’s new aerial vehicle is quite warm to ride on.	5	2	0	99	255	1.8500000238419	false							Owl Griffin	FCardDataAll: 000002132AECEEA0
+6322	Buu	Did he grow out of that: Shh... Wouldn't that be too rude:	5	2	6	100	250	1.2999999523163	false							Buu	FCardDataAll: 000002132DEE4A20
+6323	Cola Cola	Myopia is inherited from my ancestors, so I already wear glasses in the eggshell, and the glasses can get bigger as I grow up.	5	2	3	80	285	1.5499999523163	false							Cola Cola	FCardDataAll: 000002133244A1A0
+6401	Sporosaurus	The spores on its tail can suffocate enemies.	5	3	9	42	480	1.0800000429153	false							Sporosaurus	FCardDataAll: 000002133244A360
+6402	Three-headed piranha	It disguises itself as a plant and hides in the depths of the forest, and suddenly opens its mouth to attack when the animals are not paying attention.	5	3	2	55	380	1.039999961853	false							Three-headed piranha	FCardDataAll: 000002132AEC9AA0
+6403	Penpen	A baby elephant who loves various flowerpots as hats.	5	3	2	70	340	1.2999999523163	false							Penpen	FCardDataAll: 0000021332446EE0
+6404	Flower Dream	The Flower Messenger who controls dreams	5	3	10	100	250	1.1200000047684	false							Flower Dream	FCardDataAll: 000002132AEC0260
+6405	Giant Mouth Rock	It holds rocks and soil together.	5	3	5	35	600	1.1699999570847	false							Giant Mouth Rock	FCardDataAll: 000002132AEC0420
+6406	Fungus Hunter Squid	Dangerous creatures in the water that release poison to attack enemies.	5	3	12	65	350	1.0499999523163	false							Fungus Hunter Squid	FCardDataAll: 000002132AEC05E0
+6407	Street guy Bruno	A hip-hop master from Brooklyn, sunny, loud, a bit fierce but actually a very nice person.	5	3	6	80	270	1.3099999427795	false							Street guy Bruno	FCardDataAll: 000002132AEC07A0
+6408	Cotton seedlings	The cute cotton elf will burrow into the soil to avoid danger when in the fields.	5	3	6	25	800	1.3099999427795	false							Cotton seedlings	FCardDataAll: 000002132AEC0960
+6409	Double leaf strain	Twin plants, the water spirit is responsible for absorbing water, and the grass spirit is responsible for providing nutrients.	5	3	2	77	286	1.2400000095367	false							Double leaf strain	FCardDataAll: 000002132AEC0B20
+6410	Zeshui Beast	The guardian spirit in the lake controls the balance of the water. When abnormal forces are about to cause floods or disasters, the Zesui Beast will warn everyone.	5	3	1	66	351	1.3300000429153	false							Zeshui Beast	FCardDataAll: 000002132AEC0CE0
+7101	Le Yu Bird	A lively and cheerful bird spirit, it travels through the forest with its melodious songs. It can influence the emotions of its partners with its melody. It is the "sonic assistant" in the team.	6	0	7	21	65	1.0	false							Le Yu Bird	FCardDataAll: 000002132AEC0EA0
+7102	Leaf Blade	An insect-shaped elf with wings as sharp as blades and as fast as the wind in the dense forest.	6	0	4	23	60	0.97000002861023	false							Leaf Blade	FCardDataAll: 000002132AEC1060
+7103	Leaf Claw Beast	A small grass-type beast, covered with vine leaves, agile and a master of disguise in the jungle.	6	0	2	20	75	0.98000001907349	false							Leaf Claw Beast	FCardDataAll: 000002132AEC1220
+7104	Earthdramon	A calm and taciturn dragon elf, he often patrols Iwahara Cliff alone. He is good at ground cracking and shock attacks and is the tactical core of the team.	6	0	6	22	70	0.99000000953674	false							Earthdramon	FCardDataAll: 000002132AEC13E0
+7105	Rockfist Beast	His body is as hard as rock, and his fists can break boulders. He is famous for his defense and punches, and is a rock-steady shield wall character in battle.	6	0	5	15	65	1.0099999904633	false							Rockfist Beast	FCardDataAll: 000002132AEC15A0
+7106	Babu	A mysterious little beast that lives deep in the forest. It is gentle but full of curiosity and often sneaks out at night.	6	0	11	55	21	1.0199999809265	false							Babu	FCardDataAll: 000002132AEC1760
+7107	Rakamon	The elves who live in the clouds are as light as mist and generate light every step of the way. They have the ability to control the weather and are the guides of the sky.	6	0	10	33	65	1.0299999713898	false							Rakamon	FCardDataAll: 000002132AEC1920
+7108	Fist Raccoon	A passionate fighting elf, wearing boxing gloves, with flexible movements and extremely fast attack rhythm, he is a fighting star in the ring.	6	0	8	30	50	1.039999961853	false							Fist Raccoon	FCardDataAll: 000002132AEC1AE0
+7109	Starryu Deer	The mysterious guardian of the night sky, whose steps carry starlight and can summon the power of the stars.	6	0	3	15	63	1.0499999523163	false							Starryu Deer	FCardDataAll: 000002132AEC1CA0
+7110	Secret Love Bird	A taciturn bird elf with emotional fluctuations hidden in his eyes. He is good at shadow and psychic skills. He is an observer who hides his strength.	6	0	7	50	30	1.0599999427795	false							Secret Love Bird	FCardDataAll: 0000021332448220
+7111	Tree Elephant Beast	Forest guardian, wearing tree armor, powerful, good at crushing and defense.	6	0	6	13	80	1.0700000524521	false							Tree Elephant Beast	FCardDataAll: 000002133244B860
+7112	Water Bubble Spirit	A happy water spirit creature that often floats with bubbles and can control water flow to fight.	6	0	1	34	55	1.0800000429153	false							Water Bubble Spirit	FCardDataAll: 000002132AECEEA0
+7113	Tidal Wing	Water elves active on the coast have gliding-like fins and can fly across the sky with the help of waves. It is good at controlling water flow for high-speed impact, and has a lively personality.	6	0	0	28	66	1.0900000333786	false							Tidal Wing	FCardDataAll: 00000212F2578E60
+7114	Thunderfish	An electric fish with a bullet-like body, it swims extremely fast, and its electric fins can release high-voltage current. It is a strong fighter in underwater battles and often stuns its opponents with electric waves.	6	0	3	41	45	1.1499999761581	false							Thunderfish	FCardDataAll: 00000212F2579020
+7115	Fire Tailed Beast	A flame-type dragon beast with a continuously burning tail. It lives in volcanic areas. When it moves, it will leave a trail of fire marks on the ground. It can clear out enemies with its tail of fire.	6	0	0	23	83	1.1000000238419	false							Fire Tailed Beast	FCardDataAll: 00000212F25791E0
+7116	Fire Tiger	A small tiger spirit with a fiery mane. Although it is small in size, it has an extremely stubborn personality. It is good at close combat and often scares away enemies with heat waves.	6	0	0	35	55	1.1200000047684	false							Fire Tiger	FCardDataAll: 00000212F25793A0
+7117	Fire Winged Dragon	A flying dragon spirit surrounded by flames, its back and tail are burning. It is good at diving in flames in the air. It is one of the rulers of the fire attribute.	6	0	9	36	41	1.1299999952316	false							Fire Winged Dragon	FCardDataAll: 00000212F2579560
+7118	Spirit Squirrel	A small spiritual beast that is common in the forest. The leaves on its head can sense weather changes, and its tail stores seed energy. It is the closest partner to nature in the grass system.	6	0	7	54	30	1.1499999761581	false							Spirit Squirrel	FCardDataAll: 00000212F2579720
+7119	Flamehorn Beast	A fire-based beast that lives in lava fields, with eternal flames burning on its horns. It is good at charging and spitting lava, and its attacks are both fast and destructive.	6	0	5	41	34	1.039999961853	false							Flamehorn Beast	FCardDataAll: 00000212F25798E0
+7120	Lava Fang	A small fire-type dragon with scorching rock fangs hidden in the corner of its mouth. It has a powerful bite and the ability to melt rocks. It is a flame hunter in the cave.	6	0	0	52	23	1.0599999427795	false							Lava Fang	FCardDataAll: 00000212F2579AA0
+7201	Green Leaf Essence	A plant elf whose whole body is wrapped in young leaves, it can absorb sunlight and quickly restore its physical strength. It moves lightly and is a healer deep in the forest.	6	1	2	36	25	1.0700000524521	false							Green Leaf Essence	FCardDataAll: 00000212F2579C60
+7202	Winged Thunderworm	An insect spirit that can fly with electricity, its wings vibrate like thunder, has excellent maneuverability and lightning attacks, and is a lightning-quick hunter.	6	1	3	74	20	1.1499999761581	false							Winged Thunderworm	FCardDataAll: 00000212F2579E20
+7203	Flower Fairy	A fairy-type elf born among flowers, with an elegant figurine and the ability to heal pollen and hypnotize the language of flowers, she is a gentle guardian of nature.	6	1	11	13	80	1.0099999904633	false							Flower Fairy	FCardDataAll: 00000212F2579FE0
+7204	Flower Wing Spirit	An agile elf that often flies in the sea of flowers. Its wings are as light as petals. It is good at confusing enemies and moving quickly. It is a representative of speed and charm.	6	1	10	26	69	1.039999961853	false							Flower Wing Spirit	FCardDataAll: 00000212F257A1A0
+7205	Hua Yunling	A flower elf who is born with fragrance. Her wings are as translucent as crystal. She can influence the emotions of others with the fragrance of flowers. She is the messenger of the melody of flowers.	6	1	10	25	76	1.1000000238419	false							Hua Yunling	FCardDataAll: 00000212F257A360
+7206	Blue Flame Spirit	A fire elf clad in blue flames with a cold personality. He is good at controlling high-temperature green flames. He is an expert in long-range firepower combat with precise shots.	6	1	0	36	75	1.1499999761581	false							Blue Flame Spirit	FCardDataAll: 000002132DEE2FE0
+7207	Blue Bat Beast	A rare bat beast that lives in the Cold Crystal Cave. It has an ice crystal core on its chest. It can release cold air to freeze enemies and fly at high speeds with its wings.	6	1	12	57	20	1.1900000572205	false							Blue Bat Beast	FCardDataAll: 000002132DEE2E20
+7208	Teng Yueling	A small dragon-shaped elf covered in vines, active among the tree canopies. He moves quickly and is good at entangling enemies and resonating with nature in a fighting style.	6	1	2	36	54	1.2000000476837	false							Teng Yueling	FCardDataAll: 000002132DEE2C60
+7209	Mushroom Spirit	Mushroom elves who look cute but have cunning personalities can secrete spores to disturb enemies. They often disguise themselves with cute appearances and are little traps in the forest.	6	1	6	44	36	1.1599999666214	false							Mushroom Spirit	FCardDataAll: 000002132DEE2AA0
+7210	Papa crab	A naive amphibious elf with a hard back that can resist attacks. It moves slowly but has amazing defense. It likes to stay in warm streams.	6	1	1	41	43	1.1000000238419	false							Papa crab	FCardDataAll: 000002132DEE28E0
+7211	Flash Bubble Fox	A little fox spirit full of electricity. Its tail stores electricity. It has a lively personality. It can control thunder and lightning to carry out quick attacks. It is a lightning-quick explorer.	6	1	3	37	50	1.0700000524521	false							Flash Bubble Fox	FCardDataAll: 000002132DEE2720
+7212	Amphibious Stone Spirit	Ice elves with crystal energy in their bodies live deep in mines. They are good at creating shields and reflecting energy, and are reliable partners for exploring the underground.	6	1	12	25	65	1.0599999427795	false							Amphibious Stone Spirit	FCardDataAll: 000002133244C9E0
+7213	Flash Fox	A vibrant fox elf, the flames on its tail and back will beat as it runs. Outgoing and curious, he is good at disrupting enemies with his flickering movements and is one of the most dexterous attackers in the fire system.	6	1	0	28	61	1.0700000524521	false							Flash Fox	FCardDataAll: 000002133244BA20
+7214	Deer Leaf Beast	The grass-type deer lives deep in the forest. Its horn-like branch buds can sense the changes of the seasons, and the leaves on its surface can release healing power. It has a calm and quiet personality and is one of the spiritual beasts that protects the balance of the forest.	6	1	2	24	69	1.0900000333786	false							Deer Leaf Beast	FCardDataAll: 0000021332448220
+7301	Prokaryotic sequence·Qimi	A mysterious artificial life form composed of blue and red energy flow, with the core number "01" engraved on its shoulder. Possessing extremely high data processing capabilities, he often leads actions with calmness and rationality, and also has the potential for independent evolution.	6	2	10	45	435	1.1000000238419	false							Prokaryotic sequence·Qimi	FCardDataAll: 000002132AEC1AE0
+7302	Ni Feng Girl Liyin	An alien agent from the electronic space, wearing a neon armor and having malfunction signals reflected in his eyes. The fighting style is sharp and fast, and he is good at digital cutting and information penetration. He is an awakener who resists the system.	6	2	11	91	220	1.2999999523163	false							Ni Feng Girl Liyin	FCardDataAll: 000002132AEC1760
+7303	Shadow Ember	A flaming dragon born from the lava abyss, its body is as black as iron rock, and its wings are burning with eternal fire. The roar can shatter mountains and is a symbol of destruction and rebirth.	6	2	9	128	158	1.6000000238419	false							Shadow Ember	FCardDataAll: 000002132AEC13E0
+7304	Sugar Horse	This pony spirit animal lives in the Candy Valley. It has a mane as fluffy as sugar candies and a gentle personality. It is the favorite companion of children. Sugar energy stored in the body can resolve toxins and negative states.	6	2	7	53	380	1.5	false							Sugar Horse	FCardDataAll: 000002132AEC1220
+7305	Bubble Chirp	The baby shark is full of bubble energy and has a cheerful personality, always making bubbles to express his emotions. It is the first choice elf for introductory trainers of the water system.	6	2	1	72	280	1.3999999761581	false							Bubble Chirp	FCardDataAll: 000002132AEC1060
+7306	Blazing Wolf Split	A strong and flexible werewolf warrior, he is good at combining fire and melee combat to carry out rapid and continuous attacks.	6	2	7	80	276	1.7300000190735	false							Blazing Wolf Split	FCardDataAll: 000002132AEC0EA0
+7307	Frost Sky Wings	The ice dragon soars above the extremely cold clouds. Its body is condensed by crystal frost, and it can freeze everything when it flaps its wings. Calm and noble, he is often called the "King of the North".	6	2	9	110	205	1.6000000238419	false							Frost Sky Wings	FCardDataAll: 000002132AEC0CE0
+7308	Burning Shadow	A familiar born from ashes, it likes to sleep in hot places.	6	2	0	98	210	1.5499999523163	false							Burning Shadow	FCardDataAll: 000002132AEC0B20
+7309	Charming Moon Spirit	A mysterious spirit that appears under the moonlight, with a calm and charming personality. Good at using moon shadow magic.	6	2	11	43	400	1.7999999523163	false							Charming Moon Spirit	FCardDataAll: 000002132AEC0960
+7310	Star Jumping Monkey	An energetic monkey adventurer who always wears goggles and a backpack and dreams of exploring the universe. Possessing extremely high mobility and star energy control capabilities, he is a star player in speed-based combat.	6	2	7	66	300	1.9500000476837	false							Star Jumping Monkey	FCardDataAll: 000002132AEC07A0
+7311	Rock Beast	An armored beast with a body that flows like lava. Its arms are heavy and powerful, and it is good at crushing rocks and enemy formations. The heart of the rock vein is always burning in his body, and he is the overlord deep in the mine.	6	2	5	38	530	1.539999961853	false							Rock Beast	FCardDataAll: 000002132AEC05E0
+7312	Jumping Girl Korra	A fighting girl whose weapons are heartbeat and rhythm, she releases explosive punches based on the rhythm. Full of energy and dexterity, he is the rhythm star who never tires in battle.	6	2	3	182	110	1.6599999666214	false							Jumping Girl Korra	FCardDataAll: 000002132AEC0420
+7313	Thunder Explosion Charge·Wei Ming	The electric light turns into a fist, and the lightning turns into an assault!	6	2	3	144	140	1.7400000095367	false							Thunder Explosion Charge·Wei Ming	FCardDataAll: 000002132AEC0260
+7314	Pointed Crest Worm	2025 Christmas Commemorative Edition	6	2	4	110	200	1.7999999523163	false							Pointed Crest Worm	FCardDataAll: 0000021332446EE0
+7315	Gingerbread Frosting	can use magic to create cookies!	6	2	10	90	215	1.8899999856949	false							Gingerbread Frosting	FCardDataAll: 000002132AEC9AA0
+7316	Xue Lingling	With such a big kitchen knife, he must be a chef.	6	2	12	124	165	2.2000000476837	false							Xue Lingling	FCardDataAll: 000002133244A360
+7317	Haima Star	Many children like the stars that shine brightly on the bottom of the sea.	6	2	1	145	145	1.9800000190735	false							Haima Star	FCardDataAll: 000002133244A1A0
+7318	Tuanlumon	Carrying a huge ball of hair on his back, he is good at sewing wool into various things using superb textile skills.	6	2	2	152	138	1.7999999523163	false							Tuanlumon	FCardDataAll: 000002133244BBE0
+7319	Zandalar Dragon	The god worshiped in the annual Zandalari festival is said to be able to protect the health of animals and children.	6	2	9	166	125	1.9500000476837	false							Zandalar Dragon	FCardDataAll: 00000212F257CBA0
+7401	Bubble Fin Beast	The Bubblefin is a soft-bodied, jellyfish-like, slippery creature with a purple-blue body, a peculiar snail-shaped "horn" and an exaggerated single-eyed expression. Despite its funny appearance, Bubblefin is actually very intelligent and full of emotions, often using exaggerated movements to attract the attention of its companions.	6	3	11	50	420	1.1000000238419	false							Bubble Fin Beast	FCardDataAll: 000002133244E7A0
+7402	Runbo Whale	It looks like a combination of a whale and a seal, and often carries a green little friend in its belly. They live in warm shallow waters or coastal areas and feed on aquatic plants and plankton.	6	3	1	87	266	1.1000000238419	false							Runbo Whale	FCardDataAll: 000002133244E960
+7403	Genmiaoling	It likes to hide in the shadows of woods, using its curly roots to imitate other plants for camouflage. When frightened, it will jump up suddenly and use its roots to jump short distances.	6	3	2	35	650	1.4500000476837	false							Genmiaoling	FCardDataAll: 000002133244C9E0
+7404	Star Attack Beast	The meteor demon spirit among the celestial bodies, its tail drags a stream of stardust. The silence that can tear the night sky apart is the shadow that night watchers fear most.	6	3	10	25	910	1.3500000238419	false							Star Attack Beast	FCardDataAll: 000002132DEE2720
+7405	Flame Shadow Demon	The flame ghost wrapped in red and blue flames has a strange figurine and has extremely strong defense-breaking and suppression capabilities.	6	3	0	105	210	1.25	false							Flame Shadow Demon	FCardDataAll: 000002132DEE28E0
+7406	Illusory Law Divine Envoy·Zhimiao	A musician in the ice and snow, his singing can control the movement of snowflakes.	6	3	12	150	150	1.25	false							Illusory Law Divine Envoy·Zhimiao	FCardDataAll: 000002132DEE2AA0
+7407	Hot-Blooded Style·Fire Sun	The immovable pillar of the student union, the fist represents justice	6	3	0	214	102	1.3099999427795	false							Hot-Blooded Style·Fire Sun	FCardDataAll: 000002132DEE2C60
+7408	Azlon	Two fists can defeat hundreds of hands	6	3	5	220	105	1.5	false							Azlon	FCardDataAll: 000002132DEE2E20
+7409	Mommy Taming	A mysterious character who uses bandages to wrap around enemies	6	3	11	135	210	1.3600000143051	false							Mommy Taming	FCardDataAll: 000002132DEE2FE0
+7410	Blade Scale Shark	Dragons with excellent physical fitness and super adaptability	6	3	9	158	148	1.460000038147	false							Blade Scale Shark	FCardDataAll: 00000212F257A360
+7411	Dead Fin Whale	Its heavy body and thick skin make it the most solid creature in the ocean.	6	3	1	50	500	1.4299999475479	false							Dead Fin Whale	FCardDataAll: 00000212F257A1A0
+7412	Pointed Crest Worm	Wherever a hole can be dug, the terrain will be used to launch unexpected attacks.	6	3	4	110	200	1.2799999713898	false							Pointed Crest Worm	FCardDataAll: 00000212F2579FE0
+7413	Shimmering Lion	A super creature that can control gravity and use gravity and repulsion to attack	6	3	10	214	102	1.5	false							Shimmering Lion	FCardDataAll: 00000212F2579E20
+7414	Yunmengyao	A light goblin, it is said that it is difficult to hit it through physical attacks, because the air fluctuations caused by physical attacks will cause it to naturally dodge and avoid attacks.	6	3	10	202	116	1.4199999570847	false							Yunmengyao	FCardDataAll: 00000212F2579C60
+7415	Millions of cats	A cat that attracts treasure, especially gold.	6	3	7	133	185	1.8799999952316	false							Millions of cats	FCardDataAll: 00000212F2579AA0
+9001	Ah Yinzi		9	3	0	50	100	1.0	false							Ah Yinzi	FCardDataAll: 00000212F25798E0
+9002	Eric		9	3	11	50	100	1.0	false							Eric	FCardDataAll: 00000212F2579720
+9003	Lingxue		9	3	12	50	100	1.0	false							Lingxue	FCardDataAll: 00000212F2579560
+9004	KF		9	3	3	50	100	1.0	false							KF	FCardDataAll: 00000212F25793A0
+9005	wawa	Hyperactive challenger that likes to welcome a challenge	9	3	0	55	105	1.0	false							wawa	FCardDataAll: 00000212F25791E0
+9006	Tobe	Cool, collected, and 10 steps ahead	9	3	5	55	105	1.0	false							Tobe	FCardDataAll: 00000212F2579020
+9007	EXIA	the unknown traveler that will uncover secrets of the world	9	3	10	55	105	1.0	false							EXIA	FCardDataAll: 00000212F2578E60
+9008	YIMING	HaHAHa	9	3	10	299	1	1.0	false							YIMING	FCardDataAll: 000002132AECEEA0
+9060	Killa	A partner from Russia.	9	3	5	30	150	1.0	false							Killa	FCardDataAll: 000002133244EB20
+9061	An Jiang	A sweet-looking girl.	9	3	11	30	200	1.0	false							An Jiang	FCardDataAll: 000002133244E7A0
+9062	Snow Maid	This maid is very cold.	9	3	12	22	150	1.0	false							Snow Maid	FCardDataAll: 00000212F257CBA0
+9063	Bunny girl	A pair of bunny ears is very sexy.	9	3	1	25	190	1.0	false							Bunny girl	FCardDataAll: 000002133244BBE0
+9064	Alice	She is a European and American girl who loves adventure.	9	3	8	20	190	1.0	false							Alice	FCardDataAll: 000002133244A1A0
+9065	ANO	A sunny and handsome boy	9	3	11	10	300	1.0	false							ANO	FCardDataAll: 000002133244A360
+9066	Longqi Princess	The girl was born from the dragon's nest and accompanied the golden dragon in the deep forest. From the little black box user——kkzzzz_	9	3	9	60	150	1.0	false							Longqi Princess	FCardDataAll: 000002132AEC9AA0
+9067	Fool	An immature kitten, its body is bright white, with gorgeous golden lines on its body, and its eyes are like a touch of gold smeared in the ink. From the little black box——TIMI1502	9	3	10	60	150	1.0	false							Fool	FCardDataAll: 0000021332446EE0
+9068	ANT	ANT is ANO’s cousin and he looks very handsome.	9	3	10	200	80	1.0	false							ANT	FCardDataAll: 000002132AEC0260
+9069	Sakura Girl	A beautiful JK girl from Japan with pink hair and a light fragrance.	9	3	11	15	300	1.0	false							Sakura Girl	FCardDataAll: 000002132AEC0420
+9071	Kaikai is here	Station B UP master-KF Kaifeng	9	3	11	50	200	6.5	false							Kaikai is here	FCardDataAll: 000002132AEC05E0
+9072	Stewed goose in iron pot	B station UP master-Lingxue stays at home	9	3	11	50	200	6.5	false							Stewed goose in iron pot	FCardDataAll: 000002132AEC07A0
+9073	Sakacaicai	Station B UP master-Saka Caicai	9	3	11	50	200	6.5	false							Sakacaicai	FCardDataAll: 000002132AEC0960
+9074	Junior Leng Yang	Station B UP master - Junior Leng Yang	9	3	11	50	200	6.5	false							Junior Leng Yang	FCardDataAll: 000002132AEC0B20
+100001	Rain God·Yi Lianjiaji		0	4	1	150	500	10.0	false							Rain God·Yi Lianjiaji	FCardDataAll: 000002132AEC0CE0
+100002	Luna Aragos		0	4	11	150	500	10.0	false							Luna Aragos	FCardDataAll: 000002132AEC0EA0
+100003	Fire God Lieluohuangne		0	4	0	150	500	10.0	false							Fire God Lieluohuangne	FCardDataAll: 000002132AEC1060
+100004	Grass God·Made Flower Reiki		0	4	2	150	500	10.0	false							Grass God·Made Flower Reiki	FCardDataAll: 000002132AEC1220

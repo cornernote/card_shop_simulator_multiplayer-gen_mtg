@@ -1,0 +1,150 @@
+game_card_id	mtg_name	reason
+2304	Black Lotus	Power Nine exception: iconic artifact for a magical lamp/wisp slot.
+2314	Time Walk	Power Nine exception: iconic sorcery for a ringing/time-event slot.
+2319	Ancestral Recall	Power Nine exception: iconic blue instant for snow-wand/magic slot.
+2406	Timetwister	Power Nine exception: iconic sorcery for mirror/mystic distortion slot.
+2408	Sol Ring	Iconic Old School artifact for ancient machine/music slot.
+1314	Thundercloud Elemental	Halloween: cloud/thunder entity fits better than a human knight.
+1315	Will-o'-the-Wisp	Halloween: direct ghost-lantern/wisp flavor.
+1316	Mold Demon	Halloween: fungus demon fits Poison Miasma.
+1317	Skulking Ghost	Halloween: playful/simple ghost is a better fit than Karmic Guide.
+1318	Guiltfeeder	Keep: strong shadow ghost/horror fit from draft.
+1319	Headless Horseman	Halloween: pumpkin/headless spooky creature flavor.
+1320	Sengir Bats	Halloween: bat/vampire flavor.
+1321	Lord of the Pit	Halloween: giant mouth demon should be a demon, not a paladin.
+1322	Shivan Dragon	Classic MTG chase creature for the highest-value Halloween super rare slot.
+100001	Chromium	Rain God: blue-aligned iconic Elder Dragon is a better divine fit than Sliver Queen.
+100002	Nicol Bolas	Moon/Mystic God: iconic dark/mystic Elder Dragon.
+100003	Rorix Bladewing	Keep: strong fire god legendary fit from draft.
+100004	Silvos, Rogue Elemental	Keep: strong grass god legendary fit from draft.
+1107	Lightning Hounds	Creature flavor: electric dog should map to a hound, not a wizard.
+1108	Plague Rats	Creature flavor: rat slot should map to a rat, not soldiers.
+1116	Jackalope Herd	Creature flavor: bouncing small animal slot.
+1120	Tree Monkey	Creature flavor: monkey slot should map to a monkey, not a soldier.
+1209	Sengir Vampire	Creature flavor: vampire bat dragon should map to vampire/bat, not wizard.
+1308	Eternal Dragon	Creature flavor: frozen dragon slot should remain dragon-like and high-impact.
+1401	Vesuvan Doppelganger	Super rare: different pupils/shapeshifter weirdness.
+1402	Firestorm Phoenix	Super rare: flame-feathered owl should be fiery flying creature.
+1403	Mirri, Cat Warrior	Super rare: cat slot should be iconic cat creature.
+1404	Gorilla Titan	Super rare: fist emperor ape should be a large ape.
+1405	Fire Drake	Super rare: flame pincher needs fire creature flavor.
+1406	Tetravus	Keep: artifact construct fits Crystal Gear.
+1407	Giant Shark	Super rare: dark shark should be shark, not drake.
+1408	Triskelion	Super rare: electric/mechanical Turing flavor.
+2101	Rogue Elephant	Creature flavor: seed-stealing beast should be animal/beast-like.
+2102	Giant Oyster	Creature flavor: water creature slot, not a wizard.
+2110	Dragon Whelp	Creature flavor: double-finned dragon should be a dragon.
+2111	Fungusaur	Creature flavor: mushroom shell creature.
+2113	Thunder Spirit	Creature flavor: electric trickster with thunder flavor.
+2115	Thallid	Creature flavor: tree/leaf imp, plant/fungus body.
+2311	Pygmy Hippo	Creature flavor: sleepy water animal.
+2401	Scryb Sprites	Creature flavor: sheath fairy should be fae-like.
+2402	Lichenthrope	Creature flavor: cactus/plant beast should be plant/fungus.
+2403	Phantom Nishoba	Creature flavor: phantom electric beast, not human barbarian.
+2404	Great Whale	Creature flavor: ancient rock whale should be whale-scale.
+2405	Spectral Bears	Creature flavor: ghostly vine animal.
+2407	Jareth, Leonine Titan	Super rare: fortune cat should be iconic cat.
+3102	Clockwork Beast	Creature flavor: masked/steel bear slot should be artifact beast.
+3108	Thunder Dragon	Creature flavor: ice tyrannosaurus should remain big monster/dragon.
+3402	War Mammoth	Super rare: big creature slot, avoid human druid.
+3404	Mahamoti Djinn	Super rare: blue humanoid/female mystic can be iconic blue creature.
+3405	Lord of Atlantis	Super rare: keep iconic watery ruler for Hyrule.
+4302	Cloud Dragon	Creature flavor: mysterious dragon should remain dragon-like.
+4307	Stone Giant	Creature flavor: rock claw beast needs rock monster.
+4407	Verdant Force	Super rare: vitality bomb should be iconic life/green force.
+4410	Braids, Cabal Minion	Keep: time-law/mystic rare can stay iconic.
+5404	Woolly Mammoths	Creature flavor: icefang mammoth should be mammoth.
+5408	Revered Unicorn	Creature flavor: New Lima should avoid generic cleric.
+5409	Nightmare	Creature flavor: dark abyss sheep needs dark iconic creature.
+6405	Polar Kraken	Super rare: giant mouth rock should feel huge and rare.
+6406	Giant Octopus	Creature flavor: fungus hunter squid should be aquatic tentacled creature.
+6408	Zodiac Dragon	Super rare: keep iconic dragon-scale match.
+7401	Waterspout Djinn	Super rare: bubble fin beast should be blue aquatic monster.
+7402	Killer Whale	Super rare: whale slot should be whale.
+7404	Serendib Efreet	Super rare: star/psychic creature should feel iconic and strange.
+7405	The Wretched	Super rare: flame shadow demon should be a demon/horror.
+7408	Anurid Brushhopper	Keep: frog/beast fit for Azlon.
+7410	Hammerhead Shark	Creature flavor: blade scale shark should be shark.
+7412	Venomous Dragonfly	Creature flavor: pointed crest worm/insect slot should be insect-like.
+7413	Pride of Lions	Creature flavor: shimmering lion should be lion/cat.
+7415	Spectral Lynx	Keep: millions of cats/cat spirit flavor.
+1323	Juzám Djinn	Iconic Old School chase creature for the second highest-value Halloween super rare slot.
+3401	Leviathan	Iconic giant blue sea creature for Bobby Langbi's water-power super rare slot.
+3403	Clone	Classic shapeshifter for the strange vortex snail slot.
+3406	Serra Angel	Iconic classic angel for the sunshine holiday super rare slot.
+3407	Erhnam Djinn	Iconic green classic creature for the forest-guide fox slot.
+3408	Juggernaut	Iconic artifact creature for the gravity/dice steel slot.
+3409	Birds of Paradise	Iconic green flyer for the fertile/three-color plant slot.
+4401	Serendib Djinn	Classic blue Djinn for the fantasy amber sturgeon super rare slot.
+4402	Force of Nature	Iconic green monster for the tongue lizard super rare slot.
+4403	Masticore	Iconic artifact beast for the ancient dog scorpion slot.
+4404	Old Man of the Sea	Iconic blue control creature for the sea-churning Youlandie slot.
+4405	Morphling	Iconic blue finisher for the crystal shell turtle super rare slot.
+4406	Spiritmonger	Iconic green-black beast for the forest overlord slot.
+4408	Su-Chi	Iconic artifact creature for the mud bird/construct-like super rare slot.
+4409	Skizzik	Iconic red creature for the melting heart treasure slot.
+5401	Craw Wurm	Classic huge green creature for the heavy rock beast slot.
+5402	Hypnotic Specter	Iconic evasive creature for the dream/sleep fish slot.
+5403	Shivan Wurm	Iconic large wurm for the ankylosaurus hunter slot.
+5405	Thorn Elemental	Iconic green elemental for the regenerating plant slot.
+5406	Karn, Silver Golem	Iconic artifact legend for the dead steel stone slot.
+5407	Royal Assassin	Iconic black creature for the shadowy fighter slot.
+5410	Two-Headed Dragon	Classic large dragon for the living-stratum dragon slot.
+6401	Spike Weaver	Classic Spike creature for the spore dinosaur slot.
+6402	Maro	Iconic green creature for the three-headed plant monster slot.
+6403	Ravenous Baloth	Recognizable green beast for the baby elephant/flowerpot slot.
+6404	Tradewind Rider	Iconic blue spirit for the dream-controlling flower slot.
+6407	Ali from Cairo	Iconic Old School humanoid for Bruno's street-fighter slot.
+6410	Marjhan	Classic giant sea monster for the lake guardian slot.
+7403	Deranged Hermit	Iconic green creature for the root-hiding forest slot.
+7406	Exalted Angel	Iconic angel for the snow-and-song divine envoy slot.
+7407	Ball Lightning	Iconic red creature for the hot-blooded fire slot.
+7409	Avatar of Woe	Iconic dark creature for the bandage/mummy slot.
+7411	Denizen of the Deep	Classic huge sea creature for the dead fin whale slot.
+7414	Rainbow Efreet	Iconic evasive blue creature for the light goblin slot.
+1307	Savannah Lions	Iconic classic animal creature for the nighttime troublemaker slot.
+1324	Jackal Pup	Iconic aggressive creature for the boxing/kangaroo slot.
+2307	Blistering Firecat	Iconic fast red creature for the raging beast slot.
+3305	Psychatog	Iconic creature for the clever martial-arts Wu Kong slot.
+4308	Ihsan's Shade	Iconic dark creature for the dream dragon slot.
+5303	Goblin King	Classic lord creature for the small dragon/hidden-power slot.
+6307	Rofellos, Llanowar Emissary	Iconic green legend for the thriving plant slot.
+6409	Wall of Blossoms	Iconic green plant/wall creature for the double leaf super rare slot.
+1303	Kird Ape	Iconic red-green animal creature for the fire-pattern wolf slot.
+1311	Merfolk Looter	Recognizable blue creature for the rainbow catfish water slot.
+1326	Wild Mongrel	Iconic animal creature for the berry deer slot.
+1329	Nether Shadow	Classic recurring shadow creature for the discarded doll slot.
+1330	Black Knight	Classic black knight for the heart-wrenching stitched couple slot.
+2301	Spike Feeder	Recognizable spike creature for the valley hedgehog slot.
+2302	Man-o'-War	Iconic blue creature for the tsunami otter water slot.
+2312	Wall of Roots	Classic green plant creature for the fruit-friendly plant slot.
+2316	Atog	Iconic oddball creature for the apple-ooze green surge slot.
+3301	Flametongue Kavu	Iconic red creature for the flame-haired Huonudi slot.
+3303	Tahngarth, Talruum Hero	Iconic fighter legend for the boxing bag slot.
+3306	Nantuko Shade	Recognizable black creature for the gold-obsessed electric leopard slot.
+3310	Mother of Runes	Iconic protective creature for the sunny captain slot.
+3311	Withered Wretch	Recognizable graveyard creature for the sugar/mystic skateboard slot.
+4303	Dromar, the Banisher	Iconic dragon for the thunderstorm beast slot.
+4304	Phyrexian Negator	Iconic dark creature for the bitter demon slot.
+4306	White Knight	Classic white knight for the former bunny soldier slot.
+4314	Phyrexian Dreadnought	Iconic artifact creature for the clockwork duck/box slot.
+4315	Palinchron	Iconic blue creature for the fantasy amber sturgeon slot.
+4316	Yavimaya Elder	Recognizable green creature for the jacaranda messenger slot.
+5302	Cloud of Faeries	Iconic small blue creature for the dream bug slot.
+5305	Uktabi Orangutan	Recognizable green creature for the tower flower beast slot.
+5310	Serra Avatar	Iconic avatar for the colorful pegasus/glory slot.
+5312	Mogg Fanatic	Iconic red creature for the fiery young general slot.
+6302	Abyssal Specter	Classic evasive creature for the lightning sheep slot.
+6303	River Boa	Iconic snake for the radixed snake flower slot.
+6304	Bottle Gnomes	Classic artifact creature for the bubble slot.
+6305	Ophidian	Iconic blue creature for the bubble jellyfish slot.
+6310	Lin Sivvi, Defiant Hero	Iconic rebel legend for the fighting girl slot.
+6312	Quirion Ranger	Iconic creature for the palm-tailed frog slot.
+6315	Priest of Titania	Iconic green elf for the thriving plant Jiajia slot.
+6322	Goblin Matron	Recognizable creature for the strange sprouting Buu slot.
+7303	Darigaaz, the Igniter	Iconic dragon for the shadow ember slot.
+7304	Arrogant Wurm	Recognizable large animal creature for the sugar horse slot.
+7306	Crosis, the Purger	Iconic dark dragon for the blazing wolf split slot.
+7310	Gorilla Shaman	Recognizable old-school ape for the star jumping monkey slot.
+7313	Squee, Goblin Nabob	Iconic red legend for the thunder explosion charge slot.
+7317	Argothian Enchantress	Iconic old-border creature for the shining seahorse star slot.
