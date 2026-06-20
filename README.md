@@ -16,6 +16,15 @@ The mod replaces the full vanilla collectible pool found in the current game bui
 
 The current build contains `449` MTG replacements.
 
+## Installation
+
+[Download from gitlab](https://github.com/cornernote/card_shop_simulator_multiplayer-gen_mtg/archive/refs/heads/main.zip)
+
+Unzip into your mods folder, eg `C:\Program Files (x86)\Steam\steamapps\common\Card Shop Simulator Multiplayer\CardShopSim\Mods`.
+
+The files from this repo such as `main.lua` should be in `Mods\GenMTG\main.lua`.
+
+
 ## MTG Era
 
 The card pool focuses on:
