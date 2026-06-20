@@ -2,7 +2,7 @@ local M = {
     id          = "GenMTG",
     name        = "GenMTG",
     version     = "0.1.0",
-    author      = "CoRNeRNoTe + Codex",
+    author      = "CoRNeRNoTe",
     description = "Replaces the full vanilla card pool with Old School and Pre-Modern Magic: The Gathering cards.",
 }
 

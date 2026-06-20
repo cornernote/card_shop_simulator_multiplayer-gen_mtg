@@ -636,7 +636,7 @@ def write_main_lua(rows, inventory_by_id, cards_by_id, flavor_by_id):
         '    id          = "GenMTG",',
         '    name        = "GenMTG",',
         '    version     = "0.1.0",',
-        '    author      = "Brett + Codex",',
+        '    author      = "CoRNeRNoTe",',
         '    description = "Replaces the full vanilla card pool with Old School and Pre-Modern Magic: The Gathering cards.",',
         "}",
         "",
