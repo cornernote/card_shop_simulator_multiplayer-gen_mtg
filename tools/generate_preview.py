@@ -28,9 +28,9 @@ def load_rows():
 
 def card_divs(rows_by_name):
     rotations = [-20, -9, 0, 9, 20]
-    offsets = [-140, -70, 0, 70, 140]
+    offsets = [-70, -35, 0, 35, 70]
     depths = [1, 2, 5, 3, 1]
-    tops = [29, 15, 3, 15, 29]
+    tops = [15, 8, 2, 8, 15]
     html = []
     for name, rotation, offset, depth, top in zip(CARDS, rotations, offsets, depths, tops):
         row = rows_by_name[name]
@@ -53,16 +53,16 @@ def html_document(rows_by_name):
 }}
 html, body {{
   margin: 0;
-  width: 512px;
-  height: 512px;
+  width: 256px;
+  height: 256px;
   overflow: hidden;
   background: #101015;
   font-family: Georgia, "Times New Roman", serif;
 }}
 .preview {{
   position: relative;
-  width: 512px;
-  height: 512px;
+  width: 256px;
+  height: 256px;
   overflow: hidden;
   background:
     radial-gradient(circle at 18% 18%, rgba(214, 72, 42, .56), transparent 28%),
@@ -77,7 +77,7 @@ html, body {{
   background-image:
     linear-gradient(rgba(255,255,255,.045) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255,255,255,.035) 1px, transparent 1px);
-  background-size: 28px 28px;
+  background-size: 14px 14px;
   mask-image: radial-gradient(circle at center, black, transparent 84%);
 }}
 .preview::after {{
@@ -85,26 +85,26 @@ html, body {{
   position: absolute;
   inset: 0;
   box-shadow:
-    inset 0 0 0 6px rgba(246, 218, 144, .16),
-    inset 0 0 60px rgba(0,0,0,.55);
+    inset 0 0 0 3px rgba(246, 218, 144, .16),
+    inset 0 0 30px rgba(0,0,0,.55);
   pointer-events: none;
 }}
 .fan {{
   position: absolute;
   left: 50%;
-  top: 56px;
+  top: 28px;
   width: 1px;
   height: 1px;
 }}
 .card {{
   position: absolute;
   top: var(--top);
-  width: 107px;
-  height: 149px;
+  width: 54px;
+  height: 75px;
   object-fit: cover;
-  border-radius: 6px;
-  border: 2px solid rgba(245, 220, 150, .92);
-  box-shadow: 0 19px 30px rgba(0, 0, 0, .66);
+  border-radius: 3px;
+  border: 1px solid rgba(245, 220, 150, .92);
+  box-shadow: 0 10px 15px rgba(0, 0, 0, .66);
   transform: translateX(calc(-50% + var(--x))) rotate(var(--rot));
   transform-origin: 50% 94%;
 }}
@@ -112,35 +112,35 @@ html, body {{
 .c2 {{ z-index: 2; opacity: .97; }}
 .c3 {{ z-index: 3; }}
 .c4 {{ z-index: 4; }}
-.c5 {{ z-index: 5; width: 119px; height: 166px; top: -4px; }}
+.c5 {{ z-index: 5; width: 60px; height: 83px; top: -2px; }}
 .title {{
   position: absolute;
   z-index: 10;
   left: 0;
   right: 0;
-  top: 280px;
+  top: 140px;
   text-align: center;
   color: #f7df9d;
   text-shadow:
-    0 3px 0 #5b2216,
-    0 7px 17px rgba(0,0,0,.86),
-    0 0 23px rgba(255,188,77,.36);
+    0 2px 0 #5b2216,
+    0 4px 9px rgba(0,0,0,.86),
+    0 0 12px rgba(255,188,77,.36);
 }}
 .magic {{
   display: block;
-  font-size: 71px;
-  line-height: 62px;
+  font-size: 36px;
+  line-height: 31px;
   font-weight: 900;
   letter-spacing: 1px;
   text-transform: uppercase;
 }}
 .subtitle {{
   display: block;
-  margin-top: 4px;
-  font-size: 19px;
-  line-height: 20px;
+  margin-top: 2px;
+  font-size: 10px;
+  line-height: 10px;
   font-weight: 700;
-  letter-spacing: 5px;
+  letter-spacing: 2.5px;
   color: #f0c86f;
   text-transform: uppercase;
 }}
@@ -148,15 +148,15 @@ html, body {{
   position: absolute;
   z-index: 11;
   left: 50%;
-  bottom: 59px;
+  bottom: 30px;
   transform: translateX(-50%);
-  padding: 7px 13px 8px;
+  padding: 4px 7px 4px;
   border: 1px solid rgba(245,220,150,.72);
   background: rgba(11, 10, 12, .72);
   color: #fff4cb;
-  font: 800 27px Arial, sans-serif;
-  border-radius: 4px;
-  box-shadow: 0 9px 20px rgba(0,0,0,.46);
+  font: 800 14px Arial, sans-serif;
+  border-radius: 3px;
+  box-shadow: 0 5px 10px rgba(0,0,0,.46);
 }}
 .strip {{
   position: absolute;
@@ -164,7 +164,7 @@ html, body {{
   left: 0;
   right: 0;
   bottom: 0;
-  height: 12px;
+  height: 6px;
   background: linear-gradient(90deg, #f4ece1, #4a84cf, #2f2d2d, #d34b2f, #4f9a54);
 }}
 </style>
@@ -202,7 +202,7 @@ def main():
             "--disable-gpu",
             "--no-sandbox",
             "--hide-scrollbars",
-            "--window-size=512,512",
+            "--window-size=256,256",
             f"--screenshot={PREVIEW_PATH}",
             html_path.as_uri(),
         ], check=True)
