@@ -25,6 +25,8 @@ local function ApplyGenMTG()
 
     do
         local cardId = 1101
+        -- Old: Sand Flame Dog
+        -- Old description: Dogs that live in desert areas like hot and dry environments.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Flowstone Giant"
@@ -37,6 +39,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1102
+        -- Old: Minite
+        -- Old description: A herbivore with a gentle personality.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phantom Tiger"
@@ -49,6 +53,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1103
+        -- Old: Naughty Bear
+        -- Old description: A species that has a lively personality and likes to live in groups.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Camel"
@@ -61,6 +67,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1104
+        -- Old: Turabi
+        -- Old description: A gentle hedgehog that lives by the pond.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Elvish Scout"
@@ -73,6 +81,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1105
+        -- Old: Shock Bear
+        -- Old description: Electric Bear doesn't like wearing clothes very much. He hates pants and T-shirts, but he doesn't dislike shoes and gloves.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Raging Goblin"
@@ -85,6 +95,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1106
+        -- Old: Mu Ti
+        -- Old description: Bear living in water on arctic map.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Arctic Merfolk"
@@ -97,6 +109,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1107
+        -- Old: Electric Dog
+        -- Old description: Angry dogs whose body hair becomes electrically charged when angry.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lightning Hounds"
@@ -109,6 +123,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1108
+        -- Old: Ice Cave Rat
+        -- Old description: A herbivore that burrows in glaciers.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Plague Rats"
@@ -121,6 +137,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1109
+        -- Old: Colorful Butterfly
+        -- Old description: Small insects living in the forest.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Druid Lyrist"
@@ -133,6 +151,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1110
+        -- Old: Amy Meow
+        -- Old description: A cat that likes to eat fish, meat and rice. Because of its cute appearance, many humans keep it as a pet at home.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Patron of the Wild"
@@ -145,6 +165,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1111
+        -- Old: Ice Cave Otter
+        -- Old description: A hairy creature that lives in ice caves and is said to sleep 20 hours a day.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Trained Pronghorn"
@@ -157,6 +179,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1112
+        -- Old: Weiwei Weasel
+        -- Old description: A cunning creature that is good at climbing trees and has many tricks. Its attack method is to continuously throw spiked pine cones on the trees.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Taunting Elf"
@@ -169,6 +193,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1113
+        -- Old: Le Songhu
+        -- Old description: It is intelligent and has healing power. It can use various flowers and plants to make herbal dressings to help the animals in the forest heal.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pikemen"
@@ -181,6 +207,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1114
+        -- Old: Coius
+        -- Old description: It is said that it comes from an alien planet and has great respect for its master, but is hostile to unfamiliar creatures.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hunter Sliver"
@@ -193,6 +221,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1115
+        -- Old: Berry-tailed monkey
+        -- Old description: The sleeping habits are similar to those of rabbits, gentle and timid. There is a pink berry on the tail.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wellwisher"
@@ -205,6 +235,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1116
+        -- Old: Bouncing Mouse
+        -- Old description: Jump with both feet together, jumping high.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Jackalope Herd"
@@ -217,6 +249,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1117
+        -- Old: Fucaolong
+        -- Old description: A timid social creature, it feels safe in the shade of trees.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Daru Spiritualist"
@@ -229,6 +263,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1118
+        -- Old: Ye Pipi
+        -- Old description: A hedgehog that can disguise itself as a plant.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Willow Dryad"
@@ -241,6 +277,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1119
+        -- Old: Gawuniao
+        -- Old description: It lives on rock walls and comes out to hunt at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Viashino Sandscout"
@@ -253,6 +291,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1120
+        -- Old: Big-eared monkey
+        -- Old description: He is keenly aware of what is happening around him and is very timid.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tree Monkey"
@@ -265,6 +305,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1121
+        -- Old: Curse Owl
+        -- Old description: Birds with high intelligence use mysterious magic power to roll up wind walls to impede the movement of enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mtenda Lion"
@@ -277,6 +319,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1122
+        -- Old: Tide otter
+        -- Old description: Can read the memory of water flow, and often uses phantoms at night to make travelers get lost.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Merfolk of the Pearl Trident"
@@ -289,6 +333,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1123
+        -- Old: Chi Chu
+        -- Old description: Use high temperatures to restructure matter and cook non-existent ingredients into energy for fighting.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cinder Crawler"
@@ -301,6 +347,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1124
+        -- Old: Explosive Jar Spirit
+        -- Old description: It is formed from the residual gas of discarded gas tanks. The higher the pressure, the more dangerous it is.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Homarid"
@@ -313,6 +361,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1201
+        -- Old: Rockhelm Lizard
+        -- Old description: Lives in caves and has a hard helmet.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crashing Centaur"
@@ -325,6 +375,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1202
+        -- Old: Baidumon
+        -- Old description: An amphibious fish with scaly wings on its back that spends most of its time in the water.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Willbender"
@@ -337,6 +389,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1203
+        -- Old: Snow Fairy
+        -- Old description: Appears in the forest in the early morning and can turn dew into ice crystals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Voice of Law"
@@ -349,6 +403,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1204
+        -- Old: Zhang Bobo
+        -- Old description: The tentacles on the top of the head are actually hair.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Coral Fighters"
@@ -361,6 +417,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1205
+        -- Old: Kaqi Fox
+        -- Old description: A friendly herbivore, good at using camouflage to avoid enemy attacks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Primordial Ooze"
@@ -373,6 +431,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1206
+        -- Old: Pan Xiaoda
+        -- Old description: A panda with red pupils, good at boxing and kicking.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Defiant Vanguard"
@@ -385,6 +445,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1207
+        -- Old: Volcano Spider
+        -- Old description: Spiders that live in volcanic areas can spit out scorching silk.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cinder Elemental"
@@ -397,6 +459,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1208
+        -- Old: Thunder Eagle
+        -- Old description: The giant bird that soars in the storm only appears on extremely high peaks. Climbing enthusiasts have witnessed its appearance. It is said that it can reach a height of 7 meters.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Roc Hatchling"
@@ -409,6 +473,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1209
+        -- Old: Vampire Bat Dragon
+        -- Old description: Ancient dragons living in swamps can secrete toxins from their teeth that can dissolve fat, meat and bones.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sengir Vampire"
@@ -421,6 +487,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1210
+        -- Old: White Batmon
+        -- Old description: An ancient creature with low aggressiveness can use magic power to adjust the size of its body, ranging from a minimum of about 5 centimeters to a maximum of about 5 meters.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ovinomancer"
@@ -433,6 +501,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1211
+        -- Old: Fever Lizard
+        -- Old description: It is an omnivorous creature that has very strong adaptability and can live and hunt in magma, lakes, and on the ground.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Yavimaya Gnats"
@@ -445,6 +515,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1212
+        -- Old: Cryolophosaurus
+        -- Old description: Living in extremely cold glacier areas, it can create sharp ice spikes in its body and spit out high-speed flying ice spikes from its mouth to pierce its opponents.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cloudreach Cavalry"
@@ -457,6 +529,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1213
+        -- Old: Young Cryolophosaurus
+        -- Old description: An ancient dragon that lives in extremely cold glaciers, it can break ice by flapping its wings and make the ice fly out quickly.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Samite Archer"
@@ -469,6 +543,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1214
+        -- Old: Electrical package
+        -- Old description: A toaster awakened by an abnormal current will cry and bake electrified bread.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spined Sliver"
@@ -481,6 +557,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1215
+        -- Old: Crash and cracked screen
+        -- Old description: The screen propagates glitches, often causing electronic devices close to it to crash out of control.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Undead Warchief"
@@ -493,6 +571,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1216
+        -- Old: Dan Fist Lamp Dou
+        -- Old description: When the red light lights up, it enters combat mode and will automatically lock on to the moving target.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ornithopter"
@@ -505,6 +585,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1301
+        -- Old: Mine Eye King
+        -- Old description: The ore on his back represents his identity.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Emperor Crocodile"
@@ -517,6 +599,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1302
+        -- Old: Desmo
+        -- Old description: A blood-sucking creature that haunts the night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Callous Oppressor"
@@ -529,6 +613,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1303
+        -- Old: Fire Pattern Wolf
+        -- Old description: has a tattoo of fire on his back
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kird Ape"
@@ -541,6 +627,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1304
+        -- Old: Mountain Dew Dragon
+        -- Old description: An aquatic dragon that likes to glide quickly on the waves.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pallimud"
@@ -553,6 +641,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1305
+        -- Old: Youyoudie
+        -- Old description: A butterfly with mysterious patterns on its body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Forgotten Ancient"
@@ -565,6 +655,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1306
+        -- Old: Flamingo
+        -- Old description: It is said that there is an eternal fire in the body, which will be passed on to future generations.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pyre Zombie"
@@ -577,6 +669,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1307
+        -- Old: Troublemaker
+        -- Old description: A beast that likes to come out at night, be careful to be discovered by it.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Savannah Lions"
@@ -589,6 +683,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1308
+        -- Old: Frozen Dragon
+        -- Old description: Being in an extremely cold place, everything can be frozen.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Eternal Dragon"
@@ -601,6 +697,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1309
+        -- Old: Magnetic Beetle
+        -- Old description: Group movement will form a swarm of insects and use electromagnetic force to attack together.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Urza's Avenger"
@@ -613,6 +711,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1310
+        -- Old: Attack the Demon
+        -- Old description: He is good at launching attacks from the air and has super explosive power.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Piledriver"
@@ -625,6 +725,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1311
+        -- Old: Rainbow cat fish
+        -- Old description: An elegant and agile dreamlike amphibious creature.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Merfolk Looter"
@@ -637,6 +739,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1312
+        -- Old: Bubu
+        -- Old description: Its wings can fan out cold wind.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kjeldoran Knight"
@@ -649,6 +753,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1313
+        -- Old: Thunder Bear
+        -- Old description: An energetic bear-shaped creature that likes to compete with people in the playground by wearing special sneakers and sprinting 100 meters.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Bomb Squad"
@@ -661,6 +767,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1314
+        -- Old: Cloud Demon
+        -- Old description: The laughter of the cloud demons is very similar to the sound of thunder, and they will bring lightning and rain to Halloween night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thundercloud Elemental"
@@ -673,6 +781,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1315
+        -- Old: Ghost Lantern
+        -- Old description: Can transform into a ghost disguised as a lamp, and suddenly change back to its original form, which is shocking.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Will-o'-the-Wisp"
@@ -685,6 +795,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1316
+        -- Old: Poison Miasma
+        -- Old description: A fungus that emerges from the soil on Halloween night and releases a foul odor that causes hallucinations.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mold Demon"
@@ -697,6 +809,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1317
+        -- Old: So cute
+        -- Old description: Beloved by children, the Halloween ghost scares everyone except children and the elderly with its magical flashes.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Skulking Ghost"
@@ -709,6 +823,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1318
+        -- Old: Shadow Ghost
+        -- Old description: The ghost that lurks in the shadows and follows people can move freely between different shadows. The bigger the shadow, the stronger its power.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Guiltfeeder"
@@ -721,6 +837,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1319
+        -- Old: Pumpkin Head
+        -- Old description: It is said that a magician carved a pumpkin and cast a spell to create a ghost. It can fly in the air, but its magic power is actually low and there is no threat.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Headless Horseman"
@@ -733,6 +851,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1320
+        -- Old: Felfire Bat
+        -- Old description: A monster with devilish legs and a will-o'-the-wisp on its head will add a gloomy and terrifying atmosphere to the Halloween night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sengir Bats"
@@ -745,6 +865,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1321
+        -- Old: Giant Mouth Demon
+        -- Old description: It is said that he is the scariest guy on Halloween. He likes to suddenly jump down from the roof and land on people's shoulders or heads.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lord of the Pit"
@@ -757,6 +879,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1322
+        -- Old: Baijiaoling
+        -- Old description: A ghost that mutated from White Pepper, the broken shackles on his hands came from his previous master.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Shivan Dragon"
@@ -769,6 +893,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1323
+        -- Old: Xiaogu
+        -- Old description: The successor of the King of the Bone Army, although still relatively weak now, will grow into a reliable leader of the Bone Army in the future.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Juzám Djinn"
@@ -781,6 +907,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1324
+        -- Old: Bag Fist
+        -- Old description: The essence of kangaroo boxing is to attack with fast punches and at the same time seize the opportunity to kick him!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Jackal Pup"
@@ -793,6 +921,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1325
+        -- Old: Lantern Hat Forest Demon
+        -- Old description: It looks scary, but it is actually very kind and will illuminate a warm light at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Timber Wolves"
@@ -805,6 +935,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1326
+        -- Old: Berry Deer
+        -- Old description: This kind of fawn is popular because of its petite body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wild Mongrel"
@@ -817,6 +949,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1327
+        -- Old: Dream hat is stupid
+        -- Old description: became popular due to a photo on the Internet, and many artists and Internet celebrities came to take photos.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Guiding Spirit"
@@ -829,6 +963,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1328
+        -- Old: Smoke Stove Dummy
+        -- Old description: Can be switched to a fireplace form, just like a normal fireplace with a chimney.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Clockwork Avian"
@@ -841,6 +977,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1329
+        -- Old: Sew even puff puff
+        -- Old description: After the forgotten old doll wakes up, it will wander along the memory of the discarded doll.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nether Shadow"
@@ -853,6 +991,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1330
+        -- Old: Heart-wrenching couple
+        -- Old description: Stitched by unanswered wishes, the knots contain lost prayers.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Black Knight"
@@ -865,6 +1005,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1331
+        -- Old: Unicycle Zhenhu
+        -- Old description: Enjoys the challenge of stairs, ramps, and pipes, dragging out blue arcs as you move.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Warping Wurm"
@@ -877,6 +1019,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1401
+        -- Old: Different pupils
+        -- Old description: The terrifying deep-sea shellfish.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Vesuvan Doppelganger"
@@ -889,6 +1033,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1402
+        -- Old: Flame-feathered owl
+        -- Old description: Shoots flaming sharp feathers to burn the opponent.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Firestorm Phoenix"
@@ -901,6 +1047,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1403
+        -- Old: Mind Reading Cat
+        -- Old description: Can use the power of mind to read the inner thoughts of other creatures.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mirri, Cat Warrior"
@@ -913,6 +1061,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1404
+        -- Old: Fist Emperor Ape
+        -- Old description: Although it is called the King of Fighters, its ultimate move is actually to kick out dust with its strong legs and feet.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gorilla Titan"
@@ -925,6 +1075,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1405
+        -- Old: Flame Pincher
+        -- Old description: Cut apart opponents while flying at high speed, leaving gorgeous flame trails in the sky.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Fire Drake"
@@ -937,6 +1089,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1406
+        -- Old: Crystal Gear
+        -- Old description: General-purpose robots in ancient technological facilities have many functions and are the link between robot groups.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tetravus"
@@ -949,6 +1103,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1407
+        -- Old: Dark Shark
+        -- Old description: Can control water flow to perform sharp slashes or powerful blows
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Shark"
@@ -961,6 +1117,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 1408
+        -- Old: Voltage Turing
+        -- Old description: A mechanical Pokémon awakened by an abnormal power grid will connect to the power grid to control mechanical equipment.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Triskelion"
@@ -973,6 +1131,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2101
+        -- Old: Seedstealing Beast
+        -- Old description: likes to sneak in and steal various seeds.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rogue Elephant"
@@ -985,6 +1145,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2102
+        -- Old: Zhang Pipi
+        -- Old description: Zhang Bobo's friend likes to eat kelp and small fish, and will lie on the rocks to bask in the sun on sunny days.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Oyster"
@@ -997,6 +1159,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2103
+        -- Old: Grass-tailed Finch
+        -- Old description: Good at disguising themselves as plants.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dire Wolves"
@@ -1009,6 +1173,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2104
+        -- Old: Iwakuriko
+        -- Old description: Good at digging holes in the ground to escape.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kyren Sniper"
@@ -1021,6 +1187,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2105
+        -- Old: Dazzling tail monkey
+        -- Old description: The confusing tail can swing and emit pink mist to block the opponent's vision.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Zodiac Monkey"
@@ -1033,6 +1201,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2106
+        -- Old: Gem Bear
+        -- Old description: A robot bear with gems embedded in its body as a power source.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Snarling Undorak"
@@ -1045,6 +1215,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2107
+        -- Old: Shadow Dragon
+        -- Old description: It looks like a lazy dinosaur-like fish. The skin on its back is very thick. It is not very aggressive but has full defense. When it sees a beast or a person, it will look at it for 2 seconds and then slowly run away.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Vampire Bats"
@@ -1057,6 +1229,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2108
+        -- Old: Ghost Jellyfish
+        -- Old description: Ghosts in the water cannot be hit by physical weapons.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cloud Sprite"
@@ -1069,6 +1243,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2109
+        -- Old: Burning Mane Fox
+        -- Old description: It has thick manes all over its body, and its body temperature can reach up to 100 degrees during combat. If you are not careful, it may cause forest fires.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Grappler"
@@ -1081,6 +1257,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2110
+        -- Old: Double-finned dragon
+        -- Old description: A strong dragon with a slender body and flexible movements. It is good at running. Its ultimate trick is the iron mountain.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dragon Whelp"
@@ -1093,6 +1271,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2111
+        -- Old: Mushroom Shell Rabbit
+        -- Old description: There is a mushroom on its back. If nourished enough, the mushroom will grow into a huge one.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Fungusaur"
@@ -1105,6 +1285,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2112
+        -- Old: Thunder Beast
+        -- Old description: An elf with built-in static electricity, its limbs will emit an electric sizzling sound when it jumps.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hunting Drake"
@@ -1117,6 +1299,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2113
+        -- Old: MIMIHU
+        -- Old description: is good at using electric tricks to stun enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thunder Spirit"
@@ -1129,6 +1313,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2114
+        -- Old: Enderrat
+        -- Old description: Hidden in the shadows of the cave, never coming out during the day.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Teferi's Drake"
@@ -1141,6 +1327,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2115
+        -- Old: Tree Imp
+        -- Old description: Likes to eat tender leaves and grass, and is well hydrated. It needs to drink 10 kilograms of water every day to feel comfortable.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thallid"
@@ -1153,6 +1341,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2201
+        -- Old: Molten Beast
+        -- Old description: Small and medium-sized beasts active in volcanic areas have body temperatures as high as 300 degrees, making them unbearably hot just by being close to them.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Snowman"
@@ -1165,6 +1355,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2202
+        -- Old: Fossil fish
+        -- Old description: Creatures from ancient times contained tremendous power.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Brine Hag"
@@ -1177,6 +1369,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2203
+        -- Old: Exploding Tail Frog
+        -- Old description: Its tail is like an explosive spark, and its attack method is to emit explosions from the tail behind its back.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Warchief"
@@ -1189,6 +1383,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2204
+        -- Old: Butterfly Rabbit Demon
+        -- Old description: A rabbit with low-altitude flying ability and almost no aggression.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Boneshard Slasher"
@@ -1201,6 +1397,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2205
+        -- Old: Coulee Beetle
+        -- Old description: The bright red and blue colors on its carapace can quickly change to make enemies dizzy, and it can spit out lightning balls from its mouth to stun enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Whirling Dervish"
@@ -1213,6 +1411,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2206
+        -- Old: Silk Songworm
+        -- Old description: The wings are as smooth and flexible as ribbons, and can bind enemies to restrict their movements.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dauthi Trapper"
@@ -1225,6 +1425,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2301
+        -- Old: Valley Hedgehog
+        -- Old description: The scales on its body turn into spikes when in danger.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spike Feeder"
@@ -1237,6 +1439,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2302
+        -- Old: Tsunami Otter
+        -- Old description: It can store water in its tail and launch huge waves with one leap.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Man-o'-War"
@@ -1249,6 +1453,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2303
+        -- Old: Hallelujah
+        -- Old description: has great power and often appears at night to fight criminals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Halfdane"
@@ -1261,6 +1467,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2304
+        -- Old: Shenmo Lamp
+        -- Old description: Floating will-o’-the-wisp
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Black Lotus"
@@ -1273,6 +1481,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2305
+        -- Old: Babymon
+        -- Old description: My body was too hot, so I could only soak myself in water to cool down.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kjeldoran Phalanx"
@@ -1285,6 +1495,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2306
+        -- Old: Cangguan
+        -- Old description: The giant wings are covered with star feathers, and the whole body is translucent. The pupils are like whirlpools in the night sky, and the whole body is surrounded by star streams and afterimages.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dralnu's Pet"
@@ -1297,6 +1509,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2307
+        -- Old: Raging Beast
+        -- Old description: A high-speed beast with a top speed of 600km/h, the faster it runs, the hotter it burns.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Blistering Firecat"
@@ -1309,6 +1523,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2308
+        -- Old: Stone-breaking pig
+        -- Old description: Hitting the rock wall at high speed to open a path is called a "mobile mining hammer".
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gigapede"
@@ -1321,6 +1537,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2309
+        -- Old: Hammersmith
+        -- Old description: He is good at drilling for earth veins and has a hard body all over his body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tempest Efreet"
@@ -1333,6 +1551,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2310
+        -- Old: Fugui
+        -- Old description: Floating with a light body, it glows at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Krovikan Horror"
@@ -1345,6 +1565,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2311
+        -- Old: Sleepy Otter
+        -- Old description: Spent most of the time sleeping, completely unalert.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pygmy Hippo"
@@ -1357,6 +1579,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2312
+        -- Old: Short Dora
+        -- Old description: A creature that is friendly to humans and likes to eat fruits.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Roots"
@@ -1369,6 +1593,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2313
+        -- Old: Velvet snow cotton
+        -- Old description: Although it is snow, I need to wear a scarf because I am afraid of the cold.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sustaining Spirit"
@@ -1381,6 +1607,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2314
+        -- Old: Winter Night Ringtone
+        -- Old description: Melodious music will be made on Christmas Eve.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Time Walk"
@@ -1393,6 +1621,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2315
+        -- Old: Phantom Beast
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rootwater Shaman"
@@ -1405,6 +1635,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2316
+        -- Old: Green Surge
+        -- Old description: Apple-flavored ooze
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Atog"
@@ -1417,6 +1649,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2317
+        -- Old: Split Shadow in Colorful Clothes
+        -- Old description: I don’t know how to play baseball. Guess what this bat is used for.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Timmerian Fiends"
@@ -1429,6 +1663,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2318
+        -- Old: Burn frequency
+        -- Old description: The most enthusiastic sister at Christmas
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lightning Dragon"
@@ -1441,6 +1677,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2319
+        -- Old: Bing Lingling
+        -- Old description: The snow wand in his hand is said to have been used by Santa Claus, and it can instantly create many snowflakes.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ancestral Recall"
@@ -1453,6 +1691,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2401
+        -- Old: Sheath Fairy
+        -- Old description: A cute herbivore like a rabbit, it lives in the grass under the big trees. In winter, it lives in holes in the ground to keep warm.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Scryb Sprites"
@@ -1465,6 +1705,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2402
+        -- Old: Cactus Beast
+        -- Old description: Plants that appear in desert areas cannot move because they are rooted in the sand. They can spray small thorns from their mouths to attack distant threats.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lichenthrope"
@@ -1477,6 +1719,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2403
+        -- Old: Phantom Beast
+        -- Old description: A mysterious ghost with electricity all over his body
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phantom Nishoba"
@@ -1489,6 +1733,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2404
+        -- Old: Ancient Rock Whale
+        -- Old description: A heavy giant fish in the deep sea. Because its whole body is covered with rocks, almost no creature can bite it. When swimming at full strength, you can hit with your body to cause huge damage.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Great Whale"
@@ -1501,6 +1747,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2405
+        -- Old: Fujiyou Itachi
+        -- Old description: A nimble guy who likes to hang from the vines swinging in the woods. It is said that he can turn into a ghost to evade attacks when in danger.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spectral Bears"
@@ -1513,6 +1761,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2406
+        -- Old: Mirror Eyes
+        -- Old description: Living in deep mines, it is said to use mysterious power to check the movement of the earth's crust and maintain the stability of the earth.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Timetwister"
@@ -1525,6 +1775,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2407
+        -- Old: Fortune Cat
+        -- Old description: Often worshiped as a god representing money, people worship and pray to bless them with increasing wealth.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Jareth, Leonine Titan"
@@ -1537,6 +1789,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 2408
+        -- Old: Luxiang Division
+        -- Old description: Play music in ancient ruins to direct various machines to work in an orderly manner
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sol Ring"
@@ -1549,6 +1803,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3101
+        -- Old: Ulodi
+        -- Old description: Can understand the languages of many animals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Shadows"
@@ -1561,6 +1817,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3102
+        -- Old: Masked Bear
+        -- Old description: A bear wearing a steel mask.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Clockwork Beast"
@@ -1573,6 +1831,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3103
+        -- Old: Mechanical Snake
+        -- Old description: The inside of the body is made up of mechanical parts.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Battering Ram"
@@ -1585,6 +1845,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3104
+        -- Old: Lock Teeth
+        -- Old description: A rodent with a tail covered in ice crystals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Urborg Phantom"
@@ -1597,6 +1859,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3105
+        -- Old: Papite
+        -- Old description: A highly intelligent creature with the ability to operate ultra-advanced precision machinery, it looks like a rabbit.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Daru Stinger"
@@ -1609,6 +1873,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3106
+        -- Old: Fangya
+        -- Old description: A cat-shaped creature that likes to hang out on windy nights, and its red scarf is its representative feature.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Aven Farseer"
@@ -1621,6 +1887,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3107
+        -- Old: Electric Ape
+        -- Old description: Can emit a momentary electric shock when clapping its hands.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Albatross"
@@ -1633,6 +1901,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3108
+        -- Old: Ice Tyrannosaurus
+        -- Old description: Dragons living in extremely cold areas are cruel by nature.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thunder Dragon"
@@ -1645,6 +1915,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3109
+        -- Old: Bitcat
+        -- Old description: Can use the ability to retrieve objects from the air.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Auramancer"
@@ -1657,6 +1929,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3110
+        -- Old: Star Beast
+        -- Old description: A typical feature is the star-shaped head.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Bloodfire Dwarf"
@@ -1669,6 +1943,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3111
+        -- Old: Tomb Patrol Sheep
+        -- Old description: Wander around the cemetery area and jump to a 5-meter-high platform.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Ski Patrol"
@@ -1681,6 +1957,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3112
+        -- Old: Centrino
+        -- Old description: A four-legged animal that is good at running and looks like a combination of a horse and a dog.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Chicken Egg"
@@ -1693,6 +1971,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3113
+        -- Old: Jetwing
+        -- Old description: Huge flying insects with hard carapace.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Sky Raider"
@@ -1705,6 +1985,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3114
+        -- Old: Steel Royal
+        -- Old description: A creature with a body made of solid steel
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Soldevi Sentry"
@@ -1717,6 +1999,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3115
+        -- Old: Bantli
+        -- Old description: A muscular African creature that can run on all fours and stand and fight.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Raider"
@@ -1729,6 +2013,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3201
+        -- Old: Snow-footed Mongoose
+        -- Old description: His snow-white tail and light blue feet are his representative features.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Voice of Truth"
@@ -1741,6 +2027,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3202
+        -- Old: Electric Claw Dragon
+        -- Old description: Shaking the wings on its head can put the whole body into an electrified state.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Raven Familiar"
@@ -1753,6 +2041,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3203
+        -- Old: Juta
+        -- Old description: An elegant long-tailed fox.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Skyshroud Elite"
@@ -1765,6 +2055,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3204
+        -- Old: Cory sheep
+        -- Old description: A cute sheep who is good at jumping
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Orcish Cannoneers"
@@ -1777,6 +2069,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3205
+        -- Old: Elk Maple Deer
+        -- Old description: A giant deer living in the maple forest
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Frost Giant"
@@ -1789,6 +2083,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3206
+        -- Old: Ant King
+        -- Old description: A huge ant king.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Killer Bees"
@@ -1801,6 +2097,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3207
+        -- Old: Honeywing Bee
+        -- Old description: has gorgeous and sweet wings
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Bloodline Shaman"
@@ -1813,6 +2111,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3208
+        -- Old: Honey-winged Ant
+        -- Old description: Often compete with honey-winged bees for honey
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Zombie Mob"
@@ -1825,6 +2125,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3209
+        -- Old: Qianshuixia
+        -- Old description: Disguises itself as coral to hide from predators
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Soldevi Sage"
@@ -1837,6 +2139,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3210
+        -- Old: Sakura Eye Shark
+        -- Old description: The color of the eyes is like pink cherry blossoms
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crosis's Attendant"
@@ -1849,6 +2153,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3301
+        -- Old: Huonudi
+        -- Old description: Flame-like hair represents courage
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Flametongue Kavu"
@@ -1861,6 +2167,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3302
+        -- Old: Blood Moon Beast
+        -- Old description: The monsters of the vampire family hunt at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Harbinger of Night"
@@ -1873,6 +2181,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3303
+        -- Old: Bag bag
+        -- Old description: Lively and full of energy, he will invite a boxing duel if he disagrees.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tahngarth, Talruum Hero"
@@ -1885,6 +2195,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3304
+        -- Old: Fighting Priest
+        -- Old description: A dog that has received professional fighting training since childhood.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Elven Warhounds"
@@ -1897,6 +2209,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3305
+        -- Old: Wu Kong
+        -- Old description: is good at Chinese martial arts and kung fu.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Psychatog"
@@ -1909,6 +2223,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3306
+        -- Old: Crazy Golden Leopard
+        -- Old description: has a fanatical love for gold
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nantuko Shade"
@@ -1921,6 +2237,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3307
+        -- Old: Qilarus
+        -- Old description: Has an icy body and will stir up cold wind when running
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Chromeshell Crab"
@@ -1933,6 +2251,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3308
+        -- Old: Ni Gumo
+        -- Old description: A giant insect said to lurk in the soil
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Badger"
@@ -1945,6 +2265,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3309
+        -- Old: Morning Traveler Luna
+        -- Old description: Her smile is the starting point of the journey.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Squirrel Mob"
@@ -1957,6 +2279,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3310
+        -- Old: Captain Sunshine Linda
+        -- Old description: The girl who always brings the atmosphere to life!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mother of Runes"
@@ -1969,6 +2293,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3311
+        -- Old: Tang Chong Chong
+        -- Old description: A little sugar man who likes to sprint on a skateboard
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Withered Wretch"
@@ -1981,6 +2307,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3312
+        -- Old: Cyclops
+        -- Old description: Its arms are powerful and can throw large rocks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nalathni Dragon"
@@ -1993,6 +2321,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3313
+        -- Old: Ring Box
+        -- Old description: He is very small and will speak loudly when he is standing high, but he will be submissive when he is standing low.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thran Golem"
@@ -2005,6 +2335,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3314
+        -- Old: Qingsuo
+        -- Old description: It is said that an old ghost who is over 10,000 years old spends time cleaning and maintaining his brick body every day.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phyrexian Infiltrator"
@@ -2017,6 +2349,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3315
+        -- Old: Starfish
+        -- Old description: Likes to suck the golden starfish in the water into his mouth and spit it out, just for fun.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rootwater Thief"
@@ -2029,6 +2363,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3401
+        -- Old: Bobby Langbi
+        -- Old description: An elf with strong water power, the waves it stirs up can sweep away enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Leviathan"
@@ -2041,6 +2377,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3402
+        -- Old: Damu
+        -- Old description: A good-tempered old tree that provides shade and rain for the animals in the forest. But if anyone dares to destroy the trees, the angry Damu will roar to pieces with huge sound waves.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "War Mammoth"
@@ -2053,6 +2391,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3403
+        -- Old: Strange vortex snail
+        -- Old description: It will leave behind a slippery slime when walking, and can release super-viscous glue to immobilize enemies when necessary.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Clone"
@@ -2065,6 +2405,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3404
+        -- Old: Haiming female
+        -- Old description: A shy creature that doesn't like sports and lurks under the sea. It generally does not initiate attacks and can glide quickly on the seabed.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mahamoti Djinn"
@@ -2077,6 +2419,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3405
+        -- Old: Hyrule
+        -- Old description: A mysterious four-legged creature said to have served a powerful master.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lord of Atlantis"
@@ -2089,6 +2433,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3406
+        -- Old: Sunshine Holiday·Freya
+        -- Old description: Passionate like the summer sea breeze, set off with full energy!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Serra Angel"
@@ -2101,6 +2447,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3407
+        -- Old: Green Breath Fox
+        -- Old description: When someone is lost in the forest, the Green Breath Fox will quietly make a sound to guide the lost person to find the direction.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Erhnam Djinn"
@@ -2113,6 +2461,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3408
+        -- Old: Dice Frog
+        -- Old description: This dice can distort the direction of gravity according to the changes in the throwing results.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Juggernaut"
@@ -2125,6 +2475,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 3409
+        -- Old: Three types of balls
+        -- Old description: It is very popular with humans because the special substances in its body can make the nearby land very fertile, causing unreasonably huge fruits to grow on the land.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Birds of Paradise"
@@ -2137,6 +2489,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4101
+        -- Old: Spida
+        -- Old description: A giant bird that flies at supersonic speeds.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Samite Healer"
@@ -2149,6 +2503,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4102
+        -- Old: Arrow-feathered bird
+        -- Old description: Has sharp feathers.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dwarven Scorcher"
@@ -2161,6 +2517,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4103
+        -- Old: Burning Mane Lion
+        -- Old description: You can condense flames in your palms and use Flame Fist.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lightning Elemental"
@@ -2173,6 +2531,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4104
+        -- Old: Fantasy Dragon
+        -- Old description: The pink dreamy foam is intoxicating.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Blood Celebrant"
@@ -2185,6 +2545,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4105
+        -- Old: Three-leaf palm
+        -- Old description: A cactus-like creature with three leaves on its head.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Blastoderm"
@@ -2197,6 +2559,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4106
+        -- Old: Sunflowermon
+        -- Old description: Very eager for sunlight, it can exert its greatest power on sunny days.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gorilla Berserkers"
@@ -2209,6 +2573,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4107
+        -- Old: Spiny Rabbit
+        -- Old description: The body has many cactus spines.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Llanowar Sentinel"
@@ -2221,6 +2587,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4108
+        -- Old: Fan Bear
+        -- Old description: Looks like a panda
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Skirk Prospector"
@@ -2233,6 +2601,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4109
+        -- Old: Chef Lizard
+        -- Old description: A lizard-like creature that loves cooking
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Icatian Infantry"
@@ -2245,6 +2615,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4110
+        -- Old: Maple Tail Fox
+        -- Old description: A huge tail the color of maple leaves
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Harvester Druid"
@@ -2257,6 +2629,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4111
+        -- Old: Border Fox
+        -- Old description: A fox patrolling the border.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Arctic Foxes"
@@ -2269,6 +2643,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4112
+        -- Old: Duolingduo
+        -- Old description: Big ears, high voltage.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ridgeline Rager"
@@ -2281,6 +2657,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4113
+        -- Old: Electric Dragon Lizard
+        -- Old description: I love lemons very much.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Merfolk Traders"
@@ -2293,6 +2671,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4114
+        -- Old: Long tail dragon
+        -- Old description: Good at jumping, running and stealing.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hornet Cobra"
@@ -2305,6 +2685,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4115
+        -- Old: Pippi
+        -- Old description: There is a crackling sound of electric sparks while running.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Soldevi Heretic"
@@ -2317,6 +2699,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4116
+        -- Old: Dora Fat
+        -- Old description: Fat rabbit
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Urborg Skeleton"
@@ -2329,6 +2713,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4117
+        -- Old: Black Snail Beast
+        -- Old description: Carrying a huge snail shell, it can curl up in the shell when encountering danger.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Drudge Skeletons"
@@ -2341,6 +2727,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4201
+        -- Old: Steel Goat
+        -- Old description: Can dig caves with steel claws
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Clockwork Steed"
@@ -2353,6 +2741,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4202
+        -- Old: Stone Mountain Armor
+        -- Old description: His natural mission is to protect his stone mountain
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pavel Maliki"
@@ -2365,6 +2755,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4203
+        -- Old: Timid Crab
+        -- Old description: Crabs that like to huddle up in caves to hide themselves
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dwarven Blastminer"
@@ -2377,6 +2769,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4204
+        -- Old: Mushroom Cap Crab
+        -- Old description: The head is shaped like a mushroom
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wildfire Emissary"
@@ -2389,6 +2783,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4301
+        -- Old: Golden Mountain Armor
+        -- Old description: A beast covered in hard gold steel.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tek"
@@ -2401,6 +2797,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4302
+        -- Old: Mysterious Dragon
+        -- Old description: Mysterious dragons, it is said that they can only be seen when the weather is abnormal in the sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cloud Dragon"
@@ -2413,6 +2811,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4303
+        -- Old: Thundermon
+        -- Old description: A magical beast that can control thunderstorm weather, and can make thunderclouds move or cause thunder to fall.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dromar, the Banisher"
@@ -2425,6 +2825,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4304
+        -- Old: Bitter Demon
+        -- Old description: The demon of pain from hell
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phyrexian Negator"
@@ -2437,6 +2839,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4305
+        -- Old: Dark Scale Salamander
+        -- Old description: A salamander living in the dark abyss of the sea
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Unstable Shapeshifter"
@@ -2449,6 +2853,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4306
+        -- Old: Rabbi
+        -- Old description: Former special-purpose bunny soldier, Lie Er gave up his Medal of Honor and embarked on a journey to find his missing brother. He is agile and has a strong sense of justice. His backpack contains the tactical manual and secret map left by his father.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "White Knight"
@@ -2461,6 +2867,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4307
+        -- Old: Rock Claw Beast
+        -- Old description: Lives by eating rocks in caves and has a hard carapace.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Stone Giant"
@@ -2473,6 +2881,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4308
+        -- Old: Menglong
+        -- Old description: Weave dreams at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ihsan's Shade"
@@ -2485,6 +2895,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4309
+        -- Old: Thunder Meow
+        -- Old description: In lightning weather, every hair becomes electrified by anger.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Flotilla"
@@ -2497,6 +2909,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4310
+        -- Old: Wetland dragon lizard
+        -- Old description: Lives in damp swamps and likes to eat damp moss.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dwarven Pony"
@@ -2509,6 +2923,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4311
+        -- Old: Blazing Sight·Elena
+        -- Old description: has an irresistible glow of confidence.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Faerie Noble"
@@ -2521,6 +2937,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4312
+        -- Old: Morning Light Caroline
+        -- Old description: Every step comes before efficiency.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Frenetic Efreet"
@@ -2533,6 +2951,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4313
+        -- Old: Treasure Dragon
+        -- Old description: The happy little dragon who gives out gifts to everyone on Christmas
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Aboroth"
@@ -2545,6 +2965,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4314
+        -- Old: Clockwork Duck
+        -- Old description: It actually has legs, but in order to disguise itself as a box and scare people, it usually only walks when no one sees it.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phyrexian Dreadnought"
@@ -2557,6 +2979,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4315
+        -- Old: Fantasy amber sturgeon
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Palinchron"
@@ -2569,6 +2993,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4316
+        -- Old: Split Front
+        -- Old description: The Messenger of Jacaranda
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Yavimaya Elder"
@@ -2581,6 +3007,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4317
+        -- Old: Sand Electric Scorpion
+        -- Old description: If you splash water on him, he will become very happy and expose his belly.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Musician"
@@ -2593,6 +3021,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4318
+        -- Old: Dark Scale Salamander
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Storm Spirit"
@@ -2605,6 +3035,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4401
+        -- Old: Fantasy amber sturgeon
+        -- Old description: Amber body, elegant lines, the embodiment of beauty in the ocean.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Serendib Djinn"
@@ -2617,6 +3049,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4402
+        -- Old: Tongue Lizard
+        -- Old description: Use its long tongue to dig deep into the ant nest for a feast.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Force of Nature"
@@ -2629,6 +3063,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4403
+        -- Old: Ancient Dog Scorpion
+        -- Old description: A loyal and elegant warrior, extremely excellent in attack, defense, and agility.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Masticore"
@@ -2641,6 +3077,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4404
+        -- Old: Youlandie
+        -- Old description: This squinting eye can make the sea churn.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Old Man of the Sea"
@@ -2653,6 +3091,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4405
+        -- Old: Crystal Shell Turtle
+        -- Old description: Many diggers dream of finding the habitat of the Crystal Shell Turtle, and it is said that there will be a large number of faded crystals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Morphling"
@@ -2665,6 +3105,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4406
+        -- Old: Forest Overlord
+        -- Old description: Usually looks downcast as if it lacks sleep, but becomes energetic in the swamp.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spiritmonger"
@@ -2677,6 +3119,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4407
+        -- Old: Vitality Bomb·Ji Chenyin
+        -- Old description: Gym regular, street legend. Her appearance always brings rhythm and excitement, and even opponents can't help but want to join the training.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Verdant Force"
@@ -2689,6 +3133,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4408
+        -- Old: Mud Bird
+        -- Old description: The bond of symbiotic twins, the upper bunk bed and the lower bunk respectively, are the owl and the mud monster. In fact, occasionally they will be separated for a short time.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Su-Chi"
@@ -2701,6 +3147,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4409
+        -- Old: Melting Heart Treasure
+        -- Old description: The body contains low-temperature lava below 100 degrees. When angry, it will really become furious and furious.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Skizzik"
@@ -2713,6 +3161,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 4410
+        -- Old: Time Law Armor
+        -- Old description: A giant machine that controls the movement of time. The alarm clocks on both shoulders will sound at 0:00.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Braids, Cabal Minion"
@@ -2725,6 +3175,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5101
+        -- Old: White Night Demon
+        -- Old description: A white monster that appears at night
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Barbarian Guides"
@@ -2737,6 +3189,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5102
+        -- Old: Lian Menghu
+        -- Old description: Can transform into water droplets to hide itself.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Raka Disciple"
@@ -2749,6 +3203,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5103
+        -- Old: Rockhorned Dragon
+        -- Old description: A small dragon living at the bottom of the canyon.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pyric Salamander"
@@ -2761,6 +3217,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5104
+        -- Old: Pharaoh Cat
+        -- Old description: The skin on the surface of the body can withstand extremely strong impacts
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Clockwork Swarm"
@@ -2773,6 +3231,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5105
+        -- Old: White Rock Giant
+        -- Old description: The body is made of white rock
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Mantis"
@@ -2785,6 +3245,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5106
+        -- Old: White Rock Statue
+        -- Old description: The body is made of white rock
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kobolds of Kher Keep"
@@ -2797,6 +3259,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5107
+        -- Old: Australian deer
+        -- Old description: Deer leader from primitive tribe
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Liberated Dwarf"
@@ -2809,6 +3273,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5108
+        -- Old: Barbarian deer
+        -- Old description: Strong deer
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Barbarian Lunatic"
@@ -2821,6 +3287,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5110
+        -- Old: Mini Sheep
+        -- Old description: Super small sheep
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dwarven Berserker"
@@ -2833,6 +3301,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5111
+        -- Old: Dobby
+        -- Old description: An elf living in the forest
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Willow Elf"
@@ -2845,6 +3315,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5112
+        -- Old: Frozen Bear
+        -- Old description: Likes to live in extremely cold worlds.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kjeldoran Skyknight"
@@ -2857,6 +3329,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5113
+        -- Old: Polar seal
+        -- Old description: It is very cold-resistant and can easily survive in extremely low temperatures.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mesa Pegasus"
@@ -2869,6 +3343,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5114
+        -- Old: Frozen Bird
+        -- Old description: Flying over the Arctic continent.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Keeneye Aven"
@@ -2881,6 +3357,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5115
+        -- Old: Bi Meng Bee
+        -- Old description: The tentacles on the top of its head can stimulate powerful electric shocks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Shadow Guildmage"
@@ -2893,6 +3371,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5116
+        -- Old: Komodo
+        -- Old description: An electric lizard living in the desert.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Merchant of Secrets"
@@ -2905,6 +3385,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5117
+        -- Old: Nemo
+        -- Old description: An electric octopus that lives in the deep sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Devouring Deep"
@@ -2917,6 +3399,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5118
+        -- Old: Electric Seahorse
+        -- Old description: Likes to electrocute small fish on the bottom of the sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sparksmith"
@@ -2929,6 +3413,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5119
+        -- Old: Bomb Crocodile
+        -- Old description: Because he is too fat, he only has weak electrical energy.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dega Disciple"
@@ -2941,6 +3427,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5120
+        -- Old: Fat puffer fish
+        -- Old description: A creature that lives on the bottom of the sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Information Dealer"
@@ -2953,6 +3441,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5121
+        -- Old: Abyss Octopus
+        -- Old description: Will spray ink when disturbed.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cephalid Looter"
@@ -2965,6 +3455,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5122
+        -- Old: Ji Crow
+        -- Old description: Mysterious birds.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Storm Crow"
@@ -2977,6 +3469,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5123
+        -- Old: Firefox
+        -- Old description: A fox with a burning body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Colos Yearling"
@@ -2989,6 +3483,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5124
+        -- Old: Little Firefox
+        -- Old description: Firefox’s childhood.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Sledder"
@@ -3001,6 +3497,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5201
+        -- Old: Steel Crystal Turtle
+        -- Old description: The back shell grows by eating crystal ore in the cave.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crystal Golem"
@@ -3013,6 +3511,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5202
+        -- Old: Night Rat
+        -- Old description: A gray-black rat that appears at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spore Flower"
@@ -3025,6 +3525,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5203
+        -- Old: Leaf-winged Frog
+        -- Old description: A flexible animal that can both jump and fly.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Firebrand Ranger"
@@ -3037,6 +3539,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5204
+        -- Old: Pharaoh Dog
+        -- Old description: has the superpower of a pharaoh and can summon sand and dust to attack.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Suq'Ata Firewalker"
@@ -3049,6 +3553,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5205
+        -- Old: Ice Orangutan
+        -- Old description: Woolly orangutan living in extremely cold areas
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sea Spirit"
@@ -3061,6 +3567,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5206
+        -- Old: Red Eye Spot
+        -- Old description: Zebra with red pupils
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Balduvian Dead"
@@ -3073,6 +3581,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5207
+        -- Old: Bubble Cat
+        -- Old description: Suddenly jumps out of the water to attack, and can huddle into a small corner to avoid pursuit.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cephalid Illusionist"
@@ -3085,6 +3595,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5208
+        -- Old: Cold Wind Bear
+        -- Old description: Bears living in the polar circle.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Aphetto Grifter"
@@ -3097,6 +3609,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5209
+        -- Old: Night Star Bug
+        -- Old description: has undergone a mutation, so it now has electrical energy.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Airdrop Condor"
@@ -3109,6 +3623,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5210
+        -- Old: Ceratopsian
+        -- Old description: A heavyweight insect tank that runs on tracks
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Jhoira's Toolbox"
@@ -3121,6 +3637,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5301
+        -- Old: Octopus Coco
+        -- Old description: Coco is the little postman of the underwater village. He always greets people with a smile and delivers letters quickly with his eight tentacles. My dream is to one day reach the surface of the sea and see the legendary "Rainbow Bubble".
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Scalpelexis"
@@ -3133,6 +3651,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5302
+        -- Old: Dream Bug
+        -- Old description: Chongchong is always dreaming and purring loudly.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Cloud of Faeries"
@@ -3145,6 +3665,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5303
+        -- Old: Long Duoduo
+        -- Old description: A small dragon that can disguise itself as grass, but its divine power is immeasurable.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin King"
@@ -3157,6 +3679,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5304
+        -- Old: Lucky Leaf Frog
+        -- Old description: Like extremely humid environments and have a lot of water in their bodies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ancient Silverback"
@@ -3169,6 +3693,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5305
+        -- Old: Tower flower beast
+        -- Old description: When her corolla blooms, Towermon's power is fully unleashed.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Uktabi Orangutan"
@@ -3181,6 +3707,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5306
+        -- Old: Thunder Flame Fang
+        -- Old description: Born from the crater of a volcano, Thunderfang can summon lightning and flames. He does not fight to destroy, but to protect the forgotten ancient dragon place. Strength and responsibility go hand in hand.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Blurred Mongoose"
@@ -3193,6 +3721,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5307
+        -- Old: Tombmelting Dragon
+        -- Old description: An ancient dragon from ancient times, guarding the tomb of the Lava King.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Discordant Spirit"
@@ -3205,6 +3735,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5308
+        -- Old: Thunder Beast
+        -- Old description: Causes a wide-area lightning strike when roaring.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thundermare"
@@ -3217,6 +3749,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5309
+        -- Old: Winter Spring
+        -- Old description: Running on a river will cause the river to freeze.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Blinding Angel"
@@ -3229,6 +3763,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5310
+        -- Old: Glory
+        -- Old description: A colorful Pegasus.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Serra Avatar"
@@ -3241,6 +3777,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5311
+        -- Old: Queen of Swimming Day·Su Liyin
+        -- Old description: He has his own focus under the sun, and his smile hides his unyielding confidence and sultry aura.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Sun Quan, Lord of Wu"
@@ -3253,6 +3791,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5312
+        -- Old: Chi Yang Young General Kasugina
+        -- Old description: With hair like flames and full of enthusiasm, he is the most incredible sight in the library.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mogg Fanatic"
@@ -3265,6 +3805,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5313
+        -- Old: Icefang Mammoth
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Karmic Guide"
@@ -3277,6 +3819,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5314
+        -- Old: Lucky Leaf Frog
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gargantuan Gorilla"
@@ -3289,6 +3833,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5315
+        -- Old: Cake
+        -- Old description: A rare insect on the verge of extinction, delicious and fragile.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Vexing Beetle"
@@ -3301,6 +3847,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5316
+        -- Old: Gift Box Boxer
+        -- Old description: Suddenly pops out of the box and punches you!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Copper Gnomes"
@@ -3313,6 +3861,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5317
+        -- Old: Christmas elephant
+        -- Old description: Although not the cutest, he can make friends with anyone.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Selenia, Dark Angel"
@@ -3325,6 +3875,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5318
+        -- Old: Tower flower beast
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lightning Angel"
@@ -3337,6 +3889,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5319
+        -- Old: Flat ray
+        -- Old description: A mount that Santa Claus rides when delivering gifts in the water.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lu Su, Wu Advisor"
@@ -3349,6 +3903,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5401
+        -- Old: Shidou Xiaoba
+        -- Old description: Weighs several tons and is difficult to move as long as he doesn't move.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Craw Wurm"
@@ -3361,6 +3917,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5402
+        -- Old: Mushroom fish
+        -- Old description: A fish that lives on the water, its back is very suitable for mushroom growth.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hypnotic Specter"
@@ -3373,6 +3931,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5403
+        -- Old: Ankylosaurus
+        -- Old description: A swift and fierce hunter with a very stiff tail.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Shivan Wurm"
@@ -3385,6 +3945,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5404
+        -- Old: Icefang Mammoth
+        -- Old description: Lives in extremely cold areas and can use Ice Wind Raid.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Woolly Mammoths"
@@ -3397,6 +3959,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5405
+        -- Old: Caodundun
+        -- Old description: Cao Dundun has a very tenacious vitality and can regenerate as long as there is water and sunlight.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thorn Elemental"
@@ -3409,6 +3973,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5406
+        -- Old: Dead Steel Stone
+        -- Old description: An elf with strong water power, the waves it stirs up can sweep away enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Karn, Silver Golem"
@@ -3421,6 +3987,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5407
+        -- Old: Hayate Fist Boy·Hikaru Nitta
+        -- Old description: The shadowy boy on the playground wears an eyepatch to hide the scars of the past, his fist always moving forward.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Royal Assassin"
@@ -3433,6 +4001,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5408
+        -- Old: New Lima
+        -- Old description: A cheerful pony with golden hooves and horns that appears in the Year of the Horse.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Revered Unicorn"
@@ -3445,6 +4015,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5409
+        -- Old: Dark Abyss Sheep
+        -- Old description: A mysterious creature that absorbs the energy of magnetic fields deep underground and controls this energy
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nightmare"
@@ -3457,6 +4029,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 5410
+        -- Old: Yanxialong
+        -- Old description: It is called a living stratum and rarely moves. Many people mistakenly think that they are stepping on the ground, but they are actually on the body of Yanxialong.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Two-Headed Dragon"
@@ -3469,6 +4043,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6101
+        -- Old: Ripple Snake
+        -- Old description: Can switch between ice state and water state freely
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thalakos Sentry"
@@ -3481,6 +4057,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6102
+        -- Old: Glass Butterfly
+        -- Old description: Flaps its wings and shoots glass shards to attack
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mesmeric Fiend"
@@ -3493,6 +4071,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6103
+        -- Old: Corrupted Thunder Beast
+        -- Old description: When colliding at high speed, it can use the electric current generated in the body to paralyze the enemy.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Balduvian Shaman"
@@ -3505,6 +4085,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6104
+        -- Old: Ice Peak Ape
+        -- Old description: is good at climbing icebergs.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Standard Bearer"
@@ -3517,6 +4099,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6105
+        -- Old: Ghost Shark
+        -- Old description: Although dead, he is still wandering under the sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Razorfin Hunter"
@@ -3529,6 +4113,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6106
+        -- Old: Ghost Hedgehog
+        -- Old description: A creature formed from the souls of hedgehogs who died in forest fires.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Frozen Shade"
@@ -3541,6 +4127,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6107
+        -- Old: One-eyed octopus
+        -- Old description: Ink containing neurotoxins can make opponents tired and weak.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Corpses"
@@ -3553,6 +4141,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6108
+        -- Old: Blue Bird
+        -- Old description: Feathers can block and bounce flying objects
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ascending Aven"
@@ -3565,6 +4155,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6109
+        -- Old: Soul Leaving Insect
+        -- Old description: Can cause the opponent's soul to temporarily leave the body
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Benalish Hero"
@@ -3577,6 +4169,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6110
+        -- Old: Nemesis
+        -- Old description: The ability to absorb stars launches an impact
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Coalition Honor Guard"
@@ -3589,6 +4183,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6111
+        -- Old: Star Jellyfish
+        -- Old description: It can swim and fly, and can light up its tentacles to emit strong light at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Glimmering Angel"
@@ -3601,6 +4197,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6112
+        -- Old: Earth Mountain Turtle
+        -- Old description: Carrying a huge mountain on his back.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Mountaineer"
@@ -3613,6 +4211,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6113
+        -- Old: Tusk Pig
+        -- Old description: The fangs can penetrate the ground and are good at burrowing attacks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Treetop Scout"
@@ -3625,6 +4225,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6114
+        -- Old: Crystal Beetle
+        -- Old description: By eating underground minerals, strange ores can gradually grow on its back.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pygmy Pyrosaur"
@@ -3637,6 +4239,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6115
+        -- Old: Desert Lizard
+        -- Old description: Species that live in dry rocky desert areas can live without water at all.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Heart Sliver"
@@ -3649,6 +4253,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6116
+        -- Old: Boxing Kangaroo
+        -- Old description: Boxing contains explosive power.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Laccolith Whelp"
@@ -3661,6 +4267,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6117
+        -- Old: Steel Armored Rhinoceros
+        -- Old description: By eating various metals, the outer armor takes on different alloy qualities.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Metallic Sliver"
@@ -3673,6 +4281,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6118
+        -- Old: Fantasy Bat
+        -- Old description: Fantasy creatures that can only be detected using magic detectors are invisible to the naked eye.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Vapor"
@@ -3685,6 +4295,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6119
+        -- Old: Hypnotic Peacock
+        -- Old description: Being in a dream for a long time, can spiritually connect with other dream creatures.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kjeldoran Warrior"
@@ -3697,6 +4309,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6120
+        -- Old: Steel Thorn Beast
+        -- Old description: Creature covered with steel spikes
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phyrexian War Beast"
@@ -3709,6 +4323,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6121
+        -- Old: Mechanical Bird
+        -- Old description: Flying monitoring.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Aesthir Glider"
@@ -3721,6 +4337,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6123
+        -- Old: Engineering icon
+        -- Old description: The body structure is good at lifting and carrying heavy objects and can play an important role in building houses.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Roterothopter"
@@ -3733,6 +4351,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6124
+        -- Old: Volcano Dragon
+        -- Old description: A species active in volcanic areas and extremely heat-resistant.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Orcish Lumberjack"
@@ -3745,6 +4365,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6125
+        -- Old: Electromagnetic Dog
+        -- Old description: An electromagnetic canine creature.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Stormscape Familiar"
@@ -3757,6 +4379,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6126
+        -- Old: Color-changing deer
+        -- Old description: Colorful forest creatures that can change color in different environments to blend into the environment.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Argothian Pixies"
@@ -3769,6 +4393,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6127
+        -- Old: Greedy Dragon
+        -- Old description: Can eat any object no matter how hard it is.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Chariot"
@@ -3781,6 +4407,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6201
+        -- Old: Rainbow Koala
+        -- Old description: Throwing rainbow balls can confuse enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Tombstones"
@@ -3793,6 +4421,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6202
+        -- Old: Ice and Snow Spirit Wave
+        -- Old description: You can only go out to play in winter
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Volunteer Reserves"
@@ -3805,6 +4435,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6203
+        -- Old: Faqi
+        -- Old description: A wolf with pharaoh's superpowers
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Fleeting Aven"
@@ -3817,6 +4449,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6204
+        -- Old: Komi Sheep
+        -- Old description: Need to eat circuit boards to keep the brain’s CPU running
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Viseling"
@@ -3829,6 +4463,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6205
+        -- Old: Rainbow Dragon
+        -- Old description: Super Rainbow Dragon.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rainbow Crow"
@@ -3841,6 +4477,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6206
+        -- Old: Dada Duck
+        -- Old description: A cute little duck.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wirewood Hivemaster"
@@ -3853,6 +4491,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6207
+        -- Old: Steel Teeth Dog
+        -- Old description: A creature covered in steel.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Millikin"
@@ -3865,6 +4505,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6208
+        -- Old: Ore Beast
+        -- Old description: Live in mineral-rich caves deep underground.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Chambered Nautilus"
@@ -3877,6 +4519,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6209
+        -- Old: Angel Eagle
+        -- Old description: A heavenly creature that flies at super high altitudes and can hit the ground with high-speed lightning strikes
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Balshan Beguiler"
@@ -3889,6 +4533,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6301
+        -- Old: Ghost Egg
+        -- Old description: No one has ever known the true appearance of the mysterious creature inside the eggshell.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Derelor"
@@ -3901,6 +4547,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6302
+        -- Old: Lightning Sheep
+        -- Old description: will attract lightning from the sky during thunderstorms.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Abyssal Specter"
@@ -3913,6 +4561,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6303
+        -- Old: Radix Snake Flower
+        -- Old description: A snake-shaped plant with mysterious toxins in its body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "River Boa"
@@ -3925,6 +4575,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6304
+        -- Old: Bubbles
+        -- Old description: An aquatic creature whose entire body is made of bubbles.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Bottle Gnomes"
@@ -3937,6 +4589,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6305
+        -- Old: Bubble Jellyfish
+        -- Old description: A jellyfish with a foamy body.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ophidian"
@@ -3949,6 +4603,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6306
+        -- Old: Gugu
+        -- Old description: Goo-goo-goo-goo-goo.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ambush Commander"
@@ -3961,6 +4617,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6307
+        -- Old: Lala
+        -- Old description: Huhhhhhhhh.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rofellos, Llanowar Emissary"
@@ -3973,6 +4631,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6308
+        -- Old: Mud Hippopotamus
+        -- Old description: Likes to live in a cool quagmire surrounded by shade.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ayesha Tanaka"
@@ -3985,6 +4645,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6309
+        -- Old: Sunshine Trainee·Natsume Rin
+        -- Old description: The energetic girl on the playground is full of energy, never late for practice, and her smile is brighter than the sun!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dreamborn Muse"
@@ -3997,6 +4659,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6310
+        -- Old: Fighting Girl Emily
+        -- Old description: A girl who is always full of energy, running, punching, and challenging the limits, she is never absent!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lin Sivvi, Defiant Hero"
@@ -4009,6 +4673,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6311
+        -- Old: Candle Fox
+        -- Old description: Eyes like candles are watching you
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Menacing Ogre"
@@ -4021,6 +4687,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6312
+        -- Old: Palm-tailed Frog
+        -- Old description: A magical creature born from the split palm of the Night Tide Demon King
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Quirion Ranger"
@@ -4033,6 +4701,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6313
+        -- Old: Wave Demon
+        -- Old description: The red plants floating on the sea are said to be closely related to a certain white rose in the desert.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Elvish Champion"
@@ -4045,6 +4715,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6314
+        -- Old: Star Core Electric Spider
+        -- Old description: Can inspire powerful electric energy to penetrate defenses
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Fleeting Image"
@@ -4057,6 +4729,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6315
+        -- Old: Jiajia
+        -- Old description: likes to laugh, and the plants around him will thrive when they hear his laughter.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Priest of Titania"
@@ -4069,6 +4743,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6316
+        -- Old: Velvet Vine
+        -- Old description: It has green fur on its body, and its tail is made of tough vines.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tribal Forcemage"
@@ -4081,6 +4757,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6317
+        -- Old: Night Flower
+        -- Old description: Lives in the Meteor Forest, and when in contact with it, memories of past lives will be recalled.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "River Merfolk"
@@ -4093,6 +4771,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6318
+        -- Old: Lanfu
+        -- Old description: Parasitic organisms on coral reefs can hide themselves by retracting their bodies into flower petals.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thalakos Drifters"
@@ -4105,6 +4785,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6319
+        -- Old: Cotton seedlings
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Copper-Leaf Angel"
@@ -4117,6 +4799,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6320
+        -- Old: Snow Hammer
+        -- Old description: Every year, children put a carrot nose on it, but it actually has no nose.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wayward Angel"
@@ -4129,6 +4813,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6321
+        -- Old: Owl Griffin
+        -- Old description: Santa’s new aerial vehicle is quite warm to ride on.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Lavaborn Muse"
@@ -4141,6 +4827,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6322
+        -- Old: Buu
+        -- Old description: Did he grow out of that: Shh... Wouldn't that be too rude:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Matron"
@@ -4153,6 +4841,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6323
+        -- Old: Cola Cola
+        -- Old description: Myopia is inherited from my ancestors, so I already wear glasses in the eggshell, and the glasses can get bigger as I grow up.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Meddling Mage"
@@ -4165,6 +4855,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6401
+        -- Old: Sporosaurus
+        -- Old description: The spores on its tail can suffocate enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spike Weaver"
@@ -4177,6 +4869,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6402
+        -- Old: Three-headed piranha
+        -- Old description: It disguises itself as a plant and hides in the depths of the forest, and suddenly opens its mouth to attack when the animals are not paying attention.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Maro"
@@ -4189,6 +4883,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6403
+        -- Old: Penpen
+        -- Old description: A baby elephant who loves various flowerpots as hats.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ravenous Baloth"
@@ -4201,6 +4897,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6404
+        -- Old: Flower Dream
+        -- Old description: The Flower Messenger who controls dreams
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tradewind Rider"
@@ -4213,6 +4911,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6405
+        -- Old: Giant Mouth Rock
+        -- Old description: It holds rocks and soil together.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Polar Kraken"
@@ -4225,6 +4925,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6406
+        -- Old: Fungus Hunter Squid
+        -- Old description: Dangerous creatures in the water that release poison to attack enemies.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Giant Octopus"
@@ -4237,6 +4939,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6407
+        -- Old: Street guy Bruno
+        -- Old description: A hip-hop master from Brooklyn, sunny, loud, a bit fierce but actually a very nice person.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ali from Cairo"
@@ -4249,6 +4953,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6408
+        -- Old: Cotton seedlings
+        -- Old description: The cute cotton elf will burrow into the soil to avoid danger when in the fields.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Zodiac Dragon"
@@ -4261,6 +4967,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6409
+        -- Old: Double leaf strain
+        -- Old description: Twin plants, the water spirit is responsible for absorbing water, and the grass spirit is responsible for providing nutrients.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Blossoms"
@@ -4273,6 +4981,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 6410
+        -- Old: Zeshui Beast
+        -- Old description: The guardian spirit in the lake controls the balance of the water. When abnormal forces are about to cause floods or disasters, the Zesui Beast will warn everyone.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Marjhan"
@@ -4285,6 +4995,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7101
+        -- Old: Le Yu Bird
+        -- Old description: A lively and cheerful bird spirit, it travels through the forest with its melodious songs. It can influence the emotions of its partners with its melody. It is the "sonic assistant" in the team.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Krosan Wayfarer"
@@ -4297,6 +5009,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7102
+        -- Old: Leaf Blade
+        -- Old description: An insect-shaped elf with wings as sharp as blades and as fast as the wind in the dense forest.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Quirion Explorer"
@@ -4309,6 +5023,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7103
+        -- Old: Leaf Claw Beast
+        -- Old description: A small grass-type beast, covered with vine leaves, agile and a master of disguise in the jungle.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Harvest Mage"
@@ -4321,6 +5037,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7104
+        -- Old: Earthdramon
+        -- Old description: A calm and taciturn dragon elf, he often patrols Iwahara Cliff alone. He is good at ground cracking and shock attacks and is the tactical core of the team.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Elvish Pioneer"
@@ -4333,6 +5051,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7105
+        -- Old: Rockfist Beast
+        -- Old description: His body is as hard as rock, and his fists can break boulders. He is famous for his defense and punches, and is a rock-steady shield wall character in battle.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Diligent Farmhand"
@@ -4345,6 +5065,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7106
+        -- Old: Babu
+        -- Old description: A mysterious little beast that lives deep in the forest. It is gentle but full of curiosity and often sneaks out at night.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Mistform Sliver"
@@ -4357,6 +5079,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7107
+        -- Old: Rakamon
+        -- Old description: The elves who live in the clouds are as light as mist and generate light every step of the way. They have the ability to control the weather and are the guides of the sky.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Urborg Elf"
@@ -4369,6 +5093,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7108
+        -- Old: Fist Raccoon
+        -- Old description: A passionate fighting elf, wearing boxing gloves, with flexible movements and extremely fast attack rhythm, he is a fighting star in the ring.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crafty Pathmage"
@@ -4381,6 +5107,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7109
+        -- Old: Starryu Deer
+        -- Old description: The mysterious guardian of the night sky, whose steps carry starlight and can summon the power of the stars.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Metathran Soldier"
@@ -4393,6 +5121,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7110
+        -- Old: Secret Love Bird
+        -- Old description: A taciturn bird elf with emotional fluctuations hidden in his eyes. He is good at shadow and psychic skills. He is an observer who hides his strength.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Marsh Viper"
@@ -4405,6 +5135,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7111
+        -- Old: Tree Elephant Beast
+        -- Old description: Forest guardian, wearing tree armor, powerful, good at crushing and defense.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wirewood Guardian"
@@ -4417,6 +5149,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7112
+        -- Old: Water Bubble Spirit
+        -- Old description: A happy water spirit creature that often floats with bubbles and can control water flow to fight.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spiketail Hatchling"
@@ -4429,6 +5163,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7113
+        -- Old: Tidal Wing
+        -- Old description: Water elves active on the coast have gliding-like fins and can fly across the sky with the help of waves. It is good at controlling water flow for high-speed impact, and has a lively personality.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Taskmaster"
@@ -4441,6 +5177,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7114
+        -- Old: Thunderfish
+        -- Old description: An electric fish with a bullet-like body, it swims extremely fast, and its electric fins can release high-voltage current. It is a strong fighter in underwater battles and often stuns its opponents with electric waves.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dream Fighter"
@@ -4453,6 +5191,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7115
+        -- Old: Fire Tailed Beast
+        -- Old description: A flame-type dragon beast with a continuously burning tail. It lives in volcanic areas. When it moves, it will leave a trail of fire marks on the ground. It can clear out enemies with its tail of fire.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pardic Swordsmith"
@@ -4465,6 +5205,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7116
+        -- Old: Fire Tiger
+        -- Old description: A small tiger spirit with a fiery mane. Although it is small in size, it has an extremely stubborn personality. It is good at close combat and often scares away enemies with heat waves.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Bogardan Firefiend"
@@ -4477,6 +5219,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7117
+        -- Old: Fire Winged Dragon
+        -- Old description: A flying dragon spirit surrounded by flames, its back and tail are burning. It is good at diving in flames in the air. It is one of the rulers of the fire attribute.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Carrion Feeder"
@@ -4489,6 +5233,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7118
+        -- Old: Spirit Squirrel
+        -- Old description: A small spiritual beast that is common in the forest. The leaves on its head can sense weather changes, and its tail stores seed energy. It is the closest partner to nature in the grass system.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gustcloak Runner"
@@ -4501,6 +5247,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7119
+        -- Old: Flamehorn Beast
+        -- Old description: A fire-based beast that lives in lava fields, with eternal flames burning on its horns. It is good at charging and spitting lava, and its attacks are both fast and destructive.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Goblin Patrol"
@@ -4513,6 +5261,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7120
+        -- Old: Lava Fang
+        -- Old description: A small fire-type dragon with scorching rock fangs hidden in the corner of its mouth. It has a powerful bite and the ability to melt rocks. It is a flame hunter in the cave.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rogue Kavu"
@@ -4525,6 +5275,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7201
+        -- Old: Green Leaf Essence
+        -- Old description: A plant elf whose whole body is wrapped in young leaves, it can absorb sunlight and quickly restore its physical strength. It moves lightly and is a healer deep in the forest.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Broodhatch Nantuko"
@@ -4537,6 +5289,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7202
+        -- Old: Winged Thunderworm
+        -- Old description: An insect spirit that can fly with electricity, its wings vibrate like thunder, has excellent maneuverability and lightning attacks, and is a lightning-quick hunter.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thalakos Dreamsower"
@@ -4549,6 +5303,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7203
+        -- Old: Flower Fairy
+        -- Old description: A fairy-type elf born among flowers, with an elegant figurine and the ability to heal pollen and hypnotize the language of flowers, she is a gentle guardian of nature.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crypt Rats"
@@ -4561,6 +5317,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7204
+        -- Old: Flower Wing Spirit
+        -- Old description: An agile elf that often flies in the sea of flowers. Its wings are as light as petals. It is good at confusing enemies and moving quickly. It is a representative of speed and charm.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spiny Starfish"
@@ -4573,6 +5331,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7205
+        -- Old: Hua Yunling
+        -- Old description: A flower elf who is born with fragrance. Her wings are as translucent as crystal. She can influence the emotions of others with the fragrance of flowers. She is the messenger of the melody of flowers.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Vodalian Hypnotist"
@@ -4585,6 +5345,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7206
+        -- Old: Blue Flame Spirit
+        -- Old description: A fire elf clad in blue flames with a cold personality. He is good at controlling high-temperature green flames. He is an expert in long-range firepower combat with precise shots.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hyperion Blacksmith"
@@ -4597,6 +5359,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7207
+        -- Old: Blue Bat Beast
+        -- Old description: A rare bat beast that lives in the Cold Crystal Cave. It has an ice crystal core on its chest. It can release cold air to freeze enemies and fly at high speeds with its wings.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Soulcatcher"
@@ -4609,6 +5373,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7208
+        -- Old: Teng Yueling
+        -- Old description: A small dragon-shaped elf covered in vines, active among the tree canopies. He moves quickly and is good at entangling enemies and resonating with nature in a fighting style.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Mulch"
@@ -4621,6 +5387,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7209
+        -- Old: Mushroom Spirit
+        -- Old description: Mushroom elves who look cute but have cunning personalities can secrete spores to disturb enemies. They often disguise themselves with cute appearances and are little traps in the forest.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Elves of Deep Shadow"
@@ -4633,6 +5401,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7210
+        -- Old: Papa crab
+        -- Old description: A naive amphibious elf with a hard back that can resist attacks. It moves slowly but has amazing defense. It likes to stay in warm streams.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Silver Erne"
@@ -4645,6 +5415,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7211
+        -- Old: Flash Bubble Fox
+        -- Old description: A little fox spirit full of electricity. Its tail stores electricity. It has a lively personality. It can control thunder and lightning to carry out quick attacks. It is a lightning-quick explorer.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Thunder Wall"
@@ -4657,6 +5429,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7212
+        -- Old: Amphibious Stone Spirit
+        -- Old description: Ice elves with crystal energy in their bodies live deep in mines. They are good at creating shields and reflecting energy, and are reliable partners for exploring the underground.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wonder"
@@ -4669,6 +5443,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7213
+        -- Old: Flash Fox
+        -- Old description: A vibrant fox elf, the flames on its tail and back will beat as it runs. Outgoing and curious, he is good at disrupting enemies with his flickering movements and is one of the most dexterous attackers in the fire system.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Warbreak Trumpeter"
@@ -4681,6 +5457,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7214
+        -- Old: Deer Leaf Beast
+        -- Old description: The grass-type deer lives deep in the forest. Its horn-like branch buds can sense the changes of the seasons, and the leaves on its surface can release healing power. It has a calm and quiet personality and is one of the spiritual beasts that protects the balance of the forest.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nimble Mongoose"
@@ -4693,6 +5471,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7301
+        -- Old: Prokaryotic sequence·Qimi
+        -- Old description: A mysterious artificial life form composed of blue and red energy flow, with the core number "01" engraved on its shoulder. Possessing extremely high data processing capabilities, he often leads actions with calmness and rationality, and also has the potential for independent evolution.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Doomsday Specter"
@@ -4705,6 +5485,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7302
+        -- Old: Ni Feng Girl Liyin
+        -- Old description: An alien agent from the electronic space, wearing a neon armor and having malfunction signals reflected in his eyes. The fighting style is sharp and fast, and he is good at digital cutting and information penetration. He is an awakener who resists the system.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Xira Arien"
@@ -4717,6 +5499,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7303
+        -- Old: Shadow Ember
+        -- Old description: A flaming dragon born from the lava abyss, its body is as black as iron rock, and its wings are burning with eternal fire. The roar can shatter mountains and is a symbol of destruction and rebirth.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Darigaaz, the Igniter"
@@ -4729,6 +5513,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7304
+        -- Old: Sugar Horse
+        -- Old description: This pony spirit animal lives in the Candy Valley. It has a mane as fluffy as sugar candies and a gentle personality. It is the favorite companion of children. Sugar energy stored in the body can resolve toxins and negative states.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Arrogant Wurm"
@@ -4741,6 +5527,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7305
+        -- Old: Bubble Chirp
+        -- Old description: The baby shark is full of bubble energy and has a cheerful personality, always making bubbles to express his emotions. It is the first choice elf for introductory trainers of the water system.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Chicken à la King"
@@ -4753,6 +5541,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7306
+        -- Old: Blazing Wolf Split
+        -- Old description: A strong and flexible werewolf warrior, he is good at combining fire and melee combat to carry out rapid and continuous attacks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Crosis, the Purger"
@@ -4765,6 +5555,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7307
+        -- Old: Frost Sky Wings
+        -- Old description: The ice dragon soars above the extremely cold clouds. Its body is condensed by crystal frost, and it can freeze everything when it flaps its wings. Calm and noble, he is often called the "King of the North".
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "B.F.M. (Big Furry Monster)"
@@ -4777,6 +5569,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7308
+        -- Old: Burning Shadow
+        -- Old description: A familiar born from ashes, it likes to sleep in hot places.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Molten Hydra"
@@ -4789,6 +5583,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7309
+        -- Old: Charming Moon Spirit
+        -- Old description: A mysterious spirit that appears under the moonlight, with a calm and charming personality. Good at using moon shadow magic.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rasputin Dreamweaver"
@@ -4801,6 +5597,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7310
+        -- Old: Star Jumping Monkey
+        -- Old description: An energetic monkey adventurer who always wears goggles and a backpack and dreams of exploring the universe. Possessing extremely high mobility and star energy control capabilities, he is a star player in speed-based combat.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Gorilla Shaman"
@@ -4813,6 +5611,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7311
+        -- Old: Rock Beast
+        -- Old description: An armored beast with a body that flows like lava. Its arms are heavy and powerful, and it is good at crushing rocks and enemy formations. The heart of the rock vein is always burning in his body, and he is the overlord deep in the mine.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Anavolver"
@@ -4825,6 +5625,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7312
+        -- Old: Jumping Girl Korra
+        -- Old description: A fighting girl whose weapons are heartbeat and rhythm, she releases explosive punches based on the rhythm. Full of energy and dexterity, he is the rhythm star who never tires in battle.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Canyon Drake"
@@ -4837,6 +5639,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7313
+        -- Old: Thunder Explosion Charge·Wei Ming
+        -- Old description: The electric light turns into a fist, and the lightning turns into an assault!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Squee, Goblin Nabob"
@@ -4849,6 +5653,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7314
+        -- Old: Pointed Crest Worm
+        -- Old description: 2025 Christmas Commemorative Edition
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Fallen Angel"
@@ -4861,6 +5667,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7315
+        -- Old: Gingerbread Frosting
+        -- Old description: can use magic to create cookies!
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Wall of Kelp"
@@ -4873,6 +5681,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7316
+        -- Old: Xue Lingling
+        -- Old description: With such a big kitchen knife, he must be a chef.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Zhao Zilong, Tiger General"
@@ -4885,6 +5695,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7317
+        -- Old: Haima Star
+        -- Old description: Many children like the stars that shine brightly on the bottom of the sea.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Argothian Enchantress"
@@ -4897,6 +5709,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7318
+        -- Old: Tuanlumon
+        -- Old description: Carrying a huge ball of hair on his back, he is good at sewing wool into various things using superb textile skills.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Asmira, Holy Avenger"
@@ -4909,6 +5723,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7319
+        -- Old: Zandalar Dragon
+        -- Old description: The god worshiped in the annual Zandalari festival is said to be able to protect the health of animals and children.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ichorid"
@@ -4921,6 +5737,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7401
+        -- Old: Bubble Fin Beast
+        -- Old description: The Bubblefin is a soft-bodied, jellyfish-like, slippery creature with a purple-blue body, a peculiar snail-shaped "horn" and an exaggerated single-eyed expression. Despite its funny appearance, Bubblefin is actually very intelligent and full of emotions, often using exaggerated movements to attract the attention of its companions.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Waterspout Djinn"
@@ -4933,6 +5751,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7402
+        -- Old: Runbo Whale
+        -- Old description: It looks like a combination of a whale and a seal, and often carries a green little friend in its belly. They live in warm shallow waters or coastal areas and feed on aquatic plants and plankton.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Killer Whale"
@@ -4945,6 +5765,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7403
+        -- Old: Genmiaoling
+        -- Old description: It likes to hide in the shadows of woods, using its curly roots to imitate other plants for camouflage. When frightened, it will jump up suddenly and use its roots to jump short distances.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Deranged Hermit"
@@ -4957,6 +5779,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7404
+        -- Old: Star Attack Beast
+        -- Old description: The meteor demon spirit among the celestial bodies, its tail drags a stream of stardust. The silence that can tear the night sky apart is the shadow that night watchers fear most.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Serendib Efreet"
@@ -4969,6 +5793,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7405
+        -- Old: Flame Shadow Demon
+        -- Old description: The flame ghost wrapped in red and blue flames has a strange figurine and has extremely strong defense-breaking and suppression capabilities.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "The Wretched"
@@ -4981,6 +5807,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7406
+        -- Old: Illusory Law Divine Envoy·Zhimiao
+        -- Old description: A musician in the ice and snow, his singing can control the movement of snowflakes.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Exalted Angel"
@@ -4993,6 +5821,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7407
+        -- Old: Hot-Blooded Style·Fire Sun
+        -- Old description: The immovable pillar of the student union, the fist represents justice
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ball Lightning"
@@ -5005,6 +5835,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7408
+        -- Old: Azlon
+        -- Old description: Two fists can defeat hundreds of hands
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Anurid Brushhopper"
@@ -5017,6 +5849,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7409
+        -- Old: Mommy Taming
+        -- Old description: A mysterious character who uses bandages to wrap around enemies
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Avatar of Woe"
@@ -5029,6 +5863,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7410
+        -- Old: Blade Scale Shark
+        -- Old description: Dragons with excellent physical fitness and super adaptability
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hammerhead Shark"
@@ -5041,6 +5877,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7411
+        -- Old: Dead Fin Whale
+        -- Old description: Its heavy body and thick skin make it the most solid creature in the ocean.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Denizen of the Deep"
@@ -5053,6 +5891,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7412
+        -- Old: Pointed Crest Worm
+        -- Old description: Wherever a hole can be dug, the terrain will be used to launch unexpected attacks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Venomous Dragonfly"
@@ -5065,6 +5905,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7413
+        -- Old: Shimmering Lion
+        -- Old description: A super creature that can control gravity and use gravity and repulsion to attack
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Pride of Lions"
@@ -5077,6 +5919,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7414
+        -- Old: Yunmengyao
+        -- Old description: A light goblin, it is said that it is difficult to hit it through physical attacks, because the air fluctuations caused by physical attacks will cause it to naturally dodge and avoid attacks.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rainbow Efreet"
@@ -5089,6 +5933,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 7415
+        -- Old: Millions of cats
+        -- Old description: A cat that attracts treasure, especially gold.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Spectral Lynx"
@@ -5101,6 +5947,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9001
+        -- Old: Ah Yinzi
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Palladia-Mors"
@@ -5113,6 +5961,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9002
+        -- Old: Eric
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Baron Sengir"
@@ -5125,6 +5975,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9003
+        -- Old: Lingxue
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Akroma, Angel of Wrath"
@@ -5137,6 +5989,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9004
+        -- Old: KF
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Hazezon Tamar"
@@ -5149,6 +6003,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9005
+        -- Old: wawa
+        -- Old description: Hyperactive challenger that likes to welcome a challenge
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rith, the Awakener"
@@ -5161,6 +6017,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9006
+        -- Old: Tobe
+        -- Old description: Cool, collected, and 10 steps ahead
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Kamahl, Fist of Krosa"
@@ -5173,6 +6031,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9007
+        -- Old: EXIA
+        -- Old description: the unknown traveler that will uncover secrets of the world
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Dakkon Blackblade"
@@ -5185,6 +6045,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9008
+        -- Old: YIMING
+        -- Old description: HaHAHa
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Arcanis the Omnipotent"
@@ -5197,6 +6059,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9060
+        -- Old: Killa
+        -- Old description: A partner from Russia.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Jeska, Warrior Adept"
@@ -5209,6 +6073,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9061
+        -- Old: An Jiang
+        -- Old description: A sweet-looking girl.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Phage the Untouchable"
@@ -5221,6 +6087,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9062
+        -- Old: Snow Maid
+        -- Old description: This maid is very cold.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Atalya, Samite Master"
@@ -5233,6 +6101,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9063
+        -- Old: Bunny girl
+        -- Old description: A pair of bunny ears is very sexy.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Treva, the Renewer"
@@ -5245,6 +6115,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9064
+        -- Old: Alice
+        -- Old description: She is a European and American girl who loves adventure.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Commander Greven il-Vec"
@@ -5257,6 +6129,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9065
+        -- Old: ANO
+        -- Old description: A sunny and handsome boy
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ertai, the Corrupted"
@@ -5269,6 +6143,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9066
+        -- Old: Longqi Princess
+        -- Old description: The girl was born from the dragon's nest and accompanied the golden dragon in the deep forest. From the little black box user——kkzzzz_
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Multani, Maro-Sorcerer"
@@ -5281,6 +6157,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9067
+        -- Old: Fool
+        -- Old description: An immature kitten, its body is bright white, with gorgeous golden lines on its body, and its eyes are like a touch of gold smeared in the ink. From the little black box——TIMI1502
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Johan"
@@ -5293,6 +6171,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9068
+        -- Old: ANT
+        -- Old description: ANT is ANO’s cousin and he looks very handsome.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Barrin, Master Wizard"
@@ -5305,6 +6185,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9069
+        -- Old: Sakura Girl
+        -- Old description: A beautiful JK girl from Japan with pink hair and a light fragrance.
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Balthor the Defiled"
@@ -5317,6 +6199,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9071
+        -- Old: Kaikai is here
+        -- Old description: Station B UP master-KF Kaifeng
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Volrath the Fallen"
@@ -5329,6 +6213,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9072
+        -- Old: Stewed goose in iron pot
+        -- Old description: B station UP master-Lingxue stays at home
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Tsabo Tavoc"
@@ -5341,6 +6227,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9073
+        -- Old: Sakacaicai
+        -- Old description: Station B UP master-Saka Caicai
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ascendant Evincar"
@@ -5353,6 +6241,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 9074
+        -- Old: Junior Leng Yang
+        -- Old description: Station B UP master - Junior Leng Yang
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Ramses Overdark"
@@ -5365,6 +6255,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 100001
+        -- Old: Rain God·Yi Lianjiaji
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Chromium"
@@ -5377,6 +6269,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 100002
+        -- Old: Luna Aragos
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Nicol Bolas"
@@ -5389,6 +6283,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 100003
+        -- Old: Fire God Lieluohuangne
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Rorix Bladewing"
@@ -5401,6 +6297,8 @@ local function ApplyGenMTG()
     end
     do
         local cardId = 100004
+        -- Old: Grass God·Made Flower Reiki
+        -- Old description:
         local D = GetExistingCardData(R, cardId)
         if D then
             D.Name = "Silvos, Rogue Elemental"

@@ -376,6 +376,17 @@ def lua_string(value):
     return f'"{value}"'
 
 
+def lua_comment(value):
+    value = "" if value is None else str(value)
+    value = " ".join(value.replace("\r", " ").replace("\n", " ").split())
+    return value.replace("--", "- -")
+
+
+def lua_comment_suffix(value):
+    value = lua_comment(value)
+    return f" {value}" if value else ""
+
+
 def parse_float(value, default=0.0):
     try:
         return float(value)
@@ -597,6 +608,8 @@ def lua_block(row, inventory_row, card, flavor_by_id):
     return "\n".join([
         "    do",
         f"        local cardId = {card_id}",
+        f"        -- Old:{lua_comment_suffix(inventory_row.get('Name', ''))}",
+        f"        -- Old description:{lua_comment_suffix(inventory_row.get('Description', ''))}",
         "        local D = GetExistingCardData(R, cardId)",
         "        if D then",
         f"            D.Name = {lua_string(row['mtg_name'])}",
