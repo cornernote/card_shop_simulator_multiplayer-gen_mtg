@@ -12,11 +12,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DOCS = ROOT / "docs"
 IMAGE_DIR = ROOT / "images" / "cards"
-SOURCE_DIR = ROOT / "assets" / "source"
 
 MAPPING_PATH = DOCS / "mapping-final.tsv"
 INVENTORY_PATH = DOCS / "current-card-inventory.tsv"
-SCRYFALL_CACHE = SOURCE_DIR / "scryfall-oldschool-premodern.json"
+SCRYFALL_CACHE = DOCS / "scryfall-oldschool-premodern.json"
 MAIN_LUA_PATH = ROOT / "main.lua"
 PREVIEW_PATH = ROOT / "preview.png"
 BUILD_SUMMARY_PATH = DOCS / "build-summary.md"
